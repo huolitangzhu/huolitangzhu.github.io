@@ -7,16 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-本页主要摘抄自[火力堂主的主播百科](https://yuba.douyu.com/group/anchorWiki/3022)
+## 简要介绍
+
+©️ 本页主要摘抄自[火力堂主的主播百科](https://yuba.douyu.com/group/anchorWiki/3022)
 
 英雄联盟主播，斗鱼房间号[241123](https://www.douyu.com/241123)，外号“赵老师”、“胖子”，被评为“斗鱼第一辅助”。反应机敏，擅长做节目效果。
 
 ## 主播属性
-------
 
 👶 生理参数
 
-:   性别：男 | 年龄 | 身高 | 体重 |
+:   性别：男 年龄 | 身高 | 体重 |
 
 
  ✉️ 特色弹幕
