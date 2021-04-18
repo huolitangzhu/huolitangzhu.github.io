@@ -17,8 +17,7 @@ redirect_from:
 > 👶 生理参数
 
 | 性别 | 年龄 | 身高 | 体重 |
-|:----:|:----:|:----:|:----:|
-| 男 | 34 | 176cm | 88kg |
+
 
 > ✉️ 特色弹幕
 
@@ -27,26 +26,23 @@ redirect_from:
 
 > 🎵 专属BGM
 
-[星屑ビーナス](https://music.163.com/#/song?id=476081899) 
+[星屑ビーナス](https://music.163.com/#/song?id=476081899) | [明日晴れるかな](https://music.163.com/#/song?id=26144177) |
+[爱情大魔咒](https://music.163.com/#/song?id=327687) | [我是真的爱上你](https://music.163.com/#/song?id=492151019)
 
+> 🍲 最爱美食
 
+[罗森](https://www.chinalawson.com.cn/) | [肉盒](https://baike.baidu.com/item/%E8%82%89%E7%9B%92) | 玉米🌽 | [杨国福](http://www.ygfchina.com/) |
+毛豆 | [钟薛高](https://www.zhongxuegao.com/home/index) 🍦
 
+> 📺 王牌节目
 
-> 最爱美食
+罗森守夜人 | 宾馆划水 | 另类CP | 疯狂怼水友
 
+> 🐷 直播风格
 
-
-> 王牌节目
-
-
-
-> 颜值打分
-
-
-
-> 直播风格
-
-
+混吃等死 | 艺术人生 | 喝酒脚烫
 
 水友评价
 ======
+
+
