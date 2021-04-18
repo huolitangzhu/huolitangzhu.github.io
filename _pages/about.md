@@ -1,13 +1,11 @@
 ---
 permalink: /
-title: ""
+title: "简要介绍"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-## 简要介绍
 
 英雄联盟主播，斗鱼房间号[241123](https://www.douyu.com/241123)，外号“赵老师”、“胖子”，被评为“斗鱼第一辅助”。反应机敏，擅长做节目效果。
 
