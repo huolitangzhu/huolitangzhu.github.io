@@ -19,7 +19,7 @@ author_profile: true
 | [4](https://www.bilibili.com/video/BV1CW411W7vu) | [5](https://www.bilibili.com/video/BV1CW411W7as) | [6](https://www.bilibili.com/video/BV1CW411W7Y5)
 | [7](https://www.bilibili.com/video/BV1CW411W7F9) | [8](https://www.bilibili.com/video/BV1kW411W7ah) |
 
-## <span id="head5"> 女嘉宾合辑</span>
+## <span id="head5"> 女嘉宾选辑</span>
 
 | 张曼希 | [头号甜心](https://yuba.douyu.com/p/490311571592487677) · [你是我穷极一生到不了的天堂](https://yuba.douyu.com/p/392852661591064413) 
 | 舒舒 | [爱的飞行日记](https://yuba.douyu.com/p/765192541611244940) |
