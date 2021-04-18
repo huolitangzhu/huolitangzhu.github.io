@@ -79,7 +79,7 @@
       text-decoration: underline;
 
       img {
-        box-shadow: 0 0 10px rgba(#000, 0.25);
+        box-shadow: 0 0 15px rgba(rgba(255, 255, 255, 0.9), 0.8);
       }
     }
   }
@@ -143,7 +143,7 @@
     .page__lead,
     .btn {
       color: #fff;
-      text-shadow: 1px 1px 4px rgba(#000, 0.5);
+      text-shadow: 1px 1px 4px rgba(rgb(255, 255, 255), 0.8);
     }
 
     .page__lead {
