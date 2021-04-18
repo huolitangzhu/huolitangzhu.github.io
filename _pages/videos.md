@@ -1,10 +1,10 @@
 ---
-title: ""
+title: "视频合辑"
 permalink: /videos/
 author_profile: true
 ---
 
-## <span id="head1"> 视频合辑</span>
+视频合辑
 
 ## <span id="head2"> 精选合辑</span>
 
