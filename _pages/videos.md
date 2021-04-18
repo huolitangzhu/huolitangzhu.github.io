@@ -1,6 +1,6 @@
 ---
 title: ""
-permalink: /videos.html
+permalink: /videos/
 author_profile: true
 ---
 
