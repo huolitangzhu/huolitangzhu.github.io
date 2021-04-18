@@ -19,10 +19,6 @@ author_profile: true
 
 ## 女嘉宾合辑
 
-### 张曼希
+| 张曼希 | [头号甜心](https://yuba.douyu.com/p/490311571592487677) · [你是我穷极一生到不了的天堂](https://yuba.douyu.com/p/392852661591064413) 
+| 舒舒 | [爱的飞行日记](https://yuba.douyu.com/p/765192541611244940) |
 
-| [头号甜心](https://yuba.douyu.com/p/490311571592487677) | [你是我穷极一生到不了的天堂](https://yuba.douyu.com/p/392852661591064413)
-
-### 舒舒
-
-| [爱的飞行日记](https://yuba.douyu.com/p/765192541611244940) |
