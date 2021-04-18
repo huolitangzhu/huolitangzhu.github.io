@@ -1,6 +1,6 @@
 ---
 title: "关于"
-permalink: /about_site/
+permalink: /issue/
 author_profile: true
 ---
 
