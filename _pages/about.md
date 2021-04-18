@@ -6,6 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 ## 简要介绍
 
 ©️ 本页主要摘抄自[火力堂主的主播百科](https://yuba.douyu.com/group/anchorWiki/3022)，有少量删改。
@@ -17,8 +18,16 @@ redirect_from:
 | 生理の参数 | `性别：男` · `年龄：34` · `身高：176cm` · `体重：88kg` |
 | 特色弹の幕 | `爱过` · `这闹得` · `立功了` · `狂` · `麻了` · `哎呦喂` · `歪日` |
 | 专属のBGM |`[星屑ビーナス](https://music.163.com/#/song?id=476081899)` · `[明日晴れるかな](https://music.163.com/#/song?id=26144177)` · `[爱情大魔咒](https://music.163.com/#/song?id=327687)` · `[我是真的爱上你](https://music.163.com/#/song?id=492151019)` |
-| 最爱の美食 | `[罗森](https://www.chinalawson.com.cn/)` · `[杨国福](http://www.ygfchina.com/)` · `[钟薛高](https://www.zhongxuegao.com/home/index)` · `[肉盒](https://baike.baidu.com/item/%E8%82%89%E7%9B%92)` · `玉米&毛豆` |
-| 王牌の节目 | `罗森守夜人` · `宾馆划水 · `另类CP` · `疯狂怼水友` |
+| 最爱の美食 | `罗森` · `杨国福` · `钟薛高` · `肉盒` · `玉米&毛豆` |
+| 王牌の节目 | `罗森守夜人` · `宾馆划水` · `另类CP` · `疯狂怼水友` |
+
+## 专属BGM
+
+Definition List Title
+:   [星屑ビーナス](https://music.163.com/#/song?id=476081899)
+:   Definition list division.
+:   Definition list division.
+:   Definition list division.
 
 ## 水友评价
 
