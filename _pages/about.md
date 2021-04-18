@@ -1,8 +1,6 @@
 ---
 permalink: /
-title: "主播百科"
-excerpt: "About me"
-author_profile: true
+title: ""
 redirect_from: 
   - /about/
   - /about.html
