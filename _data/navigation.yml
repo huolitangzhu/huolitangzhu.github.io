@@ -8,4 +8,7 @@ main:
     url: /videos/
 
   - title: "图片"
-    url: /photos/    
+    url: /photos/   
+    
+  - title: "关于"
+    url: /about/    
