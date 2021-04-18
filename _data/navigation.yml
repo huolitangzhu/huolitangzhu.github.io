@@ -1,10 +1,11 @@
 # main links links
 main:
+
+  - title: "大事记"
+    url: /news/
+
   - title: "视频"
     url: /videos/
 
   - title: "图片"
     url: /photos/    
-
-  - title: "大事记"
-    url: /news/
