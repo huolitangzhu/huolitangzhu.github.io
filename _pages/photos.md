@@ -1,6 +1,6 @@
 ---
 title: ""
-permalink: /photos.html
+permalink: /photos/
 author_profile: true
 ---
 
