@@ -14,37 +14,14 @@ redirect_from:
 
 ## 主播属性
 
+| 生理の参数 | `性别：男` · `年龄：34` · `身高：176cm` · `体重：88kg` |
+| 特色弹の幕 | `爱过` · `这闹得` · `立功了` · `狂` · `麻了` · `哎呦喂` · `歪日` |
+| 专属のBGM |`[星屑ビーナス](https://music.163.com/#/song?id=476081899)` · `[明日晴れるかな](https://music.163.com/#/song?id=26144177)` · `[爱情大魔咒](https://music.163.com/#/song?id=327687)` · `[我是真的爱上你](https://music.163.com/#/song?id=492151019)` |
+| 最爱の美食 | `[罗森](https://www.chinalawson.com.cn/)` · `[杨国福](http://www.ygfchina.com/)` · `[钟薛高](https://www.zhongxuegao.com/home/index)` · `[肉盒](https://baike.baidu.com/item/%E8%82%89%E7%9B%92)` · `玉米&毛豆` |
+| 王牌の节目 | `罗森守夜人` · `宾馆划水 · `另类CP` · `疯狂怼水友` |
 
-| 👶 生理参数 | `性别：男`；`年龄：34`；`身高：176cm`；`体重：88kg`                      |
-| ✉️ 特色弹幕 | `爱过` · `这闹得`·`立功了` `狂` `麻了` `哎呦喂` `歪日`                          |
-| [Jane Doe](#)    | 2019   | Description of the item in the list                          |
-| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
+## 水友评价
 
 
-
- ✉️ 特色弹幕
-
-:   `爱过` `这闹得` `立功了` `狂` `麻了` `哎呦喂` `歪日`
-
- 🎵 专属BGM
-
-:   [星屑ビーナス](https://music.163.com/#/song?id=476081899)；[明日晴れるかな](https://music.163.com/#/song?id=26144177)；
-[爱情大魔咒](https://music.163.com/#/song?id=327687)；[我是真的爱上你](https://music.163.com/#/song?id=492151019)
-
- 🍲 最爱美食
-
-:   [罗森](https://www.chinalawson.com.cn/)；[肉盒](https://baike.baidu.com/item/%E8%82%89%E7%9B%92)；玉米&毛豆；
-[杨国福](http://www.ygfchina.com/)；[钟薛高](https://www.zhongxuegao.com/home/index) 🍦
-
- 📺 王牌节目
-
-罗森守夜人；宾馆划水；另类CP；疯狂怼水友
-
- 🐷 直播风格
-
-混吃等死；艺术人生；喝酒脚烫
-
-水友评价
-======
 
 
