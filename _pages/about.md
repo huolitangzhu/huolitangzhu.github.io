@@ -27,8 +27,9 @@ redirect_from:
 
 > 🎵专属BGM
 
-[星屑](https://music.163.com/#/song?id=476081899) 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=476081899&auto=1&height=66"></iframe>
+[星屑ビーナス](https://music.163.com/#/song?id=476081899) <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=476081899&auto=1&height=66"></iframe>
+
+
 
 > 最爱美食
 
