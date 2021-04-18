@@ -1,10 +1,8 @@
 ---
 permalink: /news/
-title: ""
+title: "时间表"
 author_profile: true
 ---
-
-# 时间表
 
 - [ 2021年 ](#head1)
 	| [4月](#head2) | [3月](#head3) | [2月](#head4) | [1月](#head5) |
