@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "关于火力堂主"
+title: "主播百科"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-火力堂主，斗鱼房间号[241123](https://www.douyu.com/241123)，外号“赵老师”、“胖子”，被评为“斗鱼第一辅助”。脸皮厚，反应机敏，擅长做节目效果，憨憨行为众多。
+简要介绍
+======
+
+英雄联盟主播，斗鱼房间号[241123](https://www.douyu.com/241123)，外号“赵老师”、“胖子”，被评为“斗鱼第一辅助”。脸皮厚，反应机敏，擅长做节目效果，憨憨行为众多。
 
 主播属性
 ======
