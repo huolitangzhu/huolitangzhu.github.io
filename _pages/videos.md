@@ -4,31 +4,25 @@ permalink: /videos/
 author_profile: true
 ---
 
-- [花永神系列 by 花邪v](#head1)
-- [火力堂主和他的小伙伴们 by longer229](#head2)
-- [张曼希](#head3)
-- [舒舒](#head4)
+## 精选合辑
 
-### <span id="head1">花永神系列 by 花邪v</span>
+### 花永神系列 by 花邪v
 
-| [小卑微](https://yuba.douyu.com/p/320430661616861100) with Xx | 
-| [好妹妹图鉴2](https://yuba.douyu.com/p/946137141610386419) with 多人运动 | 
-| [好妹妹图鉴1](https://yuba.douyu.com/p/198854931586759899) with 多人运动 | 
-| [话剧《梦》](https://www.bilibili.com/video/BV1Eh411R7sd) with 张曼希 | 
-| [巨变](https://www.bilibili.com/video/BV1Lt4y1D734) | 
-| [你的妹妹小董](https://www.bilibili.com/video/BV1nZ4y1H7tV) with 小董 | 
+| [小卑微](https://yuba.douyu.com/p/320430661616861100) with Xx | [好妹妹图鉴2](https://yuba.douyu.com/p/946137141610386419) with 多人运动 | [好妹妹图鉴1](https://yuba.douyu.com/p/198854931586759899) with 多人运动 | 
+| [话剧《梦》](https://www.bilibili.com/video/BV1Eh411R7sd) with 张曼希 | [巨变](https://www.bilibili.com/video/BV1Lt4y1D734) | [你的妹妹小董](https://www.bilibili.com/video/BV1nZ4y1H7tV) with 小董 | 
 
-### <span id="head2">火力堂主和他的小伙伴们 by longer229</span>
+### 火力堂主和他的小伙伴们系列 by longer229
 
 | [1](https://www.bilibili.com/video/BV1bW411W7nX) | [2](https://www.bilibili.com/video/BV1bW411W7ni) | [3](https://www.bilibili.com/video/BV1CW411W7eR)
 | [4](https://www.bilibili.com/video/BV1CW411W7vu) | [5](https://www.bilibili.com/video/BV1CW411W7as) | [6](https://www.bilibili.com/video/BV1CW411W7Y5)
 | [7](https://www.bilibili.com/video/BV1CW411W7F9) | [8](https://www.bilibili.com/video/BV1kW411W7ah) |
 
-### <span id="head3">张曼希</span>
+## 女嘉宾合辑
 
-* [头号甜心](https://yuba.douyu.com/p/490311571592487677) 
-* [你是我穷极一生到不了的天堂](https://yuba.douyu.com/p/392852661591064413)
+### 张曼希
 
-### <span id="head4">舒舒</span>
+| [头号甜心](https://yuba.douyu.com/p/490311571592487677) | [你是我穷极一生到不了的天堂](https://yuba.douyu.com/p/392852661591064413)
 
-* [爱的飞行日记](https://yuba.douyu.com/p/765192541611244940)
+### 舒舒
+
+| [爱的飞行日记](https://yuba.douyu.com/p/765192541611244940) |
