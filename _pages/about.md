@@ -15,21 +15,21 @@ redirect_from:
 
 ## 主播属性
 
-| 生理の参数 | `性别：男` · `年龄：34` · `身高：176cm` · `体重：88kg` |
+* | 生理の参数 | `性别：男` · `年龄：34` · `身高：176cm` · `体重：88kg` |
 | 特色弹の幕 | `爱过` · `这闹得` · `立功了` · `狂` · `麻了` · `哎呦喂` · `歪日` |
-| 专属のBGM |`[星屑ビーナス](https://music.163.com/#/song?id=476081899)` · `[明日晴れるかな](https://music.163.com/#/song?id=26144177)` · `[爱情大魔咒](https://music.163.com/#/song?id=327687)` · `[我是真的爱上你](https://music.163.com/#/song?id=492151019)` |
 | 最爱の美食 | `罗森` · `杨国福` · `钟薛高` · `肉盒` · `玉米&毛豆` |
 | 王牌の节目 | `罗森守夜人` · `宾馆划水` · `另类CP` · `疯狂怼水友` |
 
 ## 专属BGM
 
-Definition List Title
-:   [星屑ビーナス](https://music.163.com/#/song?id=476081899)
-:   Definition list division.
-:   Definition list division.
-:   Definition list division.
+* [星屑ビーナス](https://music.163.com/#/song?id=476081899)
+* [明日晴れるかな](https://music.163.com/#/song?id=26144177)
+* [爱情大魔咒](https://music.163.com/#/song?id=327687)
+* [我是真的爱上你](https://music.163.com/#/song?id=492151019)
 
 ## 水友评价
+
+
 
 
 
