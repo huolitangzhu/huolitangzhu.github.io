@@ -18,7 +18,7 @@ author_profile: true
 		| [7月](#head201707) ~~带领~~Team干制霸CYYC	
 	- [ 2016年 ](#head2016)
 		| [7月](#head201607) ~~带领~~Team干制霸CYYC | [1月](#head201601) 赞助CYYC山东赛
-	
+		
 - 直播前
 
 	- [ 2015年 ](#head2015)
@@ -70,7 +70,7 @@ author_profile: true
 
 ### <span id="head202005"> 5月</span>
 
-* [重庆] 户外之喜提X3
+* [重庆] 户外之喜提X3 [喜提BMW](/images/X3.jpg)
 
 ## <span id="head2019"> 2019年 </span>
 
@@ -82,7 +82,7 @@ author_profile: true
 
 ### <span id="head201808"> 8月</span>
 
-* [上海] 直播并赞助[世界悠悠球大赛](http://wyyc2018.auldey.com/details/id/618.html) [Team干合影](/images/2018WYYC.jpg)
+* [上海] 直播并赞助[世界悠悠球大赛](http://wyyc2018.auldey.com/details/id/618.html) 
 
 ## <span id="head2017"> 2017年 </span>
 
