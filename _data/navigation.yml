@@ -6,9 +6,6 @@ main:
 
   - title: "视频"
     url: /videos/
-
-  - title: "图片"
-    url: /photos/   
     
   - title: "关于"
     url: /issue/    
