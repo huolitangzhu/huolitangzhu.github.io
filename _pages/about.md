@@ -33,9 +33,4 @@ redirect_from:
 
 ## 防冲说明
 
-本页主要摘抄自©️[火力堂主的主播百科](https://yuba.douyu.com/group/anchorWiki/3022)，有删改。若有冒犯，弹幕对线。
-
-## 访客分析
-
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=2d78ad&w=516&t=tt&d=8wI_4ryryfVbB3hHqobTSlDt2VmKs_d-EwWvGFA3BN0&co=ffffff&ct=000000'></script>
-
+本页主要摘抄自©️斗鱼[火力堂主的主播百科](https://yuba.douyu.com/group/anchorWiki/3022)，有删改。若有冒犯，弹幕对线。
