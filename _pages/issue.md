@@ -14,7 +14,7 @@ author_profile: true
 
 ### 建站方案
 
-基于[Jekyll](http://jekyllrb.com/)的[Mininal Mistakes](https://mademistakes.com/work/minimal-mistakes-jekyll-theme/)主题并部署于[Github Pages](https://pages.github.com/)的由水友（本人）创立并进行维护的静态博客站点，除站长外无人可更改本站内容，亦不会开放留言区等交互式功能，保持内容可控制性。
+由站长本人（堂主水友）创立并进行维护的基于[Jekyll](http://jekyllrb.com/)的[Mininal Mistakes](https://mademistakes.com/work/minimal-mistakes-jekyll-theme/)主题并部署于[Github Pages](https://pages.github.com/)的静态博客站点，除站长外无人可更改本站内容，亦不会开放留言区等交互式功能，保持内容可控制性。
 
 由于托管于境外服务器GitHub，在大陆部分地区可能会访问不便，但是堂主本人测试没问题，故不考虑迁移（赞助除外）。
 
@@ -26,5 +26,5 @@ author_profile: true
 
 ### 更新记录
 
-* 2021/04/19 网站提交到Google和Bing搜索，完善了版权说明及悠悠球相关的内容
+* 2021/04/19 网站提交到Google和Bing搜索，完善了版权说明
 * 2021/04/18 建站并被主播直播处刑
