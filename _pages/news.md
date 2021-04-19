@@ -17,7 +17,7 @@ author_profile: true
 	- [ 2017年 ](#head2017)
 		| [7月](#head201707) ~~带领~~Team干制霸CYYC	
 	- [ 2016年 ](#head2016)
-		| [7月](#head201607) ~~带领~~Team干制霸CYYC
+		| [7月](#head201607) ~~带领~~Team干制霸CYYC | [1月](#head201601) 赞助CYYC山东赛
 	
 - 直播前
 
@@ -95,6 +95,10 @@ author_profile: true
 
 * [广州] ~~带领~~Team干制霸CYYC [[合影]](/images/2016CYYC.jpg) [[聚餐]](/images/Team干2016.jpg)
 
+### <span id="head201601"> 1月</span>
+
+* [青岛] 赞助CYYC山东赛 [[海报]](/images/2016山东赛.jpg) 
+
 ## <span id="head2015"> 2015年 </span>
 
 ### <span id="head201512"> 12月</span>
@@ -120,7 +124,7 @@ author_profile: true
 
 ### <span id="head201501"> 1月</span>
 
-* [山东] Team干成立 [[合影]](/images/Team干成立.jpg)
+* [山东] Team干成立 [[合影]](/images/Team干成立.jpg) [[海报]](/images/Team干海报.jpg)
 
 ## <span id="head2014"> 2014年 </span>
 
