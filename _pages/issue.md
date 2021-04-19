@@ -26,4 +26,4 @@ author_profile: true
 
 ### 广告位1
 
-### 致谢1
+### 致谢位1
