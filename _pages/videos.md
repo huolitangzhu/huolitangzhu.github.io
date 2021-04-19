@@ -22,4 +22,4 @@ author_profile: true
 
 ### 悠悠球合辑
 
-| [在布达拉宫](https://yuba.douyu.com/p/107953551566399070) | [比赛剪辑](https://yuba.douyu.com/p/627815321546306635) | [火力少年王剪辑](https://yuba.douyu.com/p/188426961586233263) | 
+| [在布达拉宫](https://yuba.douyu.com/p/107953551566399070) | [某次表演](https://yuba.douyu.com/p/627815321546306635) | [视频剪辑](https://yuba.douyu.com/p/188426961586233263) | 
