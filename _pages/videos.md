@@ -23,4 +23,4 @@ author_profile: true
 ### 悠悠球合辑 
 
 | [2020年在布达拉宫](https://yuba.douyu.com/p/107953551566399070) | [2010年火力总动员表演](https://yuba.douyu.com/p/627815321546306635) 
-| [多段视频剪辑](https://yuba.douyu.com/p/188426961586233263) | 2015年火力少年王电视争霸赛 [腾讯视频完整版](https://v.qq.com/detail/w/wxe7z4egf3v24t9.html) · [总决赛央视版](http://tv.cctv.com/2015/06/18/VIDE1434623763859661.shtml) |
+| [水友视频剪辑](https://yuba.douyu.com/p/188426961586233263) | 2015年火力少年王电视争霸赛 [腾讯视频完整版](https://v.qq.com/detail/w/wxe7z4egf3v24t9.html) · [总决赛央视版](http://tv.cctv.com/2015/06/18/VIDE1434623763859661.shtml) | [奥飞优酷频道](http://i.youku.com/i/UMTY0NjcyNTI3Mg==/videos?q=%E5%A0%82%E4%B8%BB) |
