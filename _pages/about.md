@@ -29,8 +29,7 @@ redirect_from:
 
 ## 养猪赞助
 
-* 主播终身赞助：兰氏牛肉酱 [[主播推荐]](https://yuba.douyu.com/p/569135721613732485) [[大哥推荐1]](https://yuba.douyu.com/p/555766741613714957) [[大哥推荐2]](https://yuba.douyu.com/p/240578211613731346)
-* 本站赞助：广告位招租
+* 主播终身赞助：兰氏牛肉酱 [[主播推荐]](https://yuba.douyu.com/p/569135721613732485) [[大哥推荐1]](https://yuba.douyu.com/p/555766741613714957) [[大哥推荐2]](https://yuba.douyu.com/p/240578211613731346) · 赵家制鞋（底）厂
 
 ## 防冲说明
 
@@ -38,5 +37,5 @@ redirect_from:
 
 ## 访客分析
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=2d78ad&w=300&t=tt&d=8wI_4ryryfVbB3hHqobTSlDt2VmKs_d-EwWvGFA3BN0&co=ffffff&ct=000000'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=2d78ad&w=557&t=tt&d=8wI_4ryryfVbB3hHqobTSlDt2VmKs_d-EwWvGFA3BN0&co=ffffff&ct=000000'></script>
 
