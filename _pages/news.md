@@ -89,7 +89,7 @@ author_profile: true
 
 ### <span id="201502"> 2月</span>
 
-* [某地] 张子枫助理（五天）[[合影]](https://upload.cc/i1/2021/04/19/av0O8w.jpg)
+* [上海] 张子枫助理（五天）[[合影]](https://upload.cc/i1/2021/04/19/av0O8w.jpg)
 
 ## <span id="head2014"> 2014年 </span>
 
