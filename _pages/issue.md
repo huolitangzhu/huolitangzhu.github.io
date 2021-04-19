@@ -6,7 +6,9 @@ author_profile: true
 
 ## 关于版权
 
-皆来自网络整理，由赵鹏本人和音视频内容创作者版权所有。有侵权行为可在[鱼吧帖子](https://yuba.douyu.com/p/662672311618762977)进行反应，会进行删除操作。
+本站采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议</a>进行许可。<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a><br />
+
+本站内容皆来自网络整理并提供出处，由赵鹏本人和音视频内容创作者版权所有。有侵权行为可在[鱼吧帖子](https://yuba.douyu.com/p/662672311618762977)进行反应，会进行删除操作。
 
 ## 关于本站
 
