@@ -16,7 +16,7 @@ author_profile: true
 
 由站长本人（堂主水友）创立并进行维护的基于[Jekyll](http://jekyllrb.com/)的[Mininal Mistakes](https://mademistakes.com/work/minimal-mistakes-jekyll-theme/)主题并部署于[Github Pages](https://pages.github.com/)的静态博客站点，除站长外无人可更改本站内容，亦不会开放留言区等交互式功能，保持内容可控制性。
 
-由于托管于境外服务器GitHub，在大陆部分地区可能会访问不便，但是堂主本人测试没问题，故不考虑迁移（赞助除外）。
+由于托管于境外服务器GitHub，在大陆部分地区可能会访问不便，但是堂主本人访问没问题，故不考虑迁移（赞助除外）。
 
 ### 关于赞助
 
