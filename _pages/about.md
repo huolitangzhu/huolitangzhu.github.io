@@ -29,7 +29,7 @@ redirect_from:
 
 ## 养猪赞助
 
-* 主播终身赞助：兰氏牛肉酱 [主播推荐1](https://yuba.douyu.com/p/569135721613732485) [大哥推荐1](https://yuba.douyu.com/p/555766741613714957) [大哥推荐2](https://yuba.douyu.com/p/240578211613731346)
+* 主播终身赞助：兰氏牛肉酱 [[主播推荐]](https://yuba.douyu.com/p/569135721613732485) [[大哥推荐1]](https://yuba.douyu.com/p/555766741613714957) [[大哥推荐2]](https://yuba.douyu.com/p/240578211613731346)
 * 本站赞助：广告位招租
 
 ## 防冲说明
