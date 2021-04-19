@@ -38,4 +38,4 @@ redirect_from:
 
 ## 访客分析
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=0b4197&w=a&t=n&d=8wI_4ryryfVbB3hHqobTSlDt2VmKs_d-EwWvGFA3BN0&co=ffffff&ct=000000'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=2d78ad&w=a&t=tt&d=8wI_4ryryfVbB3hHqobTSlDt2VmKs_d-EwWvGFA3BN0&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=000000'></script>
