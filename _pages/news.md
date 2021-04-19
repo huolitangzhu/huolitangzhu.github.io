@@ -37,7 +37,7 @@ author_profile: true
 ### <span id="head202103"> 3月</span>
 
 * [郑州] 和[Xx](https://www.douyu.com/1402692)参加《龟兔赛跑》之摸腿成功
-* [南京] 和[远洋](https://www.douyu.com/37)，[兮酱](https://www.douyu.com/1347617)户外之进货LV背包
+* [南京] 和[远洋](https://www.douyu.com/37)，[兮酱](https://www.douyu.com/1347617)户外之LV进货
 * [洛阳] 和[小董](https://www.douyu.com/11118)户外之榜三空降
 
 ### <span id="head202102"> 2月</span>
@@ -70,7 +70,7 @@ author_profile: true
 
 ### <span id="head202005"> 5月</span>
 
-* [重庆] 户外之喜提X3 [喜提BMW](/images/X3.jpg)
+* [重庆] 户外之喜提X3 [[喜提BMW]](/images/X3.jpg)
 
 ## <span id="head2019"> 2019年 </span>
 
@@ -134,7 +134,7 @@ author_profile: true
 
 ### <span id="head201407"> 7月</span>
 
-* [广州] 参加CYYC，合影四届悠悠球世界冠军铃木裕之 [[合影]](/images/铃木裕之.jpg) [[铃木裕之2012世界赛夺冠视频]](https://www.bilibili.com/video/BV1js411X7Bn)
+* [广州] 参加CYYC，合影四届悠悠球世界冠军铃木裕之（Living Legend） [[合影]](/images/铃木裕之.jpg) 
 
 ## <span id="head2009"> 2009年 </span>
 
