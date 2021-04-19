@@ -74,7 +74,7 @@ author_profile: true
 
 ### <span id="201510"> 10月</span>
 
-* [机场] 被谢霆锋[合影](https://upload.cc/i1/2021/04/19/oMz70b.jpg)
+* [机场] 被谢霆锋[合影](https://upload.cc/i1/2021/04/19/GLxtvl.jpg)
 
 ### <span id="201506"> 6月</span>
 
@@ -83,7 +83,7 @@ author_profile: true
 
 ### <span id="201502"> 2月</span>
 
-* [某地] 张子枫助理（五天）[[合影]](https://upload.cc/i1/2021/04/19/Gn5IyD.jpg)
+* [某地] 张子枫助理（五天）[[合影]](https://upload.cc/i1/2021/04/19/av0O8w.jpg)
 
 ## <span id="head2014"> 2014年 </span>
 
