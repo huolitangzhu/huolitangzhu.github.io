@@ -10,7 +10,8 @@ author_profile: true
 
 ## 关于赞助
 
-欢迎赞助（如果有的话只接受比特币形式）以购买其他独立域名，虽然不觉得有。可提供广告位。
+欢迎赞助（如果有的话只接受比特币形式[[My BTC wallet code]](https://ftp.bmp.ovh/imgs/2021/04/c71dc4bb0bb07950.png){:target="_blank"})）
+以购买其他独立域名，虽然不觉得有。可提供广告位。
 
 ## 关于本站
 
