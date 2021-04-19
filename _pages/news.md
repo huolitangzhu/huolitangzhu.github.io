@@ -14,6 +14,8 @@ author_profile: true
 	| 参加央视《黄金一百秒》
 - [ 2018年 ](#head2018)
 	| 唯一官方直播当年世界悠悠球大赛
+- [ 2016年 ](#head2016)
+	| ~~带领~~Team干制霸CYYC
 	
 直播前
 
@@ -75,6 +77,10 @@ author_profile: true
 ## <span id="head2018"> 2018年 </span>
 
 * [上海] 直播并赞助[世界悠悠球大赛](http://wyyc2018.auldey.com/details/id/618.html)
+
+## <span id="head2016"> 2016年 </span>
+
+* [广州] ~~带领~~Team干制霸CYYC [[合影]](/images/2016CYYC.jpg)
 
 ## <span id="head2015"> 2015年 </span>
 
