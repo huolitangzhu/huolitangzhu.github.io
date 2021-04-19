@@ -16,7 +16,13 @@ author_profile: true
 直播前
 
 - [ 2015年 ](#head2015)
-	| [10月](#head201510) | [6月](#head201506) |
+	| [10月](#head201510)机场合影谢霆锋 | [6月](#head201506)第二次参加《天天向上》 | [2月](#head201502) 担任张子枫助理五天
+- [ 2014年 ](#head2014)
+	| 参加卡酷少儿电视台节目
+- [ 2009年 ](#head2014)
+	| 第一次参加《天天向上》	
+- [ 2006年 ](#head2006)
+	| 参加《快乐大本营》并与谢娜关系开始恶化	 
 - [ 1901年 ](#head1901)
 	| 洛阳赵家助力太后西狩归京 
 
@@ -68,11 +74,28 @@ author_profile: true
 
 ### <span id="201510"> 10月</span>
 
-* [机场] 被谢霆锋合影 [图](https://sm.ms/image/mBrjxJd3Oe6VtFo)
+* [机场] 被谢霆锋[合影](https://upload.cc/i1/2021/04/19/oMz70b.jpg)
 
 ### <span id="201506"> 6月</span>
 
-* [北京] 主持[火力少年王电视争霸赛](https://huolitangzhu.github.io/videos/)
+* [长沙] 第二次参加《天天向上》节目
+* [北京] 主持[火力少年王电视争霸赛](https://huolitangzhu.github.io/videos/)央视播出
+
+### <span id="201502"> 2月</span>
+
+* [某地] 张子枫助理（五天）[[合影]](https://upload.cc/i1/2021/04/19/Gn5IyD.jpg)
+
+## <span id="head2014"> 2014年 </span>
+
+* [北京] 参加卡酷少儿电视台节目 [[模仿发哥]](https://upload.cc/i1/2021/04/19/xePVJY.jpg)
+
+## <span id="head2009"> 2009年 </span>
+
+* [长沙] 参加《天天向上》节目
+
+## <span id="head2006"> 2006年 </span>
+
+* [长沙] 参加《快乐大本营》节目并与谢娜关系开始恶化
 
 ## <span id="head1901"> 1901年 </span>
 
