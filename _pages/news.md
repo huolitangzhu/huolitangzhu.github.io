@@ -14,7 +14,7 @@ author_profile: true
 直播前
 
 - [ 2015年 ](#head2015)
-	| CCTV主持火力少年王电视争霸赛 |
+	| CCTV播出节目主持人 |
 
 ## <span id="head2021"> 2021年 </span>
 
