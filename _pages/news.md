@@ -16,7 +16,7 @@ author_profile: true
 直播前
 
 - [ 2015年 ](#head2015)
-	| CCTV播出节目主持人
+	| [10月](#head201510) | [6月](#head201506) |
 - [ 1901年 ](#head1901)
 	| 洛阳赵家助力太后西狩归京 
 
@@ -65,6 +65,12 @@ author_profile: true
 * [上海] 直播并赞助[世界悠悠球大赛](http://wyyc2018.auldey.com/details/id/618.html)
 
 ## <span id="head2015"> 2015年 </span>
+
+### <span id="201510"> 10月</span>
+
+* [机场] 被谢霆锋合影 [图](https://sm.ms/image/mBrjxJd3Oe6VtFo)
+
+### <span id="201506"> 6月</span>
 
 * [北京] 主持[火力少年王电视争霸赛](https://huolitangzhu.github.io/videos/)
 
