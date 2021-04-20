@@ -27,10 +27,8 @@ redirect_from:
 
 * `伐木累一哥` · `前华府一哥` · `户外之光` · `洛阳彭于偃` · `德艺双馨` · `最佳辅助` 
 
-## 养猪赞助
-
-* 主播终身赞助：兰氏牛肉酱 · 赵家制鞋（底）厂
-
 ## 防冲说明
 
 本页主要摘抄自©️斗鱼[火力堂主的主播百科](https://yuba.douyu.com/group/anchorWiki/3022)，有删改。若有冒犯，弹幕对线。
+
+## [赞助本站](https://huolitangzhu.github.io/issue/)
