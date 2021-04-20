@@ -15,7 +15,7 @@ author_profile: true
 
 ### 女嘉宾选辑
 
-| 张曼希 | [头号甜心](https://yuba.douyu.com/p/490311571592487677) · [你是我穷极一生到不了的天堂](https://yuba.douyu.com/p/392852661591064413) 
+| 张曼希 | [你是我穷极一生到不了的天堂](https://yuba.douyu.com/p/392852661591064413) 
 | 舒舒 | [爱的飞行日记](https://yuba.douyu.com/p/765192541611244940) |
 
 ### 火力堂主和他的小伙伴们系列 by longer229
@@ -23,6 +23,10 @@ author_profile: true
 | [1](https://www.bilibili.com/video/BV1bW411W7nX) | [2](https://www.bilibili.com/video/BV1bW411W7ni) | [3](https://www.bilibili.com/video/BV1CW411W7eR)
 | [4](https://www.bilibili.com/video/BV1CW411W7vu) | [5](https://www.bilibili.com/video/BV1CW411W7as) | [6](https://www.bilibili.com/video/BV1CW411W7Y5)
 | [7](https://www.bilibili.com/video/BV1CW411W7F9) | [8](https://www.bilibili.com/video/BV1kW411W7ah) |
+
+### 北影作品
+
+| [校园栏目剧《青春魔方》之《爱情麻辣烫》](https://v.youku.com/v_show/id_XMTUyMTgzNDg4.html) |
 
 ### 悠悠球合辑 
 
