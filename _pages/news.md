@@ -114,7 +114,7 @@ author_profile: true
 
 ### <span id="head201510"> 10月</span>
 
-* [机场] 偶遇谢霆锋 [[合影]](/images/谢霆锋.jpg)
+* [香港] 机场偶遇谢霆锋 [[合影]](/images/谢霆锋.jpg)
 
 ### <span id="head201507"> 7月</span>
 
