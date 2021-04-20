@@ -90,7 +90,8 @@ author_profile: true
 
 ### <span id="head201707"> 7月</span>
 
-* [广州] ~~带领~~Team干制霸CYYC [[合影]](/images/2017CYYC.jpg) 
+* [广州] ~~带领~~Team干制霸CYYC [[合影]](/images/2017CYYC.jpg) [[直播录像]](https://huolitangzhu.github.io/videos/)
+
 ## <span id="head2016"> 2016年 </span>
 
 ### <span id="head201607"> 7月</span>
