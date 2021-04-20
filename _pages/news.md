@@ -42,7 +42,7 @@ author_profile: true
 
 ### <span id="head202103"> 3月</span>
 
-* [郑州] 和[Xx](https://www.douyu.com/1402692)参加《龟兔赛跑》之摸腿成功
+* [郑州] 和[XX](https://www.douyu.com/1402692)参加《龟兔赛跑》之摸腿成功
 * [南京] 和[远洋](https://www.douyu.com/37)，[兮酱](https://www.douyu.com/1347617)户外之LV进货
 * [洛阳] 和[小董](https://www.douyu.com/11118)户外之榜三空降
 
