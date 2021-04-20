@@ -48,7 +48,7 @@ author_profile: true
 
 ### <span id="head202102"> 2月</span>
 
-* [偃师] 和兰总轮椅之牛肉酱“外交”
+* [偃师] 和兰总轮椅之牛肉酱“外交” [[主播推荐]](https://yuba.douyu.com/p/569135721613732485) · [[大哥推荐1]](https://yuba.douyu.com/p/555766741613714957) · [[大哥推荐2]](https://yuba.douyu.com/p/240578211613731346)
 
 ### <span id="head202101"> 1月</span>
 
@@ -63,7 +63,7 @@ author_profile: true
 
 ### <span id="head202009"> 9月</span>
 
-* [西安] 和[十七](https://www.douyu.com/792252)户外之意外得女
+* [西安] 和[十七](https://www.douyu.com/792252)户外之天降女儿
 
 ### <span id="head202008"> 8月</span>
 
@@ -72,7 +72,7 @@ author_profile: true
 
 ### <span id="head202007"> 7月</span>
 
-* [西藏] 户外之巨变开始
+* [西藏] 户外之巨变开始 [[宣传片]](https://huolitangzhu.github.io/videos/)
 
 ### <span id="head202005"> 5月</span>
 
