@@ -118,7 +118,7 @@ author_profile: true
 
 ### <span id="head201506"> 6月</span>
 
-* [长沙] 第二次参加《天天向上》节目
+* [长沙] 第二次参加《天天向上》节目，教武艺玩悠悠球
 * [北京] 主持[火力少年王电视争霸赛](https://huolitangzhu.github.io/videos/)央视播出
 
 ### <span id="head201502"> 2月</span>
