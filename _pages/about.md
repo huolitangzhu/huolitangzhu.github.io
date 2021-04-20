@@ -32,3 +32,7 @@ redirect_from:
 本页主要摘抄自©️斗鱼[火力堂主的主播百科](https://yuba.douyu.com/group/anchorWiki/3022)，有删改。若有冒犯，弹幕对线。
 
 ## [赞助本站](https://huolitangzhu.github.io/donate/)
+
+### 虚空广告位1
+
+### 虚空致谢位1 
