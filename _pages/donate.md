@@ -4,7 +4,9 @@ permalink: /donate/
 author_profile: true
 ---
 
-网站维护不易，请伸援助之手。欢迎广告性质或非广告性质的赞助[[支付宝收款码](/images/zfb.jpg) · [微信收款码](/images/wechatpay.jpg)]，虽然不觉得有。
+网站维护不易，请伸援助之手。
+
+欢迎广告性质或非广告性质的赞助[[支付宝收款码](/images/zfb.jpg) · [微信收款码](/images/wechatpay.jpg)]，虽然不觉得有。
 
 - 广告位需要堂主同意，收入会购买其他独立域名或云服务以提高大陆地区可访问性。
 - 非广告位会在首页进行个人性质致谢，收入会通过联合国儿童基金会[unicef](https://www.unicef.org/)进行捐赠，和主播一起参与慈善正能量活动。
