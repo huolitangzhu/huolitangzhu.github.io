@@ -39,4 +39,4 @@ redirect_from:
 
 ## 访客统计
 
-<a href='https://clustrmaps.com/site/1bhdu'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=2d78ad&w=500&t=tt&d=8wI_4ryryfVbB3hHqobTSlDt2VmKs_d-EwWvGFA3BN0&co=ffffff&ct=000000'/></a>
+<a href='https://clustrmaps.com/site/1bhdu'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=2d78ad&w=550&t=tt&d=8wI_4ryryfVbB3hHqobTSlDt2VmKs_d-EwWvGFA3BN0&co=ffffff&ct=000000'/></a>
