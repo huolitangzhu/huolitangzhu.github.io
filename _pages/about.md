@@ -36,3 +36,7 @@ redirect_from:
 ### 虚空广告位1
 
 ### 虚空致谢位1 
+
+## 访客统计
+
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=2d78ad&w=520&t=tt&d=8wI_4ryryfVbB3hHqobTSlDt2VmKs_d-EwWvGFA3BN0&co=ffffff&ct=000000'></script>
