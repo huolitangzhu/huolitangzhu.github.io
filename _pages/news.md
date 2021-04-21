@@ -38,6 +38,7 @@ author_profile: true
 
 ### <span id="head202104"> 4月</span>
 
+* [洛阳] 轮椅之年度减肥（节目效果）
 * [北京] 户外之重回旧地
 
 ### <span id="head202103"> 3月</span>
