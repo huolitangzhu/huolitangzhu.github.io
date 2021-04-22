@@ -142,7 +142,7 @@ author_profile: true
 
 ### <span id="head201407"> 7月</span>
 
-* [广州] 参加CYYC，合影四届悠悠球世界冠军铃木裕之（Living Legend） [[合影]](/images/铃木裕之.jpg) 
+* [广州] 参加CYYC，合影四届悠悠球世界冠军铃木裕之（Hiroyuki Suzuki） [[合影]](/images/铃木裕之.jpg) 
 
 ## <span id="head2009"> 2009年 </span>
 
@@ -150,7 +150,7 @@ author_profile: true
 
 ## <span id="head2008"> 2008年 </span>
 
-* [北影] 参演校园栏目剧《青春魔方》之[《爱情麻辣烫》](https://huolitangzhu.github.io/videos/)
+* [北影] 参演校园栏目剧《青春魔方》之[《爱情麻辣烫》](https://huolitangzhu.github.io/videos/)，饰演‘三儿’
 
 ## <span id="head2006"> 2006年 </span>
 
