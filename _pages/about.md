@@ -33,7 +33,7 @@ redirect_from:
 
 ## [赞助本站](https://huolitangzhu.github.io/donate/)
 
-### 暂定广告位1：我火力堂主要减肥了 [from 堂主哥哥]
+### 暂定广告位1：我火力堂主要减肥了 [堂主哥哥提议]
 
 ### 虚空致谢位1 
 
