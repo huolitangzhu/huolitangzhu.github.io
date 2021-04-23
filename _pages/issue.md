@@ -16,4 +16,4 @@ author_profile: true
 
 由站长本人（堂主水友）创立并进行维护的基于[Jekyll](http://jekyllrb.com/)的[Mininal Mistakes](https://mademistakes.com/work/minimal-mistakes-jekyll-theme/)主题并部署于[Github Pages](https://pages.github.com/)的静态博客站点，除站长外无人可更改本站内容，亦不会开放留言区等交互式功能，保持内容可控制性。
 
-由于本站托管于境外免费服务器，在大陆部分地区可能会访问不便，请谅解。目前堂主本人访问没问题，故不考虑迁移。当然欢迎[赞助](https://huolitangzhu.github.io/donate/)以帮助购买对大陆地区访问更加友好的云服务。
+由于本站托管于境外免费服务器，在大陆部分地区可能会访问不便，请谅解。目前堂主本人可顺利访问，故不考虑迁移。当然欢迎[赞助](https://huolitangzhu.github.io/donate/)以帮助购买对大陆地区访问更加友好的云服务。
