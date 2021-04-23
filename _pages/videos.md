@@ -6,7 +6,7 @@ author_profile: true
 
 ### 直播时代 by dreamover1010
 
-| [上集](https://www.bilibili.com/video/BV1os411A79R) | 永远等待的[下集](https://yuba.douyu.com/p/766138301570681362) · [优酷私密视频](http://v.youku.com/v_show/id_XNDM5MjE1MjQ3Ng==.html) |
+| [上集](https://www.bilibili.com/video/BV1os411A79R) | 永远等待的下集 [鱼吧](https://yuba.douyu.com/p/766138301570681362) · [优酷私密视频](http://v.youku.com/v_show/id_XNDM5MjE1MjQ3Ng==.html) |
 
 ### 花永神系列 by 花邪v
 
