@@ -53,7 +53,7 @@ author_profile: true
 
 ### <span id="head202101"> 1月</span>
 
-* [上海] 参加《年度鱼乐盛典》之获得“正能量之星”称号，并痛失钱包 [[红毯+晚会镜头]](https://yuba.douyu.com/p/134047771610879917)
+* [上海] 参加《年度鱼乐盛典》获得“正能量之星”称号 [[红毯+晚会镜头]](https://yuba.douyu.com/p/134047771610879917)
 
 ## <span id="head2020"> 2020年 </span>
 
@@ -77,7 +77,7 @@ author_profile: true
 
 ### <span id="head202005"> 5月</span>
 
-* [重庆] 户外之喜提X3 [[喜提BMW]](/images/X3.jpg)
+* [重庆] 户外之喜提X3 [[喜提BMW]](/images/news/X3.jpg)
 
 ## <span id="head2019"> 2019年 </span>
 
@@ -95,31 +95,31 @@ author_profile: true
 
 ### <span id="head201707"> 7月</span>
 
-* [广州] ~~带领~~Team干制霸CYYC [[合影]](/images/2017CYYC.jpg) [[直播录像]](https://huolitangzhu.github.io/videos/)
+* [广州] ~~带领~~Team干制霸CYYC [[合影]](/images/news/2017CYYC.jpg) [[直播录像]](https://huolitangzhu.github.io/videos/)
 
 ## <span id="head2016"> 2016年 </span>
 
 ### <span id="head201607"> 7月</span>
 
-* [广州] ~~带领~~Team干制霸CYYC [[合影]](/images/2016CYYC.jpg) [[聚餐]](/images/Team干2016.jpg)
+* [广州] ~~带领~~Team干制霸CYYC [[合影]](/images/news/2016CYYC.jpg) [[聚餐]](/images/news/Team干2016.jpg)
 
 ### <span id="head201601"> 1月</span>
 
-* [青岛] 赞助CYYC山东赛 [[海报]](/images/2016山东赛.jpg) 
+* [青岛] 赞助CYYC山东赛 [[海报]](/images/news/2016山东赛.jpg) 
 
 ## <span id="head2015"> 2015年 </span>
 
 ### <span id="head201512"> 12月</span>
 
-* [上海] 和“溜溜球大王”郭大王 [[合影]](/images/郭大王.jpg)
+* [上海] 和“溜溜球大王”郭大王 [[合影]](/images/news/郭大王.jpg)
 
 ### <span id="head201510"> 10月</span>
 
-* [香港] 机场偶遇谢霆锋 [[合影]](/images/谢霆锋.jpg)
+* [香港] 机场偶遇谢霆锋 [[合影]](/images/news/谢霆锋.jpg)
 
 ### <span id="head201507"> 7月</span>
 
-* [广州] ~~带领~~Team干制霸CYYC [[合影]](/images/2015CYYC.jpg) 
+* [广州] ~~带领~~Team干制霸CYYC [[合影]](/images/news/2015CYYC.jpg) 
 
 ### <span id="head201506"> 6月</span>
 
@@ -128,21 +128,21 @@ author_profile: true
 
 ### <span id="head201502"> 2月</span>
 
-* [上海] 张子枫助理（五天）[[合影]](/images/张子枫.jpg)
+* [上海] 张子枫助理（五天）[[合影]](/images/news/张子枫.jpg)
 
 ### <span id="head201501"> 1月</span>
 
-* [山东] Team干成立 [[合影]](/images/Team干成立.jpg) [[海报]](/images/Team干海报.jpg)
+* [山东] Team干成立 [[合影]](/images/news/Team干成立.jpg) [[海报]](/images/news/Team干海报.jpg)
 
 ## <span id="head2014"> 2014年 </span>
 
 ### <span id="head201410"> 10月</span>
 
-* [北京] 参加卡酷少儿电视台节目 [[模仿发哥]](/images/卡酷.jpg)
+* [北京] 参加卡酷少儿电视台节目 [[模仿发哥]](/images/news/卡酷.jpg)
 
 ### <span id="head201407"> 7月</span>
 
-* [广州] 参加CYYC，合影四届悠悠球世界冠军铃木裕之（Hiroyuki Suzuki） [[合影]](/images/铃木裕之.jpg) 
+* [广州] 参加CYYC，合影四届悠悠球世界冠军铃木裕之（Hiroyuki Suzuki） [[合影]](/images/news/铃木裕之.jpg) 
 
 ## <span id="head2009"> 2009年 </span>
 
