@@ -77,7 +77,7 @@ author_profile: true
 
 ### <span id="head202005"> 5月</span>
 
-* [重庆] 户外之喜提X3 [[喜提BMW]](/images/news/X3.jpg)
+* [重庆] 户外之喜提X3 [[赵总提车]](/images/news/X3.jpg)
 
 ## <span id="head2019"> 2019年 </span>
 
@@ -159,3 +159,5 @@ author_profile: true
 ## <span id="head1901"> 1901年 </span>
 
 * [洛阳] 慈禧西狩归京路过洛阳赵家（主播说不是节目效果）
+
+©️ 图片来自社媒公开内容
