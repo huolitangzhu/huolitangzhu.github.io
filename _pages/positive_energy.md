@@ -1,5 +1,5 @@
 ---
-title: "正能量"
+title: "不完全记录"
 permalink: /positive_energy/
 author_profile: true
 ---
