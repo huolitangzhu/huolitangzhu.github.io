@@ -1,6 +1,9 @@
 # main links links
 main:
 
+  - title: "正能量"
+    url: /positive_energy/
+
   - title: "事件"
     url: /news/
 
