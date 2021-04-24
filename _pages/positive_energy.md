@@ -1,5 +1,5 @@
 ---
-title: "不完全记录"
+title: "部分公益活动记录"
 permalink: /positive_energy/
 author_profile: true
 ---
