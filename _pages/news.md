@@ -119,7 +119,7 @@ author_profile: true
 
 ### <span id="head201507"> 7月</span>
 
-* [广州] ~~带领~~Team干制霸CYYC [[合影]](/images/news/2015CYYC.jpg) [[视频]](https://v.qq.com/x/page/o0175e9ce3a.html)
+* [广州] ~~带领~~Team干制霸CYYC [[合影]](/images/news/2015CYYC.jpg) [[赛后视频]](https://v.qq.com/x/page/o0175e9ce3a.html)
 
 ### <span id="head201506"> 6月</span>
 
