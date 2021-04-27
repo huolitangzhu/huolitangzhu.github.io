@@ -132,7 +132,7 @@ author_profile: true
 
 ### <span id="head201501"> 1月</span>
 
-* [山东] Team干成立 [[合影]](/images/news/Team干成立.jpg) [[海报]](/images/news/Team干海报.jpg)
+* [山东] Team干成立 [[合影]](/images/news/Team干成立.jpg) [[海报]](/images/news/Team干海报.jpg) [[视频]](https://huolitangzhu.github.io/videos/)
 
 ## <span id="head2014"> 2014年 </span>
 
