@@ -38,7 +38,7 @@ author_profile: true
 
 ### <span id="head202104"> 4月</span>
 
-* [横店] 和[XX](https://www.douyu.com/1402692)户外之戏中画戏 [[合照]](https://yuba.douyu.com/p/706897141619788793)
+* [横店] 和[XX](https://www.douyu.com/1402692)户外之戏中画戏 [合照 [1](https://yuba.douyu.com/p/189411381619771786) · [2](https://yuba.douyu.com/p/706897141619788793)]
 * [杭州] 和[张姐](https://www.douyu.com/6727718)户外之苏杭一梦 [网友点评 [鱼吧](https://yuba.douyu.com/p/780788941619539506) · [存档](https://rentry.co/dycheese_wuti)]
 * [洛阳] 轮椅之年度减肥 （节目效果结束）
 * [北京] 户外之重回旧地
