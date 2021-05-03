@@ -26,7 +26,7 @@ author_profile: true
 
 ### 北影作品
 
-| [校园栏目剧《青春魔方》之《爱情麻辣烫》](https://v.youku.com/v_show/id_XMTUyMTgzNDg4.html) |
+| 校园栏目剧《青春魔方》之[《爱情麻辣烫》](https://v.youku.com/v_show/id_XMTUyMTgzNDg4.html) |
 
 ### 悠悠球合辑 
 
