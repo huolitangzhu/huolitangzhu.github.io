@@ -13,6 +13,8 @@ redirect_from:
 
 <div data-type="countdown" data-id="2525356" class="tickcounter" style="width: 100%; position: relative; padding-bottom: 25%"><a href="//www.tickcounter.com/countdown/2525356/my-countdown" title="My countdown">My countdown</a><a href="//www.tickcounter.com/" title="Countdown">Countdown</a></div><script>(function(d, s, id) { var js, pjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//www.tickcounter.com/static/js/loader.js"; pjs.parentNode.insertBefore(js, pjs); }(document, "script", "tickcounter-sdk"));</script>
 
+专题页面在做了。。。
+
 ## 主播属性
 
 * 生理の参数：`性别：男` · `出生：1987年` · `身高：176cm` · `体重：88kg`
