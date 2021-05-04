@@ -11,10 +11,8 @@ redirect_from:
 
 ## 直播六周年专题
 
-* 视频系列：[[六周年-逆流时光]](https://yuba.douyu.com/p/255485431620106597) by 花邪v
-* 水友系列：
-  * 绘画作品：[[图片]](/images/sixyear/xiaoxin-pic.jpg) · [[解读]](/images/sixyear/xiaoxin-jiedu.png) by 小新
-  * 鱼吧发帖：[[by 张淼]](https://yuba.douyu.com/p/656073051620060517)
+* 视频作品：[[六周年-逆流时光]](https://yuba.douyu.com/p/255485431620106597) by 花邪v
+* 绘画作品：[[图片]](/images/sixyear/xiaoxin-pic.jpg) · [[解读]](/images/sixyear/xiaoxin-jiedu.png) by 小新
 
 ## 主播属性
 
