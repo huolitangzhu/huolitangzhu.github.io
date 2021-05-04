@@ -11,9 +11,10 @@ redirect_from:
 
 ## 直播六周年专题
 
-* 专题视频： 等花邪老师发鱼吧
-* 水友绘画： [[图片]](/images/sixyear/xiaoxin.jpg) · [[解读]](/images/sixyear/xiaoxin-jiedu.png) by 小新
-* 水友发帖： [[by 张淼]](https://yuba.douyu.com/p/656073051620060517)
+* 视频系列：等花邪老师发鱼吧 
+* 水友系列：
+  * 绘画作品：[[图片]](/images/sixyear/xiaoxin.jpg) · [[解读]](/images/sixyear/xiaoxin-jiedu.png) by 小新
+  * 鱼吧发帖：[[by 张淼]](https://yuba.douyu.com/p/656073051620060517)
 
 ## 主播属性
 
