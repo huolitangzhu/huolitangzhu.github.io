@@ -38,7 +38,7 @@ author_profile: true
 
 ### <span id="head202105"> 5月</span>
 
-* [杭州] 直播六周年系列活动 [[关于礼物]](https://yuba.douyu.com/p/116981071619512197)
+* [杭州] 直播六周年系列活动 [女嘉宾合照 [1](/images/sixyear/group1.jpg) · [2](/images/sixyear/group2.jpg)]
 
 ### <span id="head202104"> 4月</span>
 
