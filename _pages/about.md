@@ -9,12 +9,11 @@ redirect_from:
 
 英雄联盟主播，斗鱼房间号[241123](https://www.douyu.com/241123)，外号“赵老师”、“胖子”，被评为“斗鱼第一辅助”。反应机敏，擅长做节目效果。
 
-## 直播六周年倒计时
+## 直播六周年专题
 
-<div data-type="countdown" data-id="2525356" class="tickcounter" style="width: 100%; position: relative; padding-bottom: 25%"><a href="//www.tickcounter.com/countdown/2525356/my-countdown" title="My countdown">My countdown</a><a href="//www.tickcounter.com/" title="Countdown">Countdown</a></div><script>(function(d, s, id) { var js, pjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//www.tickcounter.com/static/js/loader.js"; pjs.parentNode.insertBefore(js, pjs); }(document, "script", "tickcounter-sdk"));</script>
-
-
-结束~专题页面在做了。。。
+* 专题视频 等花邪老师发鱼吧
+* 水友绘画 [[图片]](/images/sixyear/xiaoxin.jpg) · [[解读]](/images/sixyear/xiaoxin-jiedu.png) by 小新
+* 水友发帖 [[by 张淼]](https://yuba.douyu.com/p/656073051620060517)
 
 ## 主播属性
 
