@@ -20,8 +20,7 @@ author_profile: true
 
 ### 火力堂主和他的小伙伴们系列 by longer229
 
-| [1](https://www.bilibili.com/video/BV1bW411W7nX) | [2](https://www.bilibili.com/video/BV1bW411W7ni) | [3](https://www.bilibili.com/video/BV1CW411W7eR) | [4](https://www.bilibili.com/video/BV1CW411W7vu) 
-| [5](https://www.bilibili.com/video/BV1CW411W7as) | [6](https://www.bilibili.com/video/BV1CW411W7Y5) | [7](https://www.bilibili.com/video/BV1CW411W7F9) | [8](https://www.bilibili.com/video/BV1kW411W7ah) |
+| [1](https://www.bilibili.com/video/BV1bW411W7nX) | [2](https://www.bilibili.com/video/BV1bW411W7ni) | [3](https://www.bilibili.com/video/BV1CW411W7eR) | [4](https://www.bilibili.com/video/BV1CW411W7vu) | [5](https://www.bilibili.com/video/BV1CW411W7as) | [6](https://www.bilibili.com/video/BV1CW411W7Y5) | [7](https://www.bilibili.com/video/BV1CW411W7F9) | [8](https://www.bilibili.com/video/BV1kW411W7ah) |
 
 ### 北影作品
 
