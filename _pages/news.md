@@ -40,6 +40,7 @@ author_profile: true
 
 ### <span id="head202105"> 5月</span>
 
+* [长沙] 和[李冉冉](https://www.douyu.com/210398)户外之太医问诊
 * [杭州] 和[XX](https://www.douyu.com/1402692)，[兮酱](https://www.douyu.com/1347617)，[张曼希](https://www.douyu.com/6727718)户外之好妹妹江浙沪分妹聚会 [女嘉宾合照截屏 [1](/images/sixyear/group1.jpg) · [2](/images/sixyear/group2.jpg)] [[张姐整活]](https://yuba.douyu.com/p/273483071620147723)
 
 ### <span id="head202104"> 4月</span>
