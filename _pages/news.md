@@ -76,7 +76,7 @@ author_profile: true
 
 ### <span id="head202008"> 8月</span>
 
-* [厦门] 和[舒舒](https://www.douyu.com/4612531)户外之贝母挂件
+* [厦门] 和[舒舒](https://www.douyu.com/4612531)户外之[贝母](https://www.bulgari.cn/zh-cn/350581-e.html)挂件
 * [杭州] 和[张曼希](https://www.douyu.com/6727718)户外之带货首秀
 
 ### <span id="head202007"> 7月</span>
