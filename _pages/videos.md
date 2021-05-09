@@ -101,4 +101,7 @@ author_profile: true
 
   - 4A
     - 2019年第四名Takumi Hakamata [[视频]](https://www.youtube.com/watch?v=l1N6Hsonido)，招式难度极大的极限型玩家，空竹玩的也很好
+
+  - Official Clip
+    - [2019年](https://www.youtube.com/watch?v=kD7NTtP8ok8) · [2018年](https://www.youtube.com/watch?v=c4Di7kI_Zg4) · [2017年](https://www.youtube.com/watch?v=aIazsEPDzJE) · [2016年](https://www.youtube.com/watch?v=Lz05RsChMiw) · [2015年](https://www.youtube.com/watch?v=OLfisWgEnoc) · [2014年](https://www.youtube.com/watch?v=Grrh1DrYEs0) · [2013年](https://www.youtube.com/watch?v=Of2v8M-o6Tg) · [2012年](https://www.youtube.com/watch?v=angACQtDBAM)
     
