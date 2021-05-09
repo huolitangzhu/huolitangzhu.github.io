@@ -32,6 +32,8 @@ author_profile: true
 | 2010年[火力总动员表演](https://yuba.douyu.com/p/627815321546306635) | [水友视频剪辑](https://yuba.douyu.com/p/188426961586233263) | 奥飞官方[优酷频道](http://i.youku.com/i/UMTY0NjcyNTI3Mg==/videos?q=%E5%A0%82%E4%B8%BB) 
 | 2017年直播录像之CYYC [[第一天]](https://v.youku.com/v_show/id_XMjg5MTQ3NDAyMA==.html) · [[第二天]](https://v.youku.com/v_show/id_XMjg5NDEyMzU2NA==.html) · [[第三天1]](https://v.youku.com/v_show/id_XMjg5NTQ2MTI5Mg==.html) · [[第三天2]](https://v.youku.com/v_show/id_XMjg5NjMxNzcyNA==.html?) | 2017年直播录像之[北京玩家聚会](https://v.youku.com/v_show/id_XMjUxODkyMjkyOA==.html) | 2015年直播录像之悠悠球讲堂 [[古代篇]](http://v.youku.com/v_show/id_XMTMxNDE4NTY1Ng==.html) · [[近代篇1]](http://v.youku.com/v_show/id_XMTMxNDE4OTY1Mg==.html)· [[近代篇2]](http://v.youku.com/v_show/id_XMTMxNDE4OTc5Ng==.html)· [[近代篇3]](http://v.youku.com/v_show/id_XMTMxNDE5MDI1Mg==.html) |
 
+---
+
 ### More about YOYO
 
 一些我个人喜欢的视频的集合，希望能让大家认识赵老师三板斧以外的悠悠球。为避免版权争议只提供原版链接而不是国内视频网站链接
