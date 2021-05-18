@@ -13,6 +13,7 @@ redirect_from:
 
 * 视频作品：[[六周年-逆流时光]](https://yuba.douyu.com/p/255485431620106597) by 花邪v
 * 绘画作品：[[图片]](/images/sixyear/xiaoxin-pic.jpg) · [[解读]](/images/sixyear/xiaoxin-jiedu.png) by [小新](https://www.douyu.com/9571161)
+* 水友快递：猪猪玩偶若干，茶叶，与女嘉宾合照的木版画，火箭玩偶，CELINE短袖，悠悠球（我送的）
 
 ## 主播属性
 
