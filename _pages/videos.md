@@ -51,7 +51,7 @@ author_profile: true
     - 2010年冠军Jensen Kimmitt [[视频]](https://www.youtube.com/watch?v=b-usj9zFDjg)，最后一个使用塑胶球夺冠的性格选手
     - 2013年冠军Janos Karancz [[视频]](https://www.youtube.com/watch?v=wlW7fhUqtn8)，打破北美和日本冠军垄断的匈牙利玩家
     - 2015年冠军Zach Gormley [[视频]](https://www.youtube.com/watch?v=q8LTS4QpvCw)，可能是最后的非刷分型冠军
-    - 2019年季军Yuki Nishisako [[视频]](https://www.youtube.com/watch?v=MsQaHMXxNSg)，使用了和17年世界赛相同的BGM不断超越自己
+    - 2019年季军Yuki Nishisako [[视频]](https://www.youtube.com/watch?v=MsQaHMXxNSg)，使用了和17年世界赛相同的BGM（[世阿弥](https://music.163.com/#/song?id=453291321)）不断超越自己
   - 2A 双手回旋花式：
     - 2018年冠军Shu Takada [[视频]](https://www.youtube.com/watch?v=f54Dpx9tRy4)，可能将表演元素与悠悠球竞技结合最好的玩家
     - 2015年冠军Shinji Saito [[视频]](https://www.youtube.com/watch?v=LrDjC2-o5kk)，和Shu齐名的最优秀的2A玩家之一
@@ -104,6 +104,7 @@ author_profile: true
   - 4A
     - 2019年第四名Takumi Hakamata [[视频]](https://www.youtube.com/watch?v=l1N6Hsonido)，招式难度极大的极限型玩家，空竹玩的也很好
 
-  - Official Clip
+  - Official Clip 官方花絮
+    - 悠悠球比赛台前幕后被真实地记录下来，不只是竞技
     - [2019年](https://www.youtube.com/watch?v=kD7NTtP8ok8) · [2018年](https://www.youtube.com/watch?v=c4Di7kI_Zg4) · [2017年](https://www.youtube.com/watch?v=aIazsEPDzJE) · [2016年](https://www.youtube.com/watch?v=Lz05RsChMiw) · [2015年](https://www.youtube.com/watch?v=OLfisWgEnoc) · [2014年](https://www.youtube.com/watch?v=Grrh1DrYEs0) · [2013年](https://www.youtube.com/watch?v=Of2v8M-o6Tg) · [2012年](https://www.youtube.com/watch?v=angACQtDBAM)
     
