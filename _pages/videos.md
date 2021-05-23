@@ -97,9 +97,13 @@ author_profile: true
     - 2019年冠军Garbkamol Limangkul (Polo) [[视频]](https://www.youtube.com/watch?v=3Fb5s0mD3E8)，甩绳技术出神入化的泰国玩家，也是2018年冠军
     - 2015年冠军Iori Yamaki [[视频]](https://www.youtube.com/watch?v=XOQ7Bye3tcw)，走线流畅发型杀马特的超人气玩家
     - 2013年冠军Ahmad Kharisma [[视频]](https://www.youtube.com/watch?v=qPA3Ry9-AQY)，印度尼西亚玩家，曾经最年轻的亚洲1A冠军
+    - 2013年第九名Kazuya Murata [[视频]](https://www.youtube.com/watch?v=CMPJ3l0TJX0)，当时年仅六岁的YOYO Baby，应该是最年轻的亚洲赛决赛选手了
 
   - 2A
     - 2019年冠军Arata Imai [[视频]](https://www.youtube.com/watch?v=XXZkwdtKU4w)，Boy of the Future，招式风格独特充满想象力
+
+  - 3A
+    - 2011年第六名Daisuke Shimada [[视频]](https://www.youtube.com/watch?v=m1fRX-m-Itg)，远古3A玩家，最后的结尾招式Sword Dancer剑舞是永不过时的经典 
 
   - 4A
     - 2019年第四名Takumi Hakamata [[视频]](https://www.youtube.com/watch?v=l1N6Hsonido)，招式难度极大的极限型玩家，空竹玩的也很好
