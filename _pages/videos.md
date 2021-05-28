@@ -26,6 +26,10 @@ author_profile: true
 
 | 校园栏目剧《青春魔方》之[《爱情麻辣烫》](https://v.youku.com/v_show/id_XMTUyMTgzNDg4.html) |
 
+### 音乐作品
+
+| [鹏将行](https://yuba.douyu.com/p/593050641622217731) |
+
 ### 悠悠球合辑 
 
 | 2020年[布达拉宫](https://yuba.douyu.com/p/107953551566399070) | 2019年[央视《黄金一百秒》](http://tv.cctv.com/2019/12/19/VIDE2wUNYhDLDzT73hqwSLGN191219.shtml) | 2015年火力少年王电视争霸赛 [腾讯视频完整版](https://v.qq.com/detail/w/wxe7z4egf3v24t9.html) · [总决赛央视版](http://tv.cctv.com/2015/06/18/VIDE1434623763859661.shtml) 
