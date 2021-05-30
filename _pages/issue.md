@@ -12,7 +12,7 @@ author_profile: true
 
 ### 联系方式
 
-堂主本人/[赞助](https://huolitangzhu.github.io/donate/)意向/内容版权所有者，可通过以下途径联系：[[鱼吧]](https://yuba.douyu.com/p/662672311618762977) · [[电子邮件]](mailto:freemeatproton@protonmail.com)
+[赞助](https://huolitangzhu.github.io/donate/)意向/转载内容版权所有者，可通过以下途径联系：[[鱼吧]](https://yuba.douyu.com/p/662672311618762977) · [[电子邮件]](mailto:freemeatproton@protonmail.com)
 
 ## 关于本站
 
