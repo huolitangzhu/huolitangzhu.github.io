@@ -29,11 +29,11 @@ redirect_from:
 
 ## 专属BGM
 
-* [鹏将行](https://yuba.douyu.com/p/593050641622217731) - 改编自[[盗将行]](https://music.163.com/#/song?id=574566207)，本人重新填词并调音，由VOCALOID虚拟歌姬[[星尘]](https://weibo.com/stardustofficial)演唱
 * [星屑ビーナス](https://music.163.com/#/song?id=476081899)
 * [明日晴れるかな](https://music.163.com/#/song?id=26144177)
 * [爱情大魔咒](https://music.163.com/#/song?id=327687)
 * [我是真的爱上你](https://music.163.com/#/song?id=492151019)
+* [鹏将行](https://yuba.douyu.com/p/593050641622217731) - 改编自[[盗将行]](https://music.163.com/#/song?id=574566207)，本人重新填词并调音，由VOCALOID虚拟歌姬[[星尘]](https://weibo.com/stardustofficial)演唱
 
 ## 水友评价
 
