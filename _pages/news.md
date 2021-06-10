@@ -38,6 +38,11 @@ author_profile: true
 
 ## <span id="head2021"> 2021年 </span>
 
+### <span id="head202106"> 6月</span>
+
+* [上海] 富哥们聚会之进货巴黎世家外套 
+* [恩施] 参加官方正能量采茶活动
+
 ### <span id="head202105"> 5月</span>
 
 * [洛阳] 据说是直播生涯首次大型吃苦节目：🐷徒 [[策划帖]](https://yuba.douyu.com/p/586588441621772409) [[赛后贴]](https://yuba.douyu.com/p/553344461622452642)
