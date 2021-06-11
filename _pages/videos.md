@@ -48,7 +48,7 @@ author_profile: true
   
 - 世界赛：World Yo-Yo Contest [[Facebook]](https://www.facebook.com/worldyoyocontest/)
 
-  每年一度的最为重要的世界性赛事（去年由于疫情没有举办），曾在2018年来到上海，堂主也作为唯一官方直播间全程直播
+  每年一度的最为重要的世界性赛事（去年由于疫情停办），曾在2018年来到上海，堂主也作为唯一官方直播间全程直播
   
   - 1A 单手线上花式：
     - 2012年冠军Hiroyuki Suzuki [[视频]](https://www.youtube.com/watch?v=0sCb4sAoOMs)，现代悠悠球届无可争议的传奇
@@ -61,7 +61,7 @@ author_profile: true
     - 2015年冠军Shinji Saito [[视频]](https://www.youtube.com/watch?v=LrDjC2-o5kk)，和Shu齐名的最优秀的2A玩家之一
   - 3A 双手线上花式
     - 2019年冠军Hajime Miura [[视频]](https://www.youtube.com/watch?v=ZvJY6KGBGkQ)，最年轻的六连冠（2014-2019）
-    - 2019年亚军Alex Hattori [[视频]](https://www.youtube.com/watch?v=yIMsgTDwCRc)，最接近Hajime的MIT学霸
+    - 2019年亚军Alex Hattori [[视频]](https://www.youtube.com/watch?v=yIMsgTDwCRc)，最接近Hajime的MIT老铁
   - 4A 离绳花式
     - 2018年冠军Hajime Miura [[视频]](https://www.youtube.com/watch?v=dJqNLsPKTyI)，第一个主流组别同年双冠王（3A/4A）
     - 2019年第七名Hajime Miura [[视频]](https://www.youtube.com/watch?v=MyWAt4Zln8U)，全Soloham表演，ONE _ is NOT ENOUGH
@@ -71,30 +71,30 @@ author_profile: true
   - AP (Artistic Performance) 艺术表演
     - 2019年金奖Shu Takada [[视频]](https://www.youtube.com/watch?v=loBjndgr22o)，可能将表演元素与悠悠球竞技结合最好的玩家 
   - Women 女子组
-    - 2019年亚军Miri Kim [[视频]](https://www.youtube.com/watch?v=Mb07enlAwic)，当时年仅9岁的Babe QUEEN，期待她的未来
+    - 2019年亚军Miri Kim [[视频]](https://www.youtube.com/watch?v=Mb07enlAwic)，当时年仅9岁的Babe QUEEN
     - 2019年冠军Betty Gallegos [[视频]](https://www.youtube.com/watch?v=A02EOsYRo8M)，来自墨西哥的选手，同样也是2016年的冠军
-    - 2018年冠军Xiao Wen Wang [[视频]](https://www.youtube.com/watch?v=n6IG41L_3Hk)，华人冠军选手
+    - 2018年冠军WANG Xiao Wen [[视频]](https://www.youtube.com/watch?v=n6IG41L_3Hk)，可能是第一个华人冠军选手
   - Over-40 40岁以上组别
     - 2019年冠军Takahiko Hasegawa [[视频]](https://www.youtube.com/watch?v=ukJOOGkby9I)，Soloham发明者，不老男神
 
 - 中国大陆选手
 
   - 1A
-    - 2008年世界赛第四名Luo Yicheng [[视频]](https://www.youtube.com/watch?v=p28HOd9A5R8)，迄今为止中国大陆选手在世界赛1A最好成绩，同年亚洲赛第三名
+    - 2008年世界赛第四名LUO Yicheng [[视频]](https://www.youtube.com/watch?v=p28HOd9A5R8)，迄今为止中国大陆选手在世界赛1A最好成绩，同年亚洲赛第三名
   - 2A
-    - 2018年亚洲赛冠军Yi Chenghao [[视频]](https://www.youtube.com/watch?v=MSDDD_k4vhk)，中国大陆选手在2A的第一个国际冠军
+    - 2018年亚洲赛冠军YI Chenghao [[视频]](https://www.youtube.com/watch?v=MSDDD_k4vhk)，中国大陆选手在2A的第一个国际冠军
   - 3A
-    - 2012年亚洲赛冠军Wong Chak Wing [[视频]](https://www.youtube.com/watch?v=PTAaj7gyDjQ)，中国大陆选手第一个亚洲冠军，并于2013年连冠
+    - 2012年亚洲赛冠军WONG Chak Wing [[视频]](https://www.youtube.com/watch?v=PTAaj7gyDjQ)，中国大陆选手第一个亚洲冠军，并于2013年连冠
   - 4A
-    - 2017年世界赛季军Zhao Chen [[视频]](https://www.youtube.com/watch?v=_7F9RP1IqSM)，迄今为止中国大陆选手在世界赛4A最好成绩
+    - 2017年世界赛季军ZHAO Chen [[视频]](https://www.youtube.com/watch?v=_7F9RP1IqSM)，迄今为止中国大陆选手在世界赛4A最好成绩
   - 5A
-    - 2017年世界赛第四名Zhang Kai [[视频]](https://www.youtube.com/watch?v=UEX91-TBJoI)，迄今为止中国大陆选手在世界赛5A最好成绩
+    - 2017年世界赛第四名ZHANG Kai [[视频]](https://www.youtube.com/watch?v=UEX91-TBJoI)，迄今为止中国大陆选手在世界赛5A最好成绩
   - Women
-    - 2018年世界赛亚军Kang Ni [[视频]](https://www.youtube.com/watch?v=CUFUy9FR0KE)，迄今为止中国大陆选手在世界赛女子组最好成绩
+    - 2018年世界赛亚军KANG Ni [[视频]](https://www.youtube.com/watch?v=CUFUy9FR0KE)，迄今为止中国大陆选手在世界赛女子组最好成绩
 
 - 亚洲赛：Asia Pacific Yo-Yo Championships [[官网]](http://www.asiapacyoyo.com/main/)
 
-  每年一度的在新加坡举办的最为重要的洲际赛事（去年几年因为疫情停办），相比于参加世界赛的巨大花销，亚洲赛吸引了更多亚洲选手的参与
+  每年一度的在新加坡举办的最为重要的洲际赛事（去年因为疫情停办），相比于参加世界赛的巨大花销，亚洲赛吸引了更多亚洲选手的参与
   
   - 1A
     - 2011年冠军Christopher Chia [[视频]](https://www.youtube.com/watch?v=0KWxAxReDCw)，个人眼中亚洲赛最伟大的表演之一，使用了很多当时的创新元素
