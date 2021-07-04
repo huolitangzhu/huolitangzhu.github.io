@@ -40,7 +40,7 @@ author_profile: true
 
 ### <span id="head202106"> 6月</span>
 
-* [洛阳] 和张姐户外（和室内） [[同框]](https://imgoss.douyucdn.cn/bj/yuba/default/2021/07/01/202107011935237499925613518.jpg)
+* [洛阳] 和张姐户外（和室内） [[同框]](https://imgoss.douyucdn.cn/bj/yuba/default/2021/07/01/202107011935237499925613518.jpg) [[剧照]](https://imgoss.douyucdn.cn/bj/yuba/weibo/2021/06/25/202106251600541224126429747.jpg)
 * [长沙] 参加斗鱼户外《奔跑吧！主播》第二季官方活动，和女嘉宾节奏 [[贝尔老师总结存档]](https://rentry.co/douyu_qiaoer_lianmai)
 * [上海] 参加斗鱼官方CP28漫展活动
 * [上海] 富哥们聚会之进货巴黎世家外套 
@@ -65,7 +65,7 @@ author_profile: true
 ### <span id="head202103"> 3月</span>
 
 * [郑州] 和[XX](https://www.douyu.com/1402692)参加《龟兔赛跑》之摸腿成功 [[摄影师视角]](https://yuba.douyu.com/p/216371201616509925)
-* [南京] 和[远洋](https://www.douyu.com/37)，[兮酱](https://www.douyu.com/1347617)户外之LV进货
+* [南京] 和[远洋](https://www.douyu.com/37)，[兮酱](https://www.douyu.com/1347617)户外之LV进货 [[剧照]](https://imgoss.douyucdn.cn/bj/yuba/default/2021/03/09/20210309164552122160127594.jpg)
 * [洛阳] 和[小董](https://www.douyu.com/11118)户外之榜三空降
 
 ### <span id="head202102"> 2月</span>
