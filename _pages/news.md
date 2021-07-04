@@ -40,7 +40,7 @@ author_profile: true
 
 ### <span id="head202106"> 6月</span>
 
-* [洛阳] 和张姐户外（计划，不一定落实） 
+* [洛阳] 和张姐户外（和室内） [[同框]](https://imgoss.douyucdn.cn/bj/yuba/default/2021/07/01/202107011935237499925613518.jpg)
 * [长沙] 参加斗鱼户外《奔跑吧！主播》第二季官方活动，和女嘉宾节奏 [[贝尔老师总结存档]](https://rentry.co/douyu_qiaoer_lianmai)
 * [上海] 参加斗鱼官方CP28漫展活动
 * [上海] 富哥们聚会之进货巴黎世家外套 
