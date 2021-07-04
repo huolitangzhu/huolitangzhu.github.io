@@ -22,9 +22,9 @@ author_profile: true
 
 | [1](https://www.bilibili.com/video/BV1bW411W7nX) | [2](https://www.bilibili.com/video/BV1bW411W7ni) | [3](https://www.bilibili.com/video/BV1CW411W7eR) | [4](https://www.bilibili.com/video/BV1CW411W7vu) | [5](https://www.bilibili.com/video/BV1CW411W7as) | [6](https://www.bilibili.com/video/BV1CW411W7Y5) | [7](https://www.bilibili.com/video/BV1CW411W7F9) | [8](https://www.bilibili.com/video/BV1kW411W7ah) |
 
-### 北影作品
+### 参演作品
 
-| 校园栏目剧《青春魔方》之[《爱情麻辣烫》](https://v.youku.com/v_show/id_XMTUyMTgzNDg4.html) |
+| 校园栏目剧《青春魔方》之[《爱情麻辣烫》](https://v.youku.com/v_show/id_XMTUyMTgzNDg4.html) | 电影[《废柴联盟》](https://www.iqiyi.com/v_19rr3kbmys.html)
 
 ### 音乐作品
 
