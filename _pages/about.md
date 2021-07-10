@@ -11,7 +11,7 @@ redirect_from:
 
 ## 花邪新作
 
-[[【鹏琴lovestory】之赵美琴]](https://yuba.douyu.com/p/979691971625919318)
+[【鹏琴lovestory】之赵美琴](https://yuba.douyu.com/p/979691971625919318)
 
 ## 直播六周年专题
 
