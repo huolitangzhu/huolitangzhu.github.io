@@ -11,9 +11,9 @@ redirect_from:
 
 ## 水友新作
 
-[【鹏琴lovestory】之赵美琴](https://yuba.douyu.com/p/979691971625919318) by 花邪v
-[【直播时代之楚门的世界】](https://yuba.douyu.com/p/998187491625529337) by 爱情盲僧
-[P图大赛](https://yuba.douyu.com/p/984953231626348964) by 堂主哥哥
+* [【鹏琴lovestory】之赵美琴](https://yuba.douyu.com/p/979691971625919318) by 花邪v
+* [【直播时代之楚门的世界】](https://yuba.douyu.com/p/998187491625529337) by 爱情盲僧
+* [P图大赛](https://yuba.douyu.com/p/984953231626348964) by 堂主哥哥
 
 ## 直播六周年专题
 
