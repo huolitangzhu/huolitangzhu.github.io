@@ -9,9 +9,11 @@ redirect_from:
 
 英雄联盟主播，斗鱼房间号[241123](https://www.douyu.com/241123)，外号“赵老师”、“胖子”，被评为“斗鱼第一辅助”。反应机敏，擅长做节目效果。
 
-## 花邪新作
+## 水友新作
 
-[【鹏琴lovestory】之赵美琴](https://yuba.douyu.com/p/979691971625919318)
+[【鹏琴lovestory】之赵美琴](https://yuba.douyu.com/p/979691971625919318) by 花邪v
+[【直播时代之楚门的世界】](https://yuba.douyu.com/p/998187491625529337) by 爱情盲僧
+[P图大赛](https://yuba.douyu.com/p/984953231626348964) by 堂主哥哥
 
 ## 直播六周年专题
 
