@@ -17,6 +17,7 @@ redirect_from:
 * 明信片问候（还在收集中） by 我
   * 来自荷兰格罗宁根（英语/荷兰语） [[图片]](/images/postcards/Holland.png)
   * 来自泰国曼谷（英语/泰语） [[图片]](/images/postcards/Thailand.png)
+  * 来自印度尼西亚婆罗洲（英语/印尼语） [[图片]](/images/postcards/Indonesia.png)
 
 ## 直播六周年专题
 
