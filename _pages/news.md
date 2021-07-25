@@ -40,7 +40,7 @@ author_profile: true
 
 ### <span id="head202107"> 7月</span>
 
-* [洛阳] 室内直播，主题“`觉醒`”（暂定）
+* [武汉] 参加斗鱼官方密室逃脱直播综艺《逃脱吧！主播》 [[鱼吧]](https://yuba.douyu.com/p/652841251627121534)
 
 ### <span id="head202106"> 6月</span>
 
