@@ -11,9 +11,7 @@ redirect_from:
 
 ## 水友整活
 
-* 视频之[【鹏琴lovestory】之赵美琴](https://yuba.douyu.com/p/979691971625919318) by 花邪v
 * 小说之[【直播时代之楚门的世界】](https://yuba.douyu.com/p/998187491625529337) by 爱情盲僧
-* 有奖活动之[P图大赛](https://yuba.douyu.com/p/984953231626348964) by 堂主哥哥
 * 明信片问候（还在收集中） by 我
   * 来自荷兰格罗宁根（英语/荷兰语） [[图片]](/images/postcards/Holland.png)
   * 来自泰国曼谷（英语/泰语） [[图片]](/images/postcards/Thailand.png)
