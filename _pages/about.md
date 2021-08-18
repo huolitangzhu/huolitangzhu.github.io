@@ -12,7 +12,7 @@ redirect_from:
 ## 水友整活
 
 * 视频之[《末尾Sillage》](https://yuba.douyu.com/p/172280681628825274) by TD丶长得丑就为所欲为
-* 小说之[【直播时代之楚门的世界】](https://yuba.douyu.com/p/998187491625529337) by 爱情盲僧
+* 小说之[【直播时代之楚门的世界】](https://yuba.douyu.com/p/998187491625529337)[绝赞连载中] by 爱情盲僧
 * 来自世界各地的明信片问候（收集中） by 我
   * 来自荷兰格罗宁根（英语/荷兰语） [[图片]](/images/postcards/Holland.png)
   * 来自泰国曼谷（英语/泰语） [[图片]](/images/postcards/Thailand.png)
