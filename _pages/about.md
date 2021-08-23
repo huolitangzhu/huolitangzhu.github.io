@@ -11,6 +11,7 @@ redirect_from:
 
 ## 水友整活
 
+* 每日直播总结之二代目史官[[钱小佳唱歌真好听]](https://yuba.douyu.com/user/main/Y6dB18qDJw08)，一代目史官[[蓝色大魔王KK]](https://yuba.douyu.com/user/main/JGdyqWaxydXy)（已下岗）
 * 视频之[《末尾Sillage》](https://yuba.douyu.com/p/172280681628825274) by TD丶长得丑就为所欲为
 * 小说之[【直播时代之楚门的世界】](https://yuba.douyu.com/p/998187491625529337)[绝赞连载中] by 爱情盲僧
 * 来自世界各地的明信片问候（收集中） by 我
