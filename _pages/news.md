@@ -40,7 +40,7 @@ author_profile: true
 
 ### <span id="head202109"> 9月</span>
 
-* [重庆] 换回Team干[头像](https://apic.douyucdn.cn/upload/avatar_v3/202109/2282a501dfe141f2a4c14ebe482460d8_big.jpg)，青回！
+* [重庆] 和鱼皇户外
 * [洛阳] 和洛阳小❀面基 [[合照]](https://img.douyucdn.cn/data/yuba/default/2021/09/04/202109041803363705351004257.jpg)
 
 ### <span id="head202108"> 8月</span>
