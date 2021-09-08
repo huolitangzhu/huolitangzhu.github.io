@@ -40,7 +40,7 @@ author_profile: true
 
 ### <span id="head202109"> 9月</span>
 
-* [重庆] 和鱼皇户外
+* [重庆] 和[鱼皇](https://www.douyu.com/2158798)户外
 * [洛阳] 和洛阳小❀面基 [[合照]](https://img.douyucdn.cn/data/yuba/default/2021/09/04/202109041803363705351004257.jpg)
 
 ### <span id="head202108"> 8月</span>
