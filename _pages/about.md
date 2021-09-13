@@ -9,14 +9,18 @@ redirect_from:
 
 英雄联盟主播，斗鱼房间号[241123](https://www.douyu.com/241123)，外号“赵老师”、“胖子”，被评为“斗鱼第一辅助”。反应机敏，擅长做节目效果。
 
+## 大事件
+
+* 堂主首支单曲[[我是真的爱上你]](https://music.163.com/song?id=1877540723)（翻唱）上线网易云音乐！绝赞打榜中！
+
 ## 水友整活
 
-* 每日直播总结之鱼吧史官
+* **每日直播总结**之鱼吧史官
   * 三代目[你可真是大兿朮乫](https://yuba.douyu.com/user/main/byARkyyPG769) （请坚持住！）
   * 二代目[钱小佳唱歌真好听](https://yuba.douyu.com/user/main/Y6dB18qDJw08)（已因为“婚后备孕”[下岗](https://yuba.douyu.com/p/302171251630895461)）
   * 一代目[蓝色大魔王KK](https://yuba.douyu.com/user/main/JGdyqWaxydXy)（已因为“看不下去”[下岗](https://yuba.douyu.com/p/158979611628841922)）
-* 小说之[【直播时代之楚门的世界】](https://yuba.douyu.com/p/998187491625529337)[绝赞连载中] by 爱情盲僧
-* 来自世界各地的明信片问候（收集中） by 我
+* **小说**之[【直播时代之楚门的世界】](https://yuba.douyu.com/p/998187491625529337)[绝赞连载中] by 爱情盲僧
+* 来自世界各地的**明信片问候**（收集中） by 我
   * 来自荷兰格罗宁根（英语/荷兰语） [[图片]](/images/postcards/Holland.png)
   * 来自泰国曼谷（英语/泰语） [[图片]](/images/postcards/Thailand.png)
   * 来自印度尼西亚婆罗洲（英语/印尼语） [[图片]](/images/postcards/Indonesia.png)
