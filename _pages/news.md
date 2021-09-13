@@ -40,6 +40,7 @@ author_profile: true
 
 ### <span id="head202109"> 9月</span>
 
+* [成都] 录制首支单曲[[我是真的爱上你]](https://music.163.com/#/song?id=1877540723)（翻唱）
 * [重庆] 参加斗鱼户外官方活动《喷发运动会2》 [[鱼吧]](https://yuba.douyu.com/p/932904501631150190)
 * [成都] 和花姐户外 [[合照]](https://img.douyucdn.cn/data/yuba/default/2021/09/08/202109082151356368275504246.jpg)
 * [重庆] 和[鱼皇](https://www.douyu.com/2158798)户外之进货未遂
