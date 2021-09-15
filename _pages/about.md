@@ -15,6 +15,7 @@ redirect_from:
 
 ## 水友整活
 
+* **视频**之最新女嘉宾‘洛阳小花’直播剪辑《洛阳夏恋》 [[鱼吧视频]](https://yuba.douyu.com/p/272355571631639152)
 * **每日直播总结**之鱼吧史官
   * 三代目[你可真是大兿朮乫](https://yuba.douyu.com/user/main/byARkyyPG769) （请坚持住！）
   * 二代目[钱小佳唱歌真好听](https://yuba.douyu.com/user/main/Y6dB18qDJw08)（已因为“婚后备孕”[下岗](https://yuba.douyu.com/p/302171251630895461)）
