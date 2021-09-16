@@ -27,6 +27,8 @@ redirect_from:
   * 来自印度尼西亚婆罗洲（英语/印尼语） [[图片]](/images/postcards/Indonesia.png)
   * 来自德国大乌姆施塔特（英语/德语） [[图片]](/images/postcards/Germany.jpg)
   * 来自美国新奥尔良（英语/西班牙语） [[图片]](/images/postcards/USA.jpg)
+  * 来自伊朗德黑兰（英语/阿拉伯语） [[图片]](/images/postcards/Iran.jpg)
+  * 来自意大利帕多瓦（英语） [[图片]](/images/postcards/Italy.jpg)（图片从左到右是**佛罗伦萨**的乔托钟楼，圣母百花圣殿穹顶和旧宫塔）
 * 更多整活，请见[鱼吧](https://yuba.douyu.com/group/3022) 
 
 ## 直播六周年专题
