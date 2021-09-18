@@ -17,7 +17,8 @@ redirect_from:
 
 * **视频**之花永神系列 [[又见花开-伪预告]](https://yuba.douyu.com/p/386545931631700081)
 * **每日直播总结**之鱼吧史官
-  * 三代目[你可真是大兿朮乫](https://yuba.douyu.com/user/main/byARkyyPG769) （请坚持住！）
+  * 四代目招募中！We want you! 
+  * 三代目[你可真是大兿朮乫](https://yuba.douyu.com/user/main/byARkyyPG769) （已因为“沉迷修仙”[下岗](https://yuba.douyu.com/p/398952561631874523)）
   * 二代目[钱小佳唱歌真好听](https://yuba.douyu.com/user/main/Y6dB18qDJw08)（已因为“婚后备孕”[下岗](https://yuba.douyu.com/p/302171251630895461)）
   * 一代目[蓝色大魔王KK](https://yuba.douyu.com/user/main/JGdyqWaxydXy)（已因为“看不下去”[下岗](https://yuba.douyu.com/p/158979611628841922)）
 * **小说**之[【直播时代之楚门的世界】](https://yuba.douyu.com/p/998187491625529337)[绝赞连载中] by 爱情盲僧
