@@ -47,7 +47,7 @@ author_profile: true
 
 ### <span id="head202108"> 8月</span>
 
-* [洛阳] 游戏粉狂欢！偶尔有素人女嘉宾出现
+* [洛阳] 游戏粉[狂欢](https://img.douyucdn.cn/data/yuba/weibo/2021/09/19/20210919021225667975481960.jpg)！偶尔有[素人女嘉宾](https://yuba.douyu.com/user/main/6N7noWrpB6wb)出现
 
 ### <span id="head202107"> 7月</span>
 
