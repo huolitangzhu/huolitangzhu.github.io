@@ -16,7 +16,9 @@ redirect_from:
 
 ## 水友整活
 
-* **视频**之花永神系列 [[又见花开-伪预告]](https://yuba.douyu.com/p/386545931631700081)
+* **视频**之
+  * 花永神系列 [[又见花开-伪预告]](https://yuba.douyu.com/p/386545931631700081)
+  * 游戏系列-永劫无间 [[《赵家霸王枪横空出世》]](https://yuba.douyu.com/p/998975661632121480)
 * **每日直播总结**之鱼吧史官
   * 四代目招募中！We want you! 
   * 三代目[你可真是大兿朮乫](https://yuba.douyu.com/user/main/byARkyyPG769) （已因为“沉迷修仙”[下岗](https://yuba.douyu.com/p/398952561631874523)）
