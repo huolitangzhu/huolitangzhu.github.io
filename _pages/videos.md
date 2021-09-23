@@ -10,7 +10,7 @@ author_profile: true
 
 ### 花永神系列 by 花邪v
 
-| [【鹏琴lovestory】之赵美琴](https://www.bilibili.com/video/bv13w411d7CY) with 张曼希 | [六周年-逆流时光](https://yuba.douyu.com/p/255485431620106597) | [小卑微](https://yuba.douyu.com/p/320430661616861100) with XX | [好妹妹图鉴2](https://yuba.douyu.com/p/946137141610386419) with 多人运动 | 
+| [又见花开](https://yuba.douyu.com/p/956460141632301722) with 孙姐 | [【鹏琴lovestory】之赵美琴](https://www.bilibili.com/video/bv13w411d7CY) with 张曼希 | [六周年-逆流时光](https://yuba.douyu.com/p/255485431620106597) | [小卑微](https://yuba.douyu.com/p/320430661616861100) with XX | [好妹妹图鉴2](https://yuba.douyu.com/p/946137141610386419) with 多人运动 | 
 | [好妹妹图鉴1](https://yuba.douyu.com/p/198854931586759899) with 多人运动 | [话剧《梦》](https://www.bilibili.com/video/BV1Eh411R7sd) with 张曼希 | [巨变](https://www.bilibili.com/video/BV1Lt4y1D734) | [你的妹妹小董](https://www.bilibili.com/video/BV1nZ4y1H7tV) with 小董 | 
 
 ### 女嘉宾选辑
@@ -48,11 +48,11 @@ author_profile: true
   
 - 世界赛：World Yo-Yo Contest [[Facebook]](https://www.facebook.com/worldyoyocontest/)
 
-  每年一度的最为重要的世界性赛事（去年由于疫情停办），曾在2018年来到上海，堂主也作为唯一官方直播间全程直播
+  每年一度的最为重要的世界性赛事（2020年由于疫情停办），曾在2018年来到上海，堂主也作为唯一官方直播间全程直播
   
   - 1A 单手线上花式：
     - 2012年冠军Hiroyuki Suzuki [[视频]](https://www.youtube.com/watch?v=0sCb4sAoOMs)，现代悠悠球届无可争议的传奇
-    - 2010年冠军Jensen Kimmitt [[视频]](https://www.youtube.com/watch?v=b-usj9zFDjg)，最后一个使用塑胶球夺冠的性格选手
+    - 2010年冠军Jensen Kimmitt [[视频]](https://www.youtube.com/watch?v=b-usj9zFDjg)，最后一个使用塑胶球夺冠的选手
     - 2013年冠军Janos Karancz [[视频]](https://www.youtube.com/watch?v=wlW7fhUqtn8)，打破北美和日本冠军垄断的匈牙利玩家
     - 2015年冠军Zach Gormley [[视频]](https://www.youtube.com/watch?v=q8LTS4QpvCw)，可能是最后的非刷分型冠军
     - 2019年季军Yuki Nishisako [[视频]](https://www.youtube.com/watch?v=MsQaHMXxNSg)，使用了和17年世界赛相同的BGM（[世阿弥](https://music.163.com/#/song?id=453291321)）不断超越自己（从第五名到前三名）
@@ -101,7 +101,7 @@ author_profile: true
     - 2019年冠军Garbkamol Limangkul (Polo) [[视频]](https://www.youtube.com/watch?v=3Fb5s0mD3E8)，甩绳技术出神入化的泰国玩家，也是2018年冠军
     - 2015年冠军Iori Yamaki [[视频]](https://www.youtube.com/watch?v=XOQ7Bye3tcw)，走线流畅发型杀马特的超人气玩家
     - 2013年冠军Ahmad Kharisma [[视频]](https://www.youtube.com/watch?v=qPA3Ry9-AQY)，印度尼西亚玩家，曾经最年轻的亚洲1A冠军
-    - 2013年第九名Kazuya Murata [[视频]](https://www.youtube.com/watch?v=CMPJ3l0TJX0)，当时年仅六岁的YOYO Baby，应该是最年轻的亚洲赛决赛选手了
+    - 2013年第九名Kazuya Murata [[视频]](https://www.youtube.com/watch?v=CMPJ3l0TJX0)，当时年仅六岁的YOYO Baby，可能是最年轻的亚洲赛决赛选手
 
   - 2A
     - 2019年冠军Arata Imai [[视频]](https://www.youtube.com/watch?v=XXZkwdtKU4w)，Boy of the Future，招式风格独特充满想象力
