@@ -28,7 +28,7 @@ redirect_from:
   * [[神为什么是神]](https://yuba.douyu.com/p/530870781632287000) by 我
 * 来自世界各地的**明信片**问候（收集中） by 我
   * 来自波兰格但斯克（英语/波兰语） [[图片]](/images/postcards/Poland.png) 
-  * --- 以下快递已送到堂主家坐等主播回家开箱 ---
+  * --- 以下已通过快递送到堂主家坐等主播回家开箱 ---
   * 来自荷兰格罗宁根（英语/荷兰语） [[图片]](/images/postcards/Holland.png)
   * 来自泰国曼谷（英语/泰语） [[图片]](/images/postcards/Thailand.png)
   * 来自印度尼西亚婆罗洲（英语/印尼语） [[图片]](/images/postcards/Indonesia.png)
