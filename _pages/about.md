@@ -19,8 +19,7 @@ redirect_from:
   * 花永神系列 [[又见花开]](https://yuba.douyu.com/p/956460141632301722)
   * 游戏系列-永劫无间 [[《赵家霸王枪横空出世》]](https://yuba.douyu.com/p/998975661632121480)
 * **每日直播总结**之鱼吧史官
-  * 四代目招募中！We want you! 
-  * 三代目[你可真是大兿朮乫](https://yuba.douyu.com/user/main/byARkyyPG769) （已因为“沉迷修仙”[下岗](https://yuba.douyu.com/p/398952561631874523)）
+  * 三代目[你可真是大兿朮乫](https://yuba.douyu.com/user/main/byARkyyPG769) <!-- （已因为“沉迷修仙”[下岗](https://yuba.douyu.com/p/398952561631874523)）-->
   * 二代目[钱小佳唱歌真好听](https://yuba.douyu.com/user/main/Y6dB18qDJw08)（已因为“婚后备孕”[下岗](https://yuba.douyu.com/p/302171251630895461)）
   * 一代目[蓝色大魔王KK](https://yuba.douyu.com/user/main/JGdyqWaxydXy)（已因为“看不下去”[下岗](https://yuba.douyu.com/p/158979611628841922)）
 * **小说**之
@@ -41,7 +40,7 @@ redirect_from:
 ## 直播六周年专题
 
 * 视频作品：[[六周年-逆流时光]](https://yuba.douyu.com/p/255485431620106597) by 花邪v
-* 绘画作品：[[图片]](/images/sixyear/xiaoxin-pic.jpg) · [[解读]](/images/sixyear/xiaoxin-jiedu.png) by [小新](https://www.douyu.com/9571161)
+* 绘画作品：[[图片]](/images/sixyear/xiaoxin-pic.jpg) · [[解读]](/images/sixyear/xiaoxin-jiedu.png) by 小新
 * 音乐作品：[[鹏将行]](https://yuba.douyu.com/p/593050641622217731) by 我
 * 水友快递：猪猪玩偶若干，茶叶，与女嘉宾合照木版画，火箭玩偶，CELINE短袖&李宁国家队版乒乓球服（金爷送的），悠悠球（我送的），拳击手套若干，最佳画饼奖奖杯（运营贝尔送的）
 
