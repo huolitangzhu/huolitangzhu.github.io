@@ -40,6 +40,8 @@ author_profile: true
 
 ### <span id="head202110"> 10月</span>
 
+* [偃师] 喜提超级粉丝团第一名，上大分啦💃💃💃💃happy！[[我们是冠军]](https://img.douyucdn.cn/data/yuba/default/2021/10/11/202110110002302796871568299.jpg)
+
 ### <span id="head202109"> 9月</span>
 
 * [洛阳] 和孙姐户外（宾馆）之悠悠（球）教学 - 第一个学会两周着地的嘉宾，悠悠球粉狂喜！
