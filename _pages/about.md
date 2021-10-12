@@ -17,16 +17,11 @@ redirect_from:
 
 * **视频**之
   * 花永神系列 [[又见花开]](https://yuba.douyu.com/p/956460141632301722)
-  * 游戏系列-永劫无间 [[《赵家霸王枪横空出世》]](https://yuba.douyu.com/p/998975661632121480)
-* **每日直播总结**之鱼吧史官
-  * 三代目[你可真是大兿朮乫](https://yuba.douyu.com/user/main/byARkyyPG769) <!-- （已因为“沉迷修仙”[下岗](https://yuba.douyu.com/p/398952561631874523)）-->
-  * 二代目[钱小佳唱歌真好听](https://yuba.douyu.com/user/main/Y6dB18qDJw08)（已因为“婚后备孕”[下岗](https://yuba.douyu.com/p/302171251630895461)）
-  * 一代目[蓝色大魔王KK](https://yuba.douyu.com/user/main/JGdyqWaxydXy)（已因为“看不下去”[下岗](https://yuba.douyu.com/p/158979611628841922)）
 * **小说**之
   * [【直播时代之楚门的世界】](https://yuba.douyu.com/p/998187491625529337)[绝赞连载中] by 爱情盲僧
-  * [[神为什么是神]](https://yuba.douyu.com/p/530870781632287000) by 我
 * 来自世界各地的**明信片**问候（收集中） by 我
   * 来自波兰格但斯克（英语/波兰语） [[图片]](/images/postcards/Poland.png) 
+  * 来自德国慕尼黑（英语） [[图片]](/images/postcards/Germany2.jpg) （背面有德国拳击运动员[亨利·马斯克](https://baike.baidu.com/item/%E4%BA%A8%E5%88%A9%C2%B7%E9%A9%AC%E6%96%AF%E5%85%8B/9095594)签名）
   * --- 以下已通过快递送到堂主家 ---
   * 来自荷兰格罗宁根（英语/荷兰语） [[图片]](/images/postcards/Holland.png)
   * 来自泰国曼谷（英语/泰语） [[图片]](/images/postcards/Thailand.png)
