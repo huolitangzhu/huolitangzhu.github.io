@@ -64,15 +64,6 @@ redirect_from:
 
 ## [赞助本站](https://huolitangzhu.github.io/donate/)
 
-### 广告位
-
-* `招租广告位1`
-
-### 致谢位
-
-* `谢谢小妈 么么哒 比奶心` [[虚空小妈提议]](/images/donate/xiaoma.png) 
-* `招租致谢位2`
-
 ## 访客统计
 
 <a href='https://clustrmaps.com/site/1bhdu'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=2d78ad&w=550&t=tt&d=8wI_4ryryfVbB3hHqobTSlDt2VmKs_d-EwWvGFA3BN0&co=ffffff&ct=000000'/></a>
