@@ -20,6 +20,7 @@ redirect_from:
 * **小说**之
   * [【直播时代之楚门的世界】](https://yuba.douyu.com/p/998187491625529337)[绝赞连载中] by 爱情盲僧
 * 来自世界各地的**明信片**问候（收集中） by 我
+  * 来自美国加利福尼亚（英语） [[图片]](/images/postcards/USA2.jpg) 
   * 来自波兰格但斯克（英语/波兰语） [[图片]](/images/postcards/Poland.png) 
   * 来自德国慕尼黑（英语） [[图片]](/images/postcards/Germany2.jpg) （背面有德国拳击运动员[亨利·马斯克](https://baike.baidu.com/item/%E4%BA%A8%E5%88%A9%C2%B7%E9%A9%AC%E6%96%AF%E5%85%8B/9095594)签名）
   * --- 以下已通过快递送到堂主家 ---
