@@ -20,6 +20,7 @@ redirect_from:
 * **小说**之
   * [【直播时代之楚门的世界】](https://yuba.douyu.com/p/998187491625529337)[绝赞连载中] by 爱情盲僧
 * 来自世界各地的**明信片**问候（收集中） by 我
+  * 来自日本大阪（英语）  [[图片]](/images/postcards/Japan.jpg) 
   * 来自波黑萨拉热窝（英语/德语） [[图片]](/images/postcards/BiH.jpg) 
   * 来自美国加利福尼亚（英语） [[图片]](/images/postcards/USA2.jpg) 
   * 来自波兰格但斯克（英语/波兰语） [[图片]](/images/postcards/Poland.png) 
