@@ -16,4 +16,4 @@ author_profile: true
 * 慈善捐款
 
   * 堂主匿名捐款，低调~
-  * 站长跟风捐款 [[电子收据]](/images/donate/my-record-1.png)
+  * 站长跟风捐款 [[电子收据]](/images/donate/my-record-1.png) [[正式收据]](/images/donate/my-record-2.png)
