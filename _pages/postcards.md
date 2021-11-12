@@ -1,10 +1,10 @@
 ---
-title: ""
+title: "明信片问候"
 permalink: /postcards/
 author_profile: true
 ---
 
-希望帮助主播尽量多地收集各地各语言的问候：
+希望帮助主播尽量多地收集各地各语言的明信片：
 
   * 来自加拿大温哥华岛（英语） [[图片]](/images/postcards/Canada.jpg)
   * 来自俄罗斯梁赞（英语/俄语） [[图片]](/images/postcards/Russia.jpg)
