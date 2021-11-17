@@ -11,7 +11,6 @@ redirect_from:
 
 ## 大事件
 
-* 堂主要打斗鱼户外年度 [[海报]](https://img.douyucdn.cn/data/yuba/default/2021/11/09/202111090125547135778088268.jpg)
 * 堂主首支单曲[[我是真的爱上你]](https://music.163.com/song?id=1877540723)（翻唱）上线网易云音乐！绝赞打榜中！[[无修音版]（慎点！）](https://music.163.com/song?id=1878572653)
 
 ## 水友整活
@@ -19,7 +18,7 @@ redirect_from:
 * **视频**之
   * 花永神系列 [[又见花开]](https://yuba.douyu.com/p/956460141632301722)
 * **小说**之
-  * [【直播时代之楚门的世界】](https://yuba.douyu.com/p/998187491625529337)[绝赞连载中] by 爱情盲僧
+  * [【直播时代之楚门的世界】](https://yuba.douyu.com/p/998187491625529337)[疑似停更？] by 爱情盲僧
 * 来自世界各地的[**明信片**](https://huolitangzhu.github.io/postcards/)（收集中） by 我
 * 更多整活，请见[鱼吧](https://yuba.douyu.com/group/3022) 
 
