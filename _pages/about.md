@@ -15,8 +15,6 @@ redirect_from:
 
 ## 水友整活
 
-* **视频**之
-  * 花永神系列 [[又见花开]](https://yuba.douyu.com/p/956460141632301722)
 * **小说**之
   * [【直播时代之楚门的世界】](https://yuba.douyu.com/p/998187491625529337)[疑似停更？] by 爱情盲僧
 * 来自世界各地的[**明信片**](https://huolitangzhu.github.io/postcards/)（收集中） by 我
