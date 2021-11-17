@@ -6,6 +6,7 @@ author_profile: true
 
 希望帮助主播尽量多地收集各地各语言的明信片：
 
+  * 来自台湾省苗栗縣（英语/國語） [[图片]](/images/postcards/Taiwan.jpg)
   * 来自加拿大温哥华岛（英语） [[图片]](/images/postcards/Canada.jpg)
   * 来自俄罗斯梁赞（英语/俄语） [[图片]](/images/postcards/Russia.jpg)
   * 来自美国堪萨斯（英语） [[图片]](/images/postcards/USA3.jpg) 
