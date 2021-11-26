@@ -40,7 +40,7 @@ author_profile: true
 
 ### <span id="head202111"> 11月</span>
 
-* [武汉] 参加斗鱼首档线下舞蹈竞演节目《王牌舞姬》并担任导师及主持人 [[鱼吧]](https://yuba.douyu.com/p/333302781637687703) [[表演片段]](https://yuba.douyu.com/p/798090811637874139) [[活动投票]](https://www.douyu.com/topic/h5/WPWJ)
+* [武汉] 参加斗鱼首档线下舞蹈竞演节目《王牌舞姬》并担任导师及主持人 [[鱼吧海报](https://yuba.douyu.com/p/333302781637687703) · [表演片段](https://yuba.douyu.com/p/798090811637874139) · [活动投票](https://www.douyu.com/topic/h5/WPWJ)]
 * [洛阳] “金九银十”结束，PK粉狂欢！支持主播正义恰大米！
 * [洛阳] 喜提女主播情书一份 [[鱼吧](https://yuba.douyu.com/p/993401831636600416) ' [截图存档](https://i.imgur.com/k8oq5pp.png)]
 
