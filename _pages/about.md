@@ -12,7 +12,7 @@ redirect_from:
 ## 大事件
 
 * 堂主首支单曲[[我是真的爱上你]](https://music.163.com/song?id=1877540723)（翻唱）上线网易云音乐！绝赞打榜中！[[无修音版]（慎点！）](https://music.163.com/song?id=1878572653)
-* 堂主参加官方舞蹈节目表演片段 [[视频]](https://yuba.douyu.com/p/798090811637874139)
+* 堂主参加官方舞蹈节目[[表演片段]](https://yuba.douyu.com/p/798090811637874139) [[投票链接]](https://www.douyu.com/topic/h5/WPWJ)
 
 ## 水友整活
 
