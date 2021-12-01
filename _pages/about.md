@@ -12,10 +12,12 @@ redirect_from:
 ## 大事件
 
 * 堂主首支单曲[[我是真的爱上你]](https://music.163.com/song?id=1877540723)（翻唱）上线网易云音乐！绝赞打榜中！[[无修音版]（慎点！）](https://music.163.com/song?id=1878572653)
-* 堂主参加官方舞蹈节目[[表演片段]](https://yuba.douyu.com/p/798090811637874139) [[投票链接]](https://www.douyu.com/topic/h5/WPWJ)
+* 堂主参加官方舞蹈节目[[表演片段]](https://yuba.douyu.com/p/798090811637874139) 
 
 ## 水友整活
 
+* **视频**之
+  * [漠河舞厅2酒后的想念](https://yuba.douyu.com/p/558924241638189623) by z380088704 
 * **小说**之
   * [【直播时代之楚门的世界】](https://yuba.douyu.com/p/998187491625529337)[疑似停更？] by 爱情盲僧
 * 来自世界各地的[**明信片**](https://huolitangzhu.github.io/postcards/)（收集中） by 我 [Flag：以后有时间做成地图加图片链接的页面]
