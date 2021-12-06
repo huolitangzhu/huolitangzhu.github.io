@@ -1,0 +1,39 @@
+<html>
+	<head>
+    <meta charset="UTF-8">
+
+		<script type="text/javascript" src="assets/js/jvectormap/jquery-1.9.1.min.js"></script>
+		<script type="text/javascript" src="assets/js/jvectormap/jquery-jvectormap-1.2.2.min.js"></script>
+		<link href="assets/js/jvectormap/jquery-jvectormap-1.2.2.css" rel="stylesheet" media="screen">
+		<script type="text/javascript" src="assets/js/jvectormap/jquery-jvectormap-world-mill.js"></script>
+
+	</head>
+
+<body>
+
+	<div id="map" style="background-color:#353535"> </div>
+
+	<script>
+
+	var markers = [
+    {latLng: [53.21, 6.56], name: "荷兰-格罗宁根", image: 'Holland.png'},
+    {latLng: [13.76, 100.49], name: "泰国-曼谷", image: 'Thailand.png'}
+    ];
+
+	$('#map').vectorMap({
+		map: 'world_mill',
+		markerStyle: {
+		initial: {
+        fill: '#F8E23B',
+        stroke: '#383f47'
+      }
+    },
+		markers: markers,
+    onMarkerLabelShow: function(event, label, index) {
+		label.html(label.html() + '<br><img src="images/postcards/' + markers[index].image + '"width="300"><br/>');
+    }
+      });
+
+	</script>
+
+</html>
