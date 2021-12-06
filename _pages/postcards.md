@@ -32,3 +32,7 @@ author_profile: true
   * 来自美国新奥尔良（英语/西班牙语） [[图片]](/images/postcards/USA.jpg)
   * 来自伊朗德黑兰（英语/阿拉伯语） [[图片]](/images/postcards/Iran.jpg)
   * 来自意大利帕多瓦（英语） [[图片]](/images/postcards/Italy.jpg)（图片从左到右是**佛罗伦萨**的乔托钟楼，圣母百花圣殿穹顶和旧宫塔）
+
+--- 在地图上显示 ---
+
+<iframe style="max-width: 100%" frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="750px" src="https://huolitangzhu.github.io/Postcard_Maps/index.html"> </iframe>
