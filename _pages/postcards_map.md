@@ -12,6 +12,6 @@ author_profile: false
       marginheight="0" 
       width="100%" 
       height="750px" 
-      src="postcards_map.html">                                        
+      src="https://huolitangzhu.github.io/Postcard_Maps/index.html">                                        
 </iframe>
 
