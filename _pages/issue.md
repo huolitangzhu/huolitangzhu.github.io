@@ -18,4 +18,4 @@ author_profile: true
 
 由站长本人（堂主水友）创立并进行维护的基于[Jekyll](http://jekyllrb.com/)的[Mininal Mistakes](https://mademistakes.com/work/minimal-mistakes-jekyll-theme/)主题并部署于[Github Pages](https://pages.github.com/)的静态博客站点。
 
-本站托管于境外免费服务器，在大陆部分地区可能会访问不便，请谅解。目前堂主本人可顺利访问，故不考虑迁移。欢迎赞助以帮助购买对大陆地区访问更加友好的云服务。
+本站托管于境外免费服务器，在部分地区可能会访问不便，请谅解。目前堂主本人可顺利访问，故不考虑迁移。欢迎赞助以帮助购买对大陆地区访问更加友好的云服务。
