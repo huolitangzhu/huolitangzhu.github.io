@@ -15,7 +15,7 @@ author_profile: true
   * 来自台湾省苗栗縣（英语/國語） [[图片]](/images/postcards/Taiwan.jpg) （图片为寄信人在日本旅游拍摄的植物）
   * 来自加拿大温哥华岛（英语） [[图片]](/images/postcards/Canada.jpg) （图片为不列颠哥伦比亚省西海岸，邮票为农历羊年和蛇年特殊邮票）
   * 来自俄罗斯梁赞（英语/俄语） [[图片]](/images/postcards/Russia.jpg) （邮票为苏联伊尔-18飞机特殊邮票）
-  * 来自美国堪萨斯（英语） [[图片]](/images/postcards/USA3.jpg) （印有美国能源行动月特殊邮戳）
+  * 来自美国堪萨斯（英语） [[图片]](/images/postcards/USA3.jpg) （邮戳为美国能源行动月特殊邮戳）
   * 来自澳大利亚布里斯班（英语） [[图片]](/images/postcards/Australia.jpg) （图片为布里斯班故事桥，邮票为澳大利亚女兵特殊邮票）
   * 来自日本大阪（英语） [[图片]](/images/postcards/Japan.jpg) （图片为《夏秋草図屏風》（部分），邮票为雷神及国際文通週間特殊邮票）
   * 来自波黑萨拉热窝（英语/德语） [[图片]](/images/postcards/BiH.jpg) （邮票为第一版欧罗巴邮票出版五十周年特殊邮票）
