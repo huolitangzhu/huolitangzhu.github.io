@@ -20,7 +20,7 @@ redirect_from:
   * [漠河舞厅2酒后的想念](https://yuba.douyu.com/p/558924241638189623) by z380088704 
 * **小说**之
   * [【直播时代之楚门的世界】](https://yuba.douyu.com/p/998187491625529337)[疑似停更？] by 爱情盲僧
-* 来自世界各地的[**明信片**](https://huolitangzhu.github.io/postcards/)（收集中） by 我 [Flag：以后有时间做成地图加图片链接的页面]
+* 来自世界各地的[**明信片**](https://huolitangzhu.github.io/postcards/)（收集中） by 我
 * 更多整活，请见[鱼吧](https://yuba.douyu.com/group/3022) 
 
 ## 直播六周年专题
