@@ -20,7 +20,7 @@ author_profile: true
   * 来自日本大阪（英语） [[图片]](/images/postcards/Japan.jpg) （图片为《夏秋草図屏風》（部分），邮票为雷神及国際文通週間特殊邮票）
   * 来自波黑萨拉热窝（英语/德语） [[图片]](/images/postcards/BiH.jpg) （邮票为第一版欧罗巴邮票出版五十周年特殊邮票）
   * 来自美国加利福尼亚（英语） [[图片]](/images/postcards/USA2.jpg) （邮票为[世界地球日五十周年特殊邮票](https://store.usps.com/store/product/buy-stamps/earth-day-stamps-S_682604)和[拯救消失物种特殊邮票](https://www.fws.gov/news/blog/index.cfm/2018/3/5/Tiger-Stamp-Spotlight-Establishing-a-Tiger-Recovery-Clinic-in-Indonesia)（图为印尼苏门答腊虎））
-  * 来自波兰格但斯克（英语/波兰语） [[图片]](/images/postcards/Poland.png) （图片为格但斯克老城区，邮票为波兰守护神[Stanislaus of Szczepanów](https://en.wikipedia.org/wiki/Stanislaus_of_Szczepan%C3%B3w)特殊邮票）
+  * 来自波兰格但斯克（英语/波兰语） [[图片]](/images/postcards/Poland.jpg) （图片为格但斯克老城区，邮票为波兰守护神[Stanislaus of Szczepanów](https://en.wikipedia.org/wiki/Stanislaus_of_Szczepan%C3%B3w)特殊邮票）
   * 来自德国慕尼黑（英语） [[图片]](/images/postcards/Germany2.jpg) （图片为德国拳击运动员[亨利·马斯克](https://baike.baidu.com/item/%E4%BA%A8%E5%88%A9%C2%B7%E9%A9%AC%E6%96%AF%E5%85%8B/9095594)及其签名，邮票为德国女政治家[Hildegard Wegscheider](https://de.wikipedia.org/wiki/Hildegard_Wegscheider)诞辰150周年特殊邮票）
 
 --- 以下已通过快递送到堂主家 ---
