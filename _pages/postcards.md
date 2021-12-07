@@ -6,13 +6,13 @@ author_profile: true
 
 希望帮助主播尽量多地收集各地各语言的明信片：
 
-  * 来自俄罗斯赤塔（英语） [[图片]](/images/postcards/Russia3.jpg) （图片为克里姆林宫和大石桥，邮票为Rossiya号核动力破冰船特殊邮票）
-  * 来自俄罗斯伊斯特拉（英语） [[图片]](/images/postcards/Russia2.jpg) （图片为克里姆林宫和大石桥）
+  * 来自俄罗斯赤塔（英语） [[图片]](/images/postcards/Russia3.jpg) （图片为主播喜欢的飞机）
+  * 来自俄罗斯伊斯特拉（英语） [[图片]](/images/postcards/Russia2.jpg) （图片为克里姆林宫和大石桥，邮票为Rossiya号核动力破冰船特殊邮票）
   * 来自芬兰西芬兰地区（英语/芬兰语） [[图片]](/images/postcards/Finland.jpg) （图片为七瓣莲，邮票为长尾鸭特殊邮票）
   * 来自德国东弗里西亚（英语/德语） [[图片]](/images/postcards/Germany4.jpg) （图片为德国画家[奥古斯特·马克](https://baike.baidu.com/item/%E5%A5%A5%E5%8F%A4%E6%96%AF%E7%89%B9%C2%B7%E9%A9%AC%E5%85%8B/382206)画作《在公园里散步（Spaziergang im Park）》，邮票为野生动物-高地山羊特殊邮票）
   * 来自德国库尔姆巴赫（英语） [[图片]](/images/postcards/Germany3.jpg) （图片为勃兰登堡门，邮票为贝多芬诞辰250周年特殊邮票）
   * 来自广东省广州市（英语/中文） [[图片]](/images/postcards/Guangzhou.jpg) （图片为西藏阿里土林）
-  * 来自台湾省苗栗縣（英语/國語） [[图片]](/images/postcards/Taiwan.jpg)
+  * 来自台湾省苗栗縣（英语/國語） [[图片]](/images/postcards/Taiwan.jpg) （图片为寄信人在日本旅游拍摄的植物）
   * 来自加拿大温哥华岛（英语） [[图片]](/images/postcards/Canada.jpg) （图片为不列颠哥伦比亚省西海岸，邮票为农历羊年和蛇年特殊邮票）
   * 来自俄罗斯梁赞（英语/俄语） [[图片]](/images/postcards/Russia.jpg) （邮票为苏联伊尔-18飞机特殊邮票）
   * 来自美国堪萨斯（英语） [[图片]](/images/postcards/USA3.jpg) （印有美国能源行动月特殊邮戳）
