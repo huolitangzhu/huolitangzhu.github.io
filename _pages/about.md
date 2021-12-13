@@ -12,12 +12,9 @@ redirect_from:
 ## 大事件
 
 * 堂主首支单曲[[我是真的爱上你]](https://music.163.com/song?id=1877540723)（翻唱）上线网易云音乐！绝赞打榜中！[[无修音版]（慎点！）](https://music.163.com/song?id=1878572653)
-* 堂主参加官方舞蹈节目[[表演片段]](https://yuba.douyu.com/p/798090811637874139) 
 
 ## 水友整活
 
-* **视频**之
-  * [漠河舞厅2酒后的想念](https://yuba.douyu.com/p/558924241638189623) by z380088704 
 * **小说**之
   * [【直播时代之楚门的世界】](https://yuba.douyu.com/p/998187491625529337)[疑似停更？] by 爱情盲僧
 * 来自世界各地的[**明信片**](https://huolitangzhu.github.io/postcards/)（收集中） by 我
@@ -25,7 +22,7 @@ redirect_from:
 
 ## 直播六周年专题
 
-* 视频作品：[[六周年-逆流时光]](https://yuba.douyu.com/p/255485431620106597) by 花邪v
+* 视频作品：六周年-逆流时光 [[鱼吧（视频失效）]](https://yuba.douyu.com/p/255485431620106597) · [[Bilibili]](https://www.bilibili.com/video/BV16Q4y1d7Va) by 花邪v
 * 绘画作品：[[图片]](/images/sixyear/xiaoxin-pic.jpg) · [[解读]](/images/sixyear/xiaoxin-jiedu.png) by 小新
 * 音乐作品：[[鹏将行]](https://yuba.douyu.com/p/593050641622217731) by 我
 * 水友快递：猪猪玩偶若干，茶叶，与女嘉宾合照木版画，火箭玩偶，CELINE短袖&李宁国家队版乒乓球服（金爷送的），悠悠球（我送的），拳击手套若干，最佳画饼奖奖杯（运营贝尔送的）
