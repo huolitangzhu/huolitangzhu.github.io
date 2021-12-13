@@ -6,7 +6,7 @@ author_profile: true
 
 ## 明信片地图
 
-<iframe style="max-width: 100%" frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="500px" src="https://huolitangzhu.github.io/Postcard_Maps/index.html"> </iframe>
+<iframe style="max-width: 100%" frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="500px" src="https://huolitangzhu.github.io/Postcards_Map/index.html"> </iframe>
 
 ## 图文说明
 
