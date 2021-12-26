@@ -35,4 +35,4 @@ author_profile: true
   * 来自德国大乌姆施塔特（英语/德语） [[图片]](/images/postcards/Germany.jpg)
   * 来自美国新奥尔良（英语/西班牙语） [[图片]](/images/postcards/USA.jpg)
   * 来自伊朗德黑兰（英语/阿拉伯语） [[图片]](/images/postcards/Iran.jpg)
-  * 来自意大利帕多瓦（英语） [[图片]](/images/postcards/Italy.jpg)（图片从左到右是**佛罗伦萨**的乔托钟楼，圣母百花圣殿穹顶和旧宫塔）
+  * 来自意大利帕多瓦（英语） [[图片]](/images/postcards/Italy.jpg)（图片从左到右是**佛罗伦萨**的乔托钟楼，圣母百花圣殿穹顶和旧宫塔） [[主教座堂广场实时摄像头直播](https://www.skylinewebcams.com/en/webcam/italia/toscana/firenze/piazza-duomo-firenze.html) · [延时视频](https://www.skylinewebcams.com/en/webcam/italia/toscana/firenze/piazza-duomo-firenze/timelapse.html)]
