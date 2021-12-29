@@ -48,7 +48,7 @@ author_profile: true
 
 * [武汉] 参加斗鱼首档线下舞蹈竞演节目《王牌舞姬》并担任导师及主持人 [[鱼吧海报](https://yuba.douyu.com/p/333302781637687703) · [表演片段](https://yuba.douyu.com/p/798090811637874139)]
 * [洛阳] “金九银十”结束，PK粉狂欢！支持主播正义恰大米！
-* [洛阳] 喜提一台CC情书一份 [[鱼吧](https://yuba.douyu.com/p/993401831636600416) · [截图存档](https://pic.imgdb.cn/item/61c12efc2ab3f51d9155abf9.jpg)]
+* [洛阳] 喜提一台情书一份 [[鱼吧](https://yuba.douyu.com/p/993401831636600416) · [截图存档](https://pic.imgdb.cn/item/61c12efc2ab3f51d9155abf9.jpg)]
 
 ### <span id="head202110"> 10月</span>
 
