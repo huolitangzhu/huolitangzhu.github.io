@@ -40,7 +40,6 @@ author_profile: true
 
 ### <span id="head202112"> 12月</span>
 
-* [三亚] 户外节目
 * [洛阳] 和骚骚户外（室内）之华府重聚
 * [吉林] 参加斗鱼户外活动《长白山一家人》 [[我们（和董姐）是冠军]](https://pic.imgdb.cn/item/61c12dc52ab3f51d9155533a.png)
 
