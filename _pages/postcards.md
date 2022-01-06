@@ -25,7 +25,7 @@ author_profile: true
   * 来自俄罗斯梁赞（英语/俄语） [[图片]](/images/postcards/Russia.jpg) （邮票为苏联[伊尔-18](https://baike.baidu.com/item/%E4%BC%8A%E5%B0%94-18%E5%AE%A2%E6%9C%BA/17616190)飞机特殊邮票）
   * 来自美国堪萨斯（英语） [[图片]](/images/postcards/USA3.jpg) （邮戳为美国能源行动月特殊邮戳）
   * 来自澳大利亚布里斯班（英语） [[图片]](/images/postcards/Australia.jpg) （图片为布里斯班[故事桥](https://baike.baidu.com/item/%E6%95%85%E4%BA%8B%E6%A1%A5/9865031)，邮票为澳大利亚女兵特殊邮票）
-  * 来自日本大阪（英语） [[图片]](/images/postcards/Japan.jpg) （图片为《夏秋草図屏風》[东京博物馆日语简介](https://www.tnm.jp/modules/rblog/index.php/1/2013/09/15/%E5%A4%8F%E7%A7%8B%E8%8D%89%E5%9B%B3%E5%B1%8F%E9%A2%A8%E8%A6%8B%E3%81%A9%E3%81%93%E3%82%8D/)（部分），邮票为雷神及国際文通週間特殊邮票）
+  * 来自日本大阪（英语） [[图片]](/images/postcards/Japan.jpg) （图片为《夏秋草図屏風》[[东京博物馆日语简介]](https://www.tnm.jp/modules/rblog/index.php/1/2013/09/15/%E5%A4%8F%E7%A7%8B%E8%8D%89%E5%9B%B3%E5%B1%8F%E9%A2%A8%E8%A6%8B%E3%81%A9%E3%81%93%E3%82%8D/)（部分），邮票为雷神[[维基百科]](https://zh.wikipedia.org/wiki/%E9%9B%B7%E7%A5%9E_(%E6%97%A5%E6%9C%AC))及国際文通週間特殊邮票）
   * 来自波黑萨拉热窝（英语/德语） [[图片]](/images/postcards/BiH.jpg) （邮票为纪念第一版[欧罗巴邮票](https://baike.baidu.com/item/%E6%AC%A7%E7%BD%97%E5%B7%B4%E9%82%AE%E7%A5%A8/1845701)出版五十周年特殊邮票）
   * 来自美国加利福尼亚（英语） [[图片]](/images/postcards/USA2.jpg) （邮票为[世界地球日五十周年特殊邮票](https://store.usps.com/store/product/buy-stamps/earth-day-stamps-S_682604)和[拯救消失物种特殊邮票](https://www.fws.gov/news/blog/index.cfm/2018/3/5/Tiger-Stamp-Spotlight-Establishing-a-Tiger-Recovery-Clinic-in-Indonesia)（图为印尼苏门答腊虎））
   * 来自波兰格但斯克（英语/波兰语） [[图片]](/images/postcards/Poland.jpg) （图片为格但斯克老城区，邮票为波兰守护神Stanislaus of Szczepanów[[维基百科]](https://en.wikipedia.org/wiki/Stanislaus_of_Szczepan%C3%B3w)特殊邮票）
