@@ -33,10 +33,10 @@ author_profile: true
 
 ### 第一批
 
-  * 来自荷兰格罗宁根（英语/荷兰语） [[图片]](/images/postcards/Holland.png)
-  * 来自泰国曼谷（英语/泰语） [[图片]](/images/postcards/Thailand.png)
-  * 来自印度尼西亚婆罗洲（英语/印尼语） [[图片]](/images/postcards/Indonesia.png)
-  * 来自德国大乌姆施塔特（英语/德语） [[图片]](/images/postcards/Germany.jpg)
-  * 来自美国新奥尔良（英语/西班牙语） [[图片]](/images/postcards/USA.jpg)
-  * 来自伊朗德黑兰（英语/阿拉伯语） [[图片]](/images/postcards/Iran.jpg)
-  * 来自意大利帕多瓦（英语） [[图片]](/images/postcards/Italy.jpg)（图片从左到右是**佛罗伦萨**的乔托钟楼，圣母百花圣殿穹顶和旧宫塔） [[主教座堂广场实时摄像头直播](https://www.skylinewebcams.com/en/webcam/italia/toscana/firenze/piazza-duomo-firenze.html) · [延时视频](https://www.skylinewebcams.com/en/webcam/italia/toscana/firenze/piazza-duomo-firenze/timelapse.html)]
+  * 来自荷兰格罗宁根（英语/荷兰语） [[图片]](/images/postcards/Holland.png) （图片为主播家乡荷兰标志性的风车）
+  * 来自泰国曼谷（英语/泰语） [[图片]](/images/postcards/Thailand.png) （图片为主播喜欢的拳击运动）
+  * 来自印度尼西亚婆罗洲（英语/印尼语） [[图片]](/images/postcards/Indonesia.png) （图片为主播在奥飞时期团建曾去的巴厘岛，邮票为羊年特殊邮票）
+  * 来自德国大乌姆施塔特（英语/德语） [[图片]](/images/postcards/Germany.jpg) （图片为一种植物）
+  * 来自美国新奥尔良（英语/西班牙语） [[图片]](/images/postcards/USA.jpg) （图片为[卓别林](https://baike.baidu.com/item/%E6%9F%A5%E7%90%86%C2%B7%E5%8D%93%E5%88%AB%E6%9E%97/269676)，以喜剧演出闻名）
+  * 来自伊朗德黑兰（英语/阿拉伯语） [[图片]](/images/postcards/Iran.jpg) （邮票为一种植物）
+  * 来自意大利帕多瓦（英语） [[图片]](/images/postcards/Italy.jpg)（图片从左到右是**佛罗伦萨**的[乔托钟楼](https://baike.baidu.com/item/%E4%BD%9B%E7%BD%97%E4%BC%A6%E8%90%A8%E4%B8%BB%E6%95%99%E5%A0%82%E7%9A%84%E4%B9%94%E6%89%98%E9%92%9F%E6%A5%BC/6193995)，[圣母百花圣殿](https://baike.baidu.com/item/%E8%8A%B1%E4%B9%8B%E5%9C%A3%E6%AF%8D%E5%A4%A7%E6%95%99%E5%A0%82/8723201)穹顶和[旧宫](https://www.virtualuffizi.com/zh/%E6%97%A7%E5%AE%AB.html)塔） [[主教座堂广场实时摄像头直播](https://www.skylinewebcams.com/en/webcam/italia/toscana/firenze/piazza-duomo-firenze.html) · [延时视频](https://www.skylinewebcams.com/en/webcam/italia/toscana/firenze/piazza-duomo-firenze/timelapse.html)]
