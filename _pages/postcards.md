@@ -10,6 +10,10 @@ author_profile: true
 
 ## 图文说明
 
+--- 以下已通过快递送到堂主家并帮助混了几分钟直播时长 ---
+
+### 第二批
+
   * 来自俄罗斯赤塔（英语） [[图片]](/images/postcards/Russia3.jpg) （图片为主播喜欢的飞机）
   * 来自俄罗斯伊斯特拉（英语） [[图片]](/images/postcards/Russia2.jpg) （图片为克里姆林宫和大石桥，邮票为Rossiya号核动力破冰船特殊邮票）
   * 来自芬兰西芬兰省（英语/芬兰语） [[图片]](/images/postcards/Finland.jpg) （图片为七瓣莲，邮票为长尾鸭特殊邮票）
@@ -27,7 +31,7 @@ author_profile: true
   * 来自波兰格但斯克（英语/波兰语） [[图片]](/images/postcards/Poland.jpg) （图片为格但斯克老城区，邮票为波兰守护神[Stanislaus of Szczepanów (Wiki)](https://en.wikipedia.org/wiki/Stanislaus_of_Szczepan%C3%B3w)特殊邮票）
   * 来自德国慕尼黑（英语） [[图片]](/images/postcards/Germany2.jpg) （图片为德国拳击运动员[亨利·马斯克](https://baike.baidu.com/item/%E4%BA%A8%E5%88%A9%C2%B7%E9%A9%AC%E6%96%AF%E5%85%8B/9095594)及其签名，邮票为德国女政治家[Hildegard Wegscheider](https://de.wikipedia.org/wiki/Hildegard_Wegscheider)诞辰150周年特殊邮票）
 
---- 以下已通过快递送到堂主家并帮助混了几分钟直播时长 ---
+### 第一批
 
   * 来自荷兰格罗宁根（英语/荷兰语） [[图片]](/images/postcards/Holland.png)
   * 来自泰国曼谷（英语/泰语） [[图片]](/images/postcards/Thailand.png)
