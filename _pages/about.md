@@ -16,6 +16,8 @@ redirect_from:
 
 ## 水友整活
 
+* **视频**之
+  * [好妹妹图鉴3](https://yuba.douyu.com/p/983309451641741015) by 花邪v
 * **小说**之
   * [【直播时代之楚门的世界】](https://yuba.douyu.com/p/998187491625529337)[疑似停更？] by 爱情盲僧
 * 来自世界各地的[**明信片**](https://huolitangzhu.github.io/postcards/)（收集中） by 我
