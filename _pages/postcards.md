@@ -11,8 +11,8 @@ author_profile: true
 ## 图文说明
 
   * 来自日本大阪 （英语/日语） [[图片]](/images/postcards/Japan3.jpg) （图片为野猪和地藏佛像，邮票为[2022新年特殊邮票](https://www.post.japanpost.jp/kitte/collection/archive/2021/1101_01/)和[2021年国际文通周特殊邮票](https://www.post.japanpost.jp/kitte/collection/archive/2021/1008_01/)，邮戳为大阪中央邮局特殊邮戳）
-  * 来自德国诺图尔恩（英语/德语） [[图片]](/images/postcards/Germany5.jpg) （图片为当地圣马丁教堂，邮票为玛利亚广场地铁站特殊邮票）
-  * 来自美国迈尔斯堡（英语） [[图片]](/images/postcards/USA4.jpg) （图片为美国最小的邮政局，邮戳为最小邮政局特殊邮戳）
+  * 来自德国诺图尔恩（英语/德语） [[图片]](/images/postcards/Germany5.jpg) （图片为当地圣马丁教堂，邮票为[玛利亚广场地铁站特殊邮票](https://shop.deutschepost.de/marienplatz-muenchen-briefmarke-zu-0-95-eur-10er-bogen)）
+  * 来自美国迈尔斯堡（英语） [[图片]](/images/postcards/USA4.jpg) （图片为[美国最小的邮政局](https://facts.usps.com/smallest-post-office/)，邮戳为该邮政局特殊邮戳）
   * 来自日本东京（英语/日语） [[图片]](/images/postcards/Japan2.jpg) （图片为家乡の二次元）
 
 --- 以下已通过快递送到堂主家并帮助混了几分钟直播时长 ---
