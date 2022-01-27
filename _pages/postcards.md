@@ -10,8 +10,9 @@ author_profile: true
 
 ## 图文说明
 
-  * 来自德国多特蒙德（英语） [[图片]](/images/postcards/Germany6.jpg) （图片一种运动）
-  * 来自美国威奇托（英语） [[图片]](/images/postcards/USA5.jpg) （图片为一种动物）
+  * 来自美国纽约（英语） [[图片]](/images/postcards/USA6.jpg) （图片为自由女神像，邮票为[奇彭代尔椅特殊邮票](https://about.usps.com/postal-bulletin/2013/pb22379/html/info_009.htm)）
+  * 来自德国多特蒙德（英语） [[图片]](/images/postcards/Germany6.jpg) （图片一种运动，邮票为[老汽车特殊邮票](https://shop.deutschepost.de/historische-nutzfahrzeuge-bergmann-gaggenau-1906-briefmarke-zu-0-95-plus-0-45-eur-10er-bogen)（可惜图里是奔驰的车型，不是宝马））
+  * 来自美国威奇托（英语） [[图片]](/images/postcards/USA5.jpg) （图片为一种动物，邮票为[一品红特殊邮票](https://store.usps.com/store/product/buy-stamps/global-poinsettia-stamps-S_565904)）
   * 来自荷兰米德尔堡（英语/荷兰语） [[图片]](/images/postcards/Holland2.jpg) （图片为小丑涂脸）
   * 来自日本大阪 （英语/日语） [[图片]](/images/postcards/Japan3.jpg) （图片为野猪和地藏佛像，邮票为[2022新年特殊邮票](https://www.post.japanpost.jp/kitte/collection/archive/2021/1101_01/)和[2021年国际文通周特殊邮票](https://www.post.japanpost.jp/kitte/collection/archive/2021/1008_01/)，邮戳为大阪中央邮局特殊邮戳）
   * 来自德国诺图尔恩（英语/德语） [[图片]](/images/postcards/Germany5.jpg) （图片为当地圣马丁教堂，邮票为[玛利亚广场地铁站特殊邮票](https://shop.deutschepost.de/marienplatz-muenchen-briefmarke-zu-0-95-eur-10er-bogen)）
