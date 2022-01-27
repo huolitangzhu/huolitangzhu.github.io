@@ -10,6 +10,7 @@ author_profile: true
 
 ## 图文说明
 
+  * 来自德国多特蒙德（英语） [[图片]](/images/postcards/Germany6.jpg) （图片一种运动）
   * 来自美国威奇托（英语） [[图片]](/images/postcards/USA5.jpg) （图片为一种动物）
   * 来自荷兰米德尔堡（英语/荷兰语） [[图片]](/images/postcards/Holland2.jpg) （图片为小丑涂脸）
   * 来自日本大阪 （英语/日语） [[图片]](/images/postcards/Japan3.jpg) （图片为野猪和地藏佛像，邮票为[2022新年特殊邮票](https://www.post.japanpost.jp/kitte/collection/archive/2021/1101_01/)和[2021年国际文通周特殊邮票](https://www.post.japanpost.jp/kitte/collection/archive/2021/1008_01/)，邮戳为大阪中央邮局特殊邮戳）
