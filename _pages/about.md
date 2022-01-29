@@ -11,6 +11,7 @@ redirect_from:
 
 ## 大事件
 
+![image](https://user-images.githubusercontent.com/82739785/151646364-86e909aa-c5fd-402e-b824-b9d07f8a681c.png)
 * 祝主播及各位网友**农历**新年快乐！大家上一上！
 * 主播首支单曲[[我是真的爱上你]](https://music.163.com/song?id=1877540723)（翻唱）上线网易云音乐！绝赞打榜中！[[无修音版]（慎点！）](https://music.163.com/song?id=1878572653)
 
