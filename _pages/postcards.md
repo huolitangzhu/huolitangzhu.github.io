@@ -10,6 +10,8 @@ author_profile: true
 
 ## 图文说明
 
+  * 来自美国哈里斯堡（英语） [[图片]](/images/postcards/USA9.jpg) （图片为宾州州花山月桂和宾州议会大厦，特殊邮票同下）
+  * 来自美国费城（英语） [[图片]](/images/postcards/USA8.jpg) （图片为[贝琪·罗斯故居博物馆](https://baike.baidu.com/item/%E8%B4%9D%E7%90%AA%C2%B7%E7%BD%97%E6%96%AF%E6%95%85%E5%B1%85/24176216)，[拯救消失物种特殊邮票](https://www.fws.gov/news/blog/index.cfm/2018/3/5/Tiger-Stamp-Spotlight-Establishing-a-Tiger-Recovery-Clinic-in-Indonesia)（图为印尼苏门答腊虎）和[霸王龙特殊邮票](https://about.usps.com/newsroom/national-releases/2019/0829-fearsome-dinosaur-immortalized-on-forever-stamps.htm)）
   * 来自美国米德尔菲尔德（英语） [[图片]](/images/postcards/USA7.jpg) （邮票为[山姆大叔帽子特殊邮票](https://store.usps.com/store/product/buy-stamps/2017-uncle-sams-hat-stamps-S_119704)）
   * 来自美国纽约（英语） [[图片]](/images/postcards/USA6.jpg) （图片为自由女神像，邮票为[奇彭代尔椅特殊邮票](https://about.usps.com/postal-bulletin/2013/pb22379/html/info_009.htm)）
   * 来自德国多特蒙德（英语） [[图片]](/images/postcards/Germany6.jpg) （图片一种运动，邮票为[老汽车特殊邮票](https://shop.deutschepost.de/historische-nutzfahrzeuge-bergmann-gaggenau-1906-briefmarke-zu-0-95-plus-0-45-eur-10er-bogen)（可惜图里是奔驰的车型，不是宝马））
