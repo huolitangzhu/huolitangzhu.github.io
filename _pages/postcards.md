@@ -10,6 +10,7 @@ author_profile: true
 
 ## 图文说明
 
+  * 来自乌克兰基辅（英语） [[图片]](/images/postcards/Ukraine1.jpg) （图片文字翻译为“记住最珍爱的”）
   * 来自美国哈里斯堡（英语） [[图片]](/images/postcards/USA9.jpg) （图片为宾州州花山月桂和宾州议会大厦，特殊邮票同下）
   * 来自美国费城（英语） [[图片]](/images/postcards/USA8.jpg) （图片为[贝琪·罗斯故居博物馆](https://baike.baidu.com/item/%E8%B4%9D%E7%90%AA%C2%B7%E7%BD%97%E6%96%AF%E6%95%85%E5%B1%85/24176216)，[拯救消失物种特殊邮票](https://www.fws.gov/news/blog/index.cfm/2018/3/5/Tiger-Stamp-Spotlight-Establishing-a-Tiger-Recovery-Clinic-in-Indonesia)（图为印尼苏门答腊虎）和[霸王龙特殊邮票](https://about.usps.com/newsroom/national-releases/2019/0829-fearsome-dinosaur-immortalized-on-forever-stamps.htm)）
   * 来自美国米德尔菲尔德（英语） [[图片]](/images/postcards/USA7.jpg) （邮票为[山姆大叔帽子特殊邮票](https://store.usps.com/store/product/buy-stamps/2017-uncle-sams-hat-stamps-S_119704)）
