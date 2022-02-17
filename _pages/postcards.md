@@ -10,6 +10,8 @@ author_profile: true
 
 ## 图文说明
 
+  * 来自德国埃森 （英语）[[图片]](/images/postcards/Germany7.jpg) （图片为一种动物）
+  * 来自河北保定（中文）[[图片]](/images/postcards/China Baoding.jpg) （邮票有两种虎年特殊邮票）
   * 来自美国丹佛（英语） [[图片]](/images/postcards/USA10.jpg) （图片为一种动物）
   * 来自乌克兰基辅（英语） [[图片]](/images/postcards/Ukraine1.jpg) （图片文字翻译为“记住最珍爱的”）
   * 来自美国哈里斯堡（英语） [[图片]](/images/postcards/USA9.jpg) （图片为宾州州花山月桂和宾州议会大厦，特殊邮票同下）
