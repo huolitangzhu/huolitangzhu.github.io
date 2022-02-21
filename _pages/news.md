@@ -42,6 +42,7 @@ author_profile: true
 
 ### <span id="head202202"> 2月</span>
 
+* [洛阳] 和[慕一cc](https://www.douyu.com/549212)，[Lola](https://www.douyu.com/2454442)，[雪兔](https://www.douyu.com/131197)，[十七](https://www.douyu.com/792252)户外之《风起洛阳》
 * [洛阳] 游戏（LOL）粉狂欢！哇哇哇哇！！！！💃💃💃💃💃上大分了happy！
 
 ### <span id="head202201"> 1月</span>
