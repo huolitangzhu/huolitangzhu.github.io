@@ -42,8 +42,7 @@ author_profile: true
 
 ### <span id="head202202"> 2月</span>
 
-* [洛阳] 和[慕一cc](https://www.douyu.com/549212)，[Lola](https://www.douyu.com/2454442)，[雪兔](https://www.douyu.com/131197)，[十七](https://www.douyu.com/792252)户外之《风起洛阳》
-* [洛阳] 游戏（LOL）粉狂欢！哇哇哇哇！！！！💃💃💃💃💃上大分了happy！
+* [洛阳] 和[cc](https://www.douyu.com/549212)，[Lola](https://www.douyu.com/2454442)，[雪兔](https://www.douyu.com/131197)，[十七](https://www.douyu.com/792252)户外之《风起洛阳》 [[合照]](https://img.douyucdn.cn/data/yuba/weibo/2022/02/24/202202241459139271344781700.gif)
 
 ### <span id="head202201"> 1月</span>
 
@@ -60,7 +59,7 @@ author_profile: true
 
 * [武汉] 参加斗鱼首档线下舞蹈竞演节目《王牌舞姬》并担任导师及主持人 [[鱼吧海报](https://yuba.douyu.com/p/333302781637687703) · [表演片段](https://yuba.douyu.com/p/798090811637874139)]
 * [洛阳] “金九银十”结束，PK粉狂欢！支持主播正义恰大米！
-* [洛阳] 喜提一台情书一份 [[鱼吧](https://yuba.douyu.com/p/993401831636600416) · [截图存档](https://pic.imgdb.cn/item/61c12efc2ab3f51d9155abf9.jpg)]
+* [洛阳] 喜提一台情书一份 [[鱼吧](https://yuba.douyu.com/p/993401831636600416)]
 
 ### <span id="head202110"> 10月</span>
 
@@ -78,7 +77,7 @@ author_profile: true
 
 ### <span id="head202108"> 8月</span>
 
-* [洛阳] 游戏粉[狂欢](https://img.douyucdn.cn/data/yuba/weibo/2021/09/19/20210919021225667975481960.jpg)！偶尔有[素人女嘉宾](https://yuba.douyu.com/user/main/6N7noWrpB6wb)出现
+* [洛阳] 游戏粉[狂欢](https://img.douyucdn.cn/data/yuba/weibo/2021/09/19/20210919021225667975481960.jpg)！
 
 ### <span id="head202107"> 7月</span>
 
