@@ -42,7 +42,7 @@ author_profile: true
 
 ### <span id="head202203"> 3月</span>
 
-* [洛阳] 游戏（老头环）粉狂欢！
+* [洛阳] 游戏粉狂欢之老头环！
 
 ### <span id="head202202"> 2月</span>
 
@@ -50,7 +50,7 @@ author_profile: true
 
 ### <span id="head202201"> 1月</span>
 
-* [洛阳] 游戏（LOL）粉狂欢！
+* [洛阳] 游戏粉狂欢之LOL！
 
 ## <span id="head2021"> 2021年 </span>
 
@@ -81,7 +81,7 @@ author_profile: true
 
 ### <span id="head202108"> 8月</span>
 
-* [洛阳] 游戏粉[狂欢](https://img.douyucdn.cn/data/yuba/weibo/2021/09/19/20210919021225667975481960.jpg)！
+* [洛阳] 游戏粉[狂欢](https://img.douyucdn.cn/data/yuba/weibo/2021/09/19/20210919021225667975481960.jpg)之永劫无间！
 
 ### <span id="head202107"> 7月</span>
 
