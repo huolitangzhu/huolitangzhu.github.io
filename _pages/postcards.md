@@ -10,7 +10,7 @@ author_profile: true
 
 ## 图文说明
 
-  * 来自俄罗斯莫斯科 (英语) [[英语]](/images/postcards/Russia5.jpg) (图片为克里姆林宫个红色五星)
+  * 来自俄罗斯莫斯科 (英语) [[英语]](/images/postcards/Russia5.jpg) (图片为克里姆林宫红色五星)
   * 来自俄罗斯库尔干（英语）[[英语]](/images/postcards/Russia4.jpg) (图片为德国联邦议院)
   * 来自德国埃森 英语）[[图片]](/images/postcards/Germany7.jpg) （图片为一种动物）
   * 来自河北保定（中文）[[图片]](/images/postcards/ChinaBaoding.jpg) （邮票有两种虎年特殊邮票）
