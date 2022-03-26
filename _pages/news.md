@@ -42,7 +42,7 @@ author_profile: true
 
 ### <span id="head202203"> 3月</span>
 
-* [洛阳] 游戏粉狂欢之老头环！
+* [惠州] 参加斗鱼户外活动《猎爱游戏2》[[海报]](https://img.douyucdn.cn/data/yuba/weibo/2022/03/17/20220317135253711679627664.png)
 
 ### <span id="head202202"> 2月</span>
 
