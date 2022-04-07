@@ -16,6 +16,8 @@ redirect_from:
 
 ## 水友整活
 
+* **CP**之
+  * [到底是要干嘛啊………](https://yuba.douyu.com/p/351664061649269887) by 曼希只是仙女丶 
 * **视频**之
   * [火力公寓第一期](https://yuba.douyu.com/p/503763041649141424) by 泥董的
   * [好妹妹图鉴番外之黑白舞曲](https://yuba.douyu.com/p/983309451641741015) by 花邪v
