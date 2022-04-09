@@ -19,10 +19,10 @@ redirect_from:
 * **CP**之
   * [到底是要干嘛啊………](https://yuba.douyu.com/p/351664061649269887) by 曼希只是仙女丶 
 * **视频**之
-  * [火力公寓第一期](https://yuba.douyu.com/p/503763041649141424) by 泥董的
+  * 火力公寓[第一期](https://yuba.douyu.com/p/503763041649141424) · [第二期](https://yuba.douyu.com/p/597284961649439452) by 泥董的
   * [好妹妹图鉴番外之黑白舞曲](https://yuba.douyu.com/p/983309451641741015) by 花邪v
 * **小说**之
-  * [【直播时代之楚门的世界】](https://yuba.douyu.com/p/998187491625529337)[疑似停更？] by 爱情盲僧
+  * [【直播时代之楚门的世界】](https://yuba.douyu.com/p/998187491625529337)(停更) by 爱情盲僧
 * 来自世界各地的[**明信片**](https://huolitangzhu.github.io/postcards/)（收集中） by 我
 * 更多整活，请见[鱼吧](https://yuba.douyu.com/group/3022) 
 
