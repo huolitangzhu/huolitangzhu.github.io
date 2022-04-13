@@ -10,6 +10,8 @@ author_profile: true
 
 ## 图文说明
 
+  * 来自荷兰德龙滕（英语/荷语）[[图片]](/images/postcards/Holland3.jpg) （图片和邮票均为流苏鹬）
+  * 来自美国萨姆特（英语）[[图片]](/images/postcards/USA11.jpg) （图片为火烈鸟）
   * 来自德国柏林（英语）[[图片]](/images/postcards/Germany9.jpg) （图片为家乡の富士山）
   * 来自德国美因茨（英语）[[图片]](/images/postcards/Germany8.jpg) （图片为冰岛霍夫索斯的一大片植物）
   * 来自俄罗斯莫斯科（英语）[[图片]](/images/postcards/Russia5.jpeg) （图片为克里姆林宫红色五星）
