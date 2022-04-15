@@ -1,8 +1,10 @@
 ---
-title: "视频合辑"
+title: "影音合辑"
 permalink: /videos/
 author_profile: true
 ---
+
+## 视频
 
 ### 直播时代 by dreamover1010
 
@@ -27,10 +29,6 @@ author_profile: true
 
 | 校园栏目剧《青春魔方》之[《爱情麻辣烫》](https://v.youku.com/v_show/id_XMTUyMTgzNDg4.html) | 电影[《废柴联盟》](https://www.iqiyi.com/v_19rr3kbmys.html)
 
-### 音乐作品
-
-| [我是真的爱上你（翻唱）](https://music.163.com/#/song?id=1877540723) | [鹏将行（Cover：星尘）](https://yuba.douyu.com/p/593050641622217731) |
-
 ### 悠悠球合辑 
 
 | **官方活动** | 2019年[央视《黄金一百秒》](http://tv.cctv.com/2019/12/19/VIDE2wUNYhDLDzT73hqwSLGN191219.shtml) | 2015年火力少年王电视争霸赛 [腾讯视频完整版](https://v.qq.com/detail/w/wxe7z4egf3v24t9.html) · [总决赛央视版](http://tv.cctv.com/2015/06/18/VIDE1434623763859661.shtml) 
@@ -41,3 +39,11 @@ author_profile: true
 | 2012年[悠悠球甩铁塔](https://v.youku.com/v_show/id_XNDAxODYzMDA4.html) · [巴啦啦小魔仙舞蹈](https://v.youku.com/v_show/id_XNDA3ODA5MjY4.html) · [中国好悠悠RAP](https://v.youku.com/v_show/id_XNDY3NTc0MTMy.html) | 2011年[CYYC现场RAP](https://v.youku.com/v_show/id_XNDAxNjgxMjAw.html)
 
 摊牌了，我是铁血悠悠球粉。
+
+## 音频
+
+| [我是真的爱上你（翻唱）](https://music.163.com/#/song?id=1877540723) by 主播 | [鹏将行（Cover：星尘）](https://yuba.douyu.com/p/593050641622217731) by 我 |
+
+## 小说
+
+[【直播时代之楚门的世界】](https://yuba.douyu.com/p/998187491625529337) by 爱情盲僧
