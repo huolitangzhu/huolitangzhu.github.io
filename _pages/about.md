@@ -22,22 +22,13 @@ redirect_from:
 * 来自世界各地的[**明信片**](https://huolitangzhu.github.io/postcards/)（收集中） by 我
 * 更多整活，请见[鱼吧](https://yuba.douyu.com/group/3022) 
 
-<!--
-## 直播六周年专题
-
-* 视频作品：六周年-逆流时光 [[鱼吧（视频失效）]](https://yuba.douyu.com/p/255485431620106597) · [[Bilibili]](https://www.bilibili.com/video/BV16Q4y1d7Va) by 花邪v
-* 绘画作品：[[图片]](/images/sixyear/xiaoxin-pic.jpg) · [[解读]](/images/sixyear/xiaoxin-jiedu.png) by 小新
-* 音乐作品：[[鹏将行]](https://yuba.douyu.com/p/593050641622217731) by 我
-* 水友快递：猪猪玩偶若干，茶叶，与女嘉宾合照木版画，火箭玩偶，CELINE短袖&李宁国家队版乒乓球服（金爷送的），悠悠球（我送的），拳击手套若干，最佳画饼奖奖杯（运营贝尔送的）
--->
-
 ## 主播属性
 
 * 生理の参数：`性别：男` · `出生：1987年` · `身高：176cm` · `体重：85kg`
 * 特色の弹幕：`爱过` · `这闹得` · `立功了` · `狂` · `麻了` · `歪日`
 * 最爱の美食：`罗森` · `杨国福` · `钟薛高` · `肉盒` · `玉米` · `毛豆`
 * 王牌の节目：`罗森守夜人` · `宾馆划水` · `另类CP` · `疯狂怼水友`
-* 自我の评价：[[图片]](/images/about/bio.png)
+* 自我の评价：[[图片]](/images/about/bio.png) · “直播是我的生活，生活是我的直播。” —— 主播朋友圈
 
 ## 专属BGM
 
