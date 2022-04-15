@@ -10,17 +10,15 @@ redirect_from:
 生活秀主播（包括户外和打游戏等），斗鱼房间号[241123](https://www.douyu.com/241123)，外号“赵老师”、“猪猪”等。
 反应机敏，擅长做节目效果（主播的一生都是节目效果，“直播是我的生活，生活是我的直播。” Live is my living, living is my live. Nothing cooler.）。
 
-## 大事件
+## 近期动态
 
-* 主播首支单曲[[我是真的爱上你]](https://music.163.com/song?id=1877540723)（翻唱）上线网易云音乐！绝赞打榜中！[[无修音版]（慎点！）](https://music.163.com/song?id=1878572653)
+* 下一站户外吃苦节目，大家准备上一上
+* 首支单曲[[我是真的爱上你]](https://music.163.com/song?id=1877540723)（翻唱）上线网易云音乐！绝赞打榜中！[[无修音版]（慎点！）](https://music.163.com/song?id=1878572653)
 
 ## 水友整活
 
 * **视频**之
   * 火力公寓[第一期](https://yuba.douyu.com/p/503763041649141424) · [第二期](https://yuba.douyu.com/p/597284961649439452) by 泥董的
-  * [好妹妹图鉴番外之黑白舞曲](https://yuba.douyu.com/p/983309451641741015) by 花邪v
-* **小说**之
-  * [【直播时代之楚门的世界】](https://yuba.douyu.com/p/998187491625529337)(停更) by 爱情盲僧
 * 来自世界各地的[**明信片**](https://huolitangzhu.github.io/postcards/)（收集中） by 我
 * 更多整活，请见[鱼吧](https://yuba.douyu.com/group/3022) 
 
