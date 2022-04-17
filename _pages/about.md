@@ -18,6 +18,8 @@ redirect_from:
 ## 水友整活
 
 * **视频**之
+  * 张姐党归来之[《猪猪绅士》](https://yuba.douyu.com/p/129203121650085646)
+  * 八一党崛起之[《Fallin for You》](https://yuba.douyu.com/p/558874381650085857) · [《别学我》](https://yuba.douyu.com/p/103775411649916365)
   * 火力公寓[第一期](https://yuba.douyu.com/p/503763041649141424) · [第二期](https://yuba.douyu.com/p/597284961649439452) by 泥董的
 * 来自世界各地的[**明信片**](https://huolitangzhu.github.io/postcards/)（收集中） by 我
 * 更多整活，请见[鱼吧](https://yuba.douyu.com/group/3022) 
