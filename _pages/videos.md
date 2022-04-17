@@ -42,7 +42,7 @@ author_profile: true
 
 ## 音频
 
-| [我是真的爱上你（翻唱）](https://music.163.com/#/song?id=1877540723) by 主播 | [鹏将行（Cover：星尘）](https://yuba.douyu.com/p/593050641622217731) by 我 |
+| [我是真的爱上你（翻唱）](https://music.163.com/#/song?id=1877540723) by 主播 | [鹏将行（Cover：星尘）](https://yuba.douyu.com/p/593050641622217731) by 我 · 直播[翻唱](https://v.douyu.com/show/wLjGvLZPeexMmO90) by 幕一cc |
 
 ## 小说
 
