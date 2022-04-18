@@ -40,5 +40,16 @@
 
 <!-- update existing v4 CSS to use v6 icons and assets -->
 <link href="{{ base_path }}/_sass/vendor/font-awesome/css/v4-font-face.css" rel="stylesheet" 
+      
+<!-- Our project just needs Font Awesome Solid + Brands -->
+  <script defer src="{{ base_path }}/_sass/vendor/font-awesome/js/brands.js"></script>
+  <script defer src="{{ base_path }}/_sass/vendor/font-awesome/js/solid.js"></script>
+  <script defer src="{{ base_path }}/_sass/vendor/font-awesome/js/fontawesome.js"></script>
+
+<!-- support v4 icon references/syntax -->
+  <script defer src="{{ base_path }}/_sass/vendor/font-awesome/js/v4-shims.js"></script>
+
+<!--load your compiled CSS (including Font Awesome) -->
+  <link href="{{ base_path }}/assets/css/about.css" rel="stylesheet">
 
 <meta http-equiv="cleartype" content="on">
