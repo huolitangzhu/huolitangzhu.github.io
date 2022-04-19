@@ -219,7 +219,7 @@ author_profile: true
 
 ## <span id="head2009"> 2009年 </span>
 
-* [长沙] 参加《天天向上》节目
+* [长沙] 参加《天天向上》节目之[《YOYO球冠军 巅峰对决》](https://w.mgtv.com/b/293628/3241590.html)
 
 ## <span id="head2008"> 2008年 </span>
 
