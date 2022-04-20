@@ -13,24 +13,24 @@ author_profile: true
 	- [ 2020年 ](#head2020)
 		| [12月](#head202012) | [9月](#head202009) | [8月](#head202008) | [7月](#head202007) | [5月](#head202005) 
 	- [ 2019年 ](#head2019)
-		| [12月](#head201912) 参加央视《黄金一百秒》
+		| [12月](#head201912) 参加央视《黄金一百秒》 | [6月](#head201906) 第二次参加录制《天天向上》
 	- [ 2018年 ](#head2018)
 		| [8月](#head201808) 唯一官方直播当年世界悠悠球大赛
 	- [ 2017年 ](#head2017)
-		| [7月](#head201707) ~~带领~~Team干制霸CYYC（中国悠悠球冠军赛）	
+		| [7月](#head201707) ~~带领~~Team干制霸CYCC（中国悠悠球冠军赛）	
 	- [ 2016年 ](#head2016)
-		| [7月](#head201607) ~~带领~~Team干制霸CYYC | [1月](#head201601) 赞助CYYC山东赛
+		| [7月](#head201607) ~~带领~~Team干制霸CYCC | [1月](#head201601) 赞助CYCC山东赛
 	- [ 2015年 ](#head2015)
-		| [12月](#head201512) 悠悠球人的传承 | [10月](#head201510) 偶遇霆锋 | [7月](#head201507) ~~带领~~Team干制霸CYYC | [6月](#head201506) 第二次参加《天天向上》
+		| [12月](#head201512) 悠悠球人的传承 | [10月](#head201510) 偶遇霆锋 | [7月](#head201507) ~~带领~~Team干制霸CYCC
 		
 - 直播前  {~2015年5月4日}
 
 	- [ 2015年 ](#head2015)
 		| [2月](#head201502) 担任张子枫临时助理三天，和任达华共进盒饭并与林XX关系恶化
 	- [ 2014年 ](#head2014)
-		| [10月](#head201410) 参加北京卡酷少儿电视台节目 | [7月](#head201407) 参加CYYC
+		| [10月](#head201410) 参加北京卡酷少儿电视台节目 | [7月](#head201407) 参加CYCC
 	- [ 2009年 ](#head2009)
-		| 第一次参加《天天向上》
+		| 第一次参加录制《天天向上》
 	- [ 2008年 ](#head2008)
 		| 参演校园栏目剧《青春魔方》之《爱情麻辣烫》	
 	- [ 2006年 ](#head2006)
@@ -158,6 +158,10 @@ author_profile: true
 
 * [偃师] 参加[央视《黄金一百秒》](https://huolitangzhu.github.io/videos/)
 
+### <span id="head201906"> 6月</span>
+
+* [长沙] 第二次参加录制湖南卫视[《天天向上》](https://w.mgtv.com/b/327225/5781450.html?fpa=se)
+
 ## <span id="head2018"> 2018年 </span>
 
 ### <span id="head201808"> 8月</span>
@@ -168,17 +172,17 @@ author_profile: true
 
 ### <span id="head201707"> 7月</span>
 
-* [广州] ~~带领~~Team干制霸CYYC [[合影]](/images/news/2017CYYC.jpg) [[直播录像]](https://huolitangzhu.github.io/videos/)
+* [广州] ~~带领~~Team干制霸CYCC [[合影]](/images/news/2017CYYC.jpg) [[直播录像]](https://huolitangzhu.github.io/videos/)
 
 ## <span id="head2016"> 2016年 </span>
 
 ### <span id="head201607"> 7月</span>
 
-* [广州] ~~带领~~Team干制霸CYYC [[合影]](/images/news/2016CYYC.jpg) [[聚餐]](/images/news/Team干2016.jpg)
+* [广州] ~~带领~~Team干制霸CYCC [[合影]](/images/news/2016CYYC.jpg) [[聚餐]](/images/news/Team干2016.jpg)
 
 ### <span id="head201601"> 1月</span>
 
-* [青岛] 赞助CYYC山东赛 [[海报]](/images/news/2016山东赛.jpg) 
+* [青岛] Team干赞助CYCC山东赛 [[海报]](/images/news/2016山东赛.jpg) 
 
 ## <span id="head2015"> 2015年 </span>
 
@@ -192,11 +196,10 @@ author_profile: true
 
 ### <span id="head201507"> 7月</span>
 
-* [广州] ~~带领~~Team干制霸CYYC [[合影]](/images/news/2015CYYC.jpg) [[赛后视频]](https://v.qq.com/x/page/o0175e9ce3a.html)
+* [广州] ~~带领~~Team干制霸CYCC [[合影]](/images/news/2015CYYC.jpg) [[赛后视频]](https://v.qq.com/x/page/o0175e9ce3a.html)
 
 ### <span id="head201506"> 6月</span>
 
-* [长沙] 第二次参加《天天向上》节目，教武艺玩悠悠球
 * [北京] 主持[火力少年王电视争霸赛](https://huolitangzhu.github.io/videos/)央视播出
 
 ### <span id="head201502"> 2月</span>
@@ -211,15 +214,15 @@ author_profile: true
 
 ### <span id="head201410"> 10月</span>
 
-* [北京] 参加卡酷少儿电视台节目 [[模仿发哥]](/images/news/卡酷.jpg)
+* [北京] 参加北京卡酷少儿电视台节目 [[模仿发哥]](/images/news/卡酷.jpg)
 
 ### <span id="head201407"> 7月</span>
 
-* [广州] 参加CYYC，合影四届悠悠球世界冠军铃木裕之（Hiroyuki Suzuki） [[合影]](/images/news/铃木裕之.jpg) 
+* [广州] 参加CYCC[[比赛视频]](https://www.bilibili.com/video/BV1dS4y197eh?p=92)，合影四届悠悠球世界冠军铃木裕之（Hiroyuki Suzuki）[[合影]](/images/news/铃木裕之.jpg) 
 
 ## <span id="head2009"> 2009年 </span>
 
-* [长沙] 参加《天天向上》节目之[《YOYO球冠军 巅峰对决》](https://w.mgtv.com/b/293628/3241590.html)
+* [长沙] 参加录制《天天向上》节目之[《YOYO球冠军 巅峰对决》](https://w.mgtv.com/b/293628/3241590.html)
 
 ## <span id="head2008"> 2008年 </span>
 
@@ -227,7 +230,7 @@ author_profile: true
 
 ## <span id="head2006"> 2006年 </span>
 
-* [长沙] 参加《快乐大本营》节目并与谢X关系开始恶化
+* [长沙] 参加录制《快乐大本营》节目并与谢X关系开始恶化
 
 ## <span id="head1901"> 1901年 </span>
 
