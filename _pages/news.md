@@ -15,7 +15,7 @@ author_profile: true
 	- [ 2019年 ](#head2019)
 		| [12月](#head201912) 参加央视《黄金一百秒》 | [6月](#head201906) 第二次参加录制《天天向上》
 	- [ 2018年 ](#head2018)
-		| [8月](#head201808) 唯一官方直播当年世界悠悠球大赛
+		| [8月](#head201808) 唯一官方现场直播当年世界悠悠球大赛
 	- [ 2017年 ](#head2017)
 		| [7月](#head201707) ~~带领~~Team干制霸CYCC（中国悠悠球冠军赛）	
 	- [ 2016年 ](#head2016)
@@ -166,7 +166,7 @@ author_profile: true
 
 ### <span id="head201808"> 8月</span>
 
-* [上海] 直播并赞助[世界悠悠球大赛](http://wyyc2018.auldey.com/details/id/618.html) 
+* [上海] 现场直播并赞助[世界悠悠球大赛](http://wyyc2018.auldey.com/details/id/618.html) 
 
 ## <span id="head2017"> 2017年 </span>
 
