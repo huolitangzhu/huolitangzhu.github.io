@@ -12,6 +12,8 @@ author_profile: true
 
 ### 第四批
 
+  * 来自德国奥尔登堡（英语）[[图片]](/images/postcards/Germany11.jpg) （图片为德国女物理学家[莉泽·迈特纳](https://baike.sogou.com/m/fullLemma?lid=4894151)）
+  * 来自美国圣克拉拉（英语）[[图片]](/images/postcards/USA12.jpg) （图片是一种运动，邮票为[科罗拉多线灰蝶](https://about.usps.com/newsroom/national-releases/2021/0301ma-colorado-hairstreak-butterfly-featured-on-new-stamp.htm)和[西部服饰](https://about.usps.com/newsroom/national-releases/2021/0723-new-western-wear-forever-stamps-now-available.pdf)特殊邮票）
   * 来自日本四国中央（英语) [[图片]](/images/postcards/Japan4.jpg) （图片和邮票为一种植物)
   * 来自德国英戈尔施塔特（英语/德语) [[图片]](/images/postcards/Germany10.jpg) （邮票为冬菟葵，一种植物和[Benjamin Blümchen四十五周年纪念特殊邮票](https://shop.deutschepost.de/benjamin-bluemchen-briefmarke-zu-0-85-eur-10er-bogen))
   * 来自台湾省台北市（中文) [[图片]](/images/postcards/Taiwan2.jpg) （图片和邮票为一种动物)
