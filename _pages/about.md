@@ -12,6 +12,7 @@ redirect_from:
 
 ## 近期动态
 
+* 主播参加斗鱼户外活动《野王的加冕2》[[通知]](https://yuba.douyu.com/p/158773301650913099)
 * 相亲中！[[👩]](https://pic.imgdb.cn/item/62624de5239250f7c552b3d0.jpg)
 * 首支单曲《我是真的爱上你》[[翻唱]](https://music.163.com/song?id=1877540723)上线网易云音乐！绝赞打榜中！[[无修音版]（慎点！）](https://music.163.com/song?id=1878572653)
 
