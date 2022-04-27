@@ -15,9 +15,9 @@ author_profile: true
 	- [ 2019年 ](#head2019)
 		| [12月](#head201912) 参加央视《黄金一百秒》 | [6月](#head201906) 第二次参加录制《天天向上》
 	- [ 2018年 ](#head2018)
-		| [8月](#head201808) 唯一官方现场直播当年世界悠悠球大赛
+		| [8月](#head201808) 唯一官方现场直播当年世界悠悠球大赛 | [3月](#head201803) 出演及参加制作火力少年王第五部之《悠风三少年》	
 	- [ 2017年 ](#head2017)
-		| [7月](#head201707) ~~带领~~Team干制霸CYCC（中国悠悠球冠军赛）	
+		| [7月](#head201707) ~~带领~~Team干制霸CYCC（中国悠悠球冠军赛）| [?月](#head20170x) 参加制作火力少年王第六部之《悠拳英雄》		
 	- [ 2016年 ](#head2016)
 		| [7月](#head201607) ~~带领~~Team干制霸CYCC | [1月](#head201601) 赞助CYCC山东赛
 	- [ 2015年 ](#head2015)
@@ -29,6 +29,8 @@ author_profile: true
 		| [2月](#head201502) 担任张子枫临时助理三天，和任达华共进盒饭并与林XX关系恶化
 	- [ 2014年 ](#head2014)
 		| [10月](#head201410) 参加北京卡酷少儿电视台节目 | [7月](#head201407) 参加CYCC
+	- [ 2011年 ](#head2011)
+		| 参加制作火力少年王第四部之《舞动火力》
 	- [ 2009年 ](#head2009)
 		| 第一次参加录制《天天向上》
 	- [ 2008年 ](#head2008)
@@ -110,7 +112,7 @@ author_profile: true
 ### <span id="head202104"> 4月</span>
 
 * [横店] 和[XX](https://www.douyu.com/1402692)户外之戏中画戏 [剧照 [1](https://yuba.douyu.com/p/189411381619771786) · [2](https://yuba.douyu.com/p/706897141619788793) · [3](https://yuba.douyu.com/p/217491431619877405) ]
-* [杭州] 和[张曼希](https://www.douyu.com/6727718)户外之杭州一梦 [水友点评 [鱼吧](https://yuba.douyu.com/p/780788941619539506) · [存档](https://rentry.co/dycheese_wuti)] [[剪辑]](https://huolitangzhu.github.io/videos/)
+* [杭州] 和[张曼希](https://www.douyu.com/6727718)户外之杭州一梦 [水友点评](https://yuba.douyu.com/p/780788941619539506)
 * [洛阳] 轮椅之年度减肥 （由于划船机坏了节目效果提前结束）
 * [北京] 户外之重回旧地 [水友视角 [孤独](https://yuba.douyu.com/p/282324881618142663) · [相遇](https://yuba.douyu.com/p/146760331618148152) · [北京北京](https://yuba.douyu.com/p/820420241618148427) · [一个人的北京](https://yuba.douyu.com/p/993119411619534886) ]
 
@@ -168,11 +170,19 @@ author_profile: true
 
 * [上海] 现场直播并赞助[世界悠悠球大赛](http://wyyc2018.auldey.com/details/id/618.html) 
 
+### <span id="head201803"> 3月</span>
+
+* [广州] 出演及参加制作火力少年王第五部之[《悠风三少年》](https://baike.baidu.com/item/%E7%81%AB%E5%8A%9B%E5%B0%91%E5%B9%B4%E7%8E%8B%E4%B9%8B%E6%82%A0%E9%A3%8E%E4%B8%89%E5%B0%91%E5%B9%B4/22172988)，饰演“大金链子”
+
 ## <span id="head2017"> 2017年 </span>
 
 ### <span id="head201707"> 7月</span>
 
 * [广州] ~~带领~~Team干制霸CYCC [[合影]](/images/news/2017CYYC.jpg) [[直播录像]](https://huolitangzhu.github.io/videos/)
+
+### <span id="head20170x"> ?月</span>
+
+* [广州] 参加制作火力少年王第六部之[《悠拳英雄》](https://baike.baidu.com/item/%E7%81%AB%E5%8A%9B%E5%B0%91%E5%B9%B4%E7%8E%8B%E4%B9%8B%E6%82%A0%E6%8B%B3%E8%8B%B1%E9%9B%84/19932530)
 
 ## <span id="head2016"> 2016年 </span>
 
@@ -219,6 +229,10 @@ author_profile: true
 ### <span id="head201407"> 7月</span>
 
 * [广州] 参加CYCC[[比赛视频]](https://www.bilibili.com/video/BV1dS4y197eh?p=92)，合影四届悠悠球世界冠军铃木裕之（Hiroyuki Suzuki）[[合影]](/images/news/铃木裕之.jpg) 
+
+## <span id="head2011"> 2011年 </span>
+
+* [广州/深圳] 参加制作《火力少年王》第四部之[《舞动火力》](https://baike.baidu.com/item/%E7%81%AB%E5%8A%9B%E5%B0%91%E5%B9%B4%E7%8E%8B%E4%B9%8B%E8%88%9E%E5%8A%A8%E7%81%AB%E5%8A%9B/2409871)
 
 ## <span id="head2009"> 2009年 </span>
 
