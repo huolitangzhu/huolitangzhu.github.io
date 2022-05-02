@@ -214,7 +214,7 @@ author_profile: true
 
 ### <span id="head201506"> 6月</span>
 
-* [北京] 主持[火力少年王电视争霸赛](https://huolitangzhu.github.io/videos/)央视播出，教欧豪玩球[[图片]](https://pic.imgdb.cn/item/626fd08a239250f7c5819ce7.jpg)
+* [北京] 主持[火力少年王电视争霸赛](https://huolitangzhu.github.io/videos/)央视播出 [[幕后照]](https://pic.imgdb.cn/item/626fd114239250f7c582f647.jpg)，教欧豪玩球[[图片]](https://pic.imgdb.cn/item/626fd08a239250f7c5819ce7.jpg)
 
 ### <span id="head201502"> 2月</span>
 
