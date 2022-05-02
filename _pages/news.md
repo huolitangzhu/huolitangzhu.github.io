@@ -176,7 +176,7 @@ author_profile: true
 
 ### <span id="head201803"> 3月</span>
 
-* [广州] 出演及参加制作火力少年王第五部之[《悠风三少年》](https://baike.baidu.com/item/%E7%81%AB%E5%8A%9B%E5%B0%91%E5%B9%B4%E7%8E%8B%E4%B9%8B%E6%82%A0%E9%A3%8E%E4%B8%89%E5%B0%91%E5%B9%B4/22172988)，饰演“大金链子”
+* [广州] 出演及参加制作火力少年王第五部之[《悠风三少年》](https://baike.baidu.com/item/%E7%81%AB%E5%8A%9B%E5%B0%91%E5%B9%B4%E7%8E%8B%E4%B9%8B%E6%82%A0%E9%A3%8E%E4%B8%89%E5%B0%91%E5%B9%B4/22172988)，饰演“大金链子” [[自卖自夸]](https://weibo.com/tv/show/1034:96c5ace859f14197b0d8de34cf831f57)
 
 ## <span id="head2017"> 2017年 </span>
 
