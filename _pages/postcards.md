@@ -20,7 +20,7 @@ author_profile: true
 
 ### 第三批 
 
-快递在发往主播家的[路上](https://www.sf-express.com/we/ow/chn/sc/waybill/waybill-detail/SF1137491985635)
+快递已发到主播家，择日恩赐开箱
 
   * 来自荷兰德龙滕（英语/荷语）[[图片]](/images/postcards/Holland3.jpg) （图片和邮票均为流苏鹬）
   * 来自美国萨姆特（英语）[[图片]](/images/postcards/USA11.jpg) （图片为火烈鸟）
