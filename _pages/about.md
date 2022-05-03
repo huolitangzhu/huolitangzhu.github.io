@@ -36,7 +36,7 @@ redirect_from:
 * [明日晴れるかな](https://music.163.com/#/song?id=26144177)
 * [爱情大魔咒](https://music.163.com/#/song?id=327687)
 * [我是真的爱上你](https://music.163.com/#/song?id=492151019) · [主播翻唱](https://music.163.com/song?id=1877540723)
-* [鹏将行](https://yuba.douyu.com/p/593050641622217731) - 改编自[《盗将行》](https://music.163.com/#/song?id=574566207)，本人重新填词并调音，由VOCALOID虚拟歌姬“星尘”演唱，由音乐主播幕一cc直播[翻唱](https://v.douyu.com/show/wLjGvLZPeexMmO90)
+* [鹏将行](https://yuba.douyu.com/p/593050641622217731) - 改编自[《盗将行》](https://music.163.com/#/song?id=574566207)，本人重新填词并调音，由VOCALOID虚拟歌姬“星尘”演唱，由音乐主播慕一cc[[直播翻唱]](https://v.douyu.com/show/wLjGvLZPeexMmO90)
 
 ## 防冲说明
 
