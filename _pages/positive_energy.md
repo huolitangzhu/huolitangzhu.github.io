@@ -15,6 +15,6 @@ author_profile: true
 
 * 本站捐款
 
-  * 2022年UNHCR(HK)烏克蘭危機[[记录截图]](/images/donate/my-record-3.jpeg)（收到电子收据就更新）
+  * 2022年UNHCR(HK)烏克蘭危機[[电子收据]](/images/donate/UNHCR22.png)
   * 2021年WeChat Pay(HK)[日行一膳]公益项目[[记录截图]](/images/donate/wechat-pay.jpg)
   * 2021年unicef(HK)新型冠狀病毒緊急防疫項目[[电子收据](/images/donate/my-record-1.png) · [正式收据](/images/donate/my-record-2.png)]
