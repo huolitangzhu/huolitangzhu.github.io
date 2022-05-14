@@ -44,6 +44,7 @@ author_profile: true
 
 ### <span id="head202205"> 5月</span>
 
+* [海口] 参加斗鱼户外活动《野王的加冕2》[[海报]](https://yuba.douyu.com/p/166198381651334373) [[嘉宾互动]](https://img.douyucdn.cn/data/yuba/default/2022/05/12/202205120852212031194639193.jpg)
 * [洛阳] 直播七周年，火力宇宙云庆祝 [[图片]](https://img.douyucdn.cn/data/yuba/weibo/2022/05/04/202205040605534385054374094.jpg)
 
 ### <span id="head202204"> 4月</span>
