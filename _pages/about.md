@@ -38,9 +38,9 @@ redirect_from:
 * [我是真的爱上你](https://music.163.com/#/song?id=492151019) · [主播翻唱](https://music.163.com/song?id=1877540723)
 * [鹏将行](https://yuba.douyu.com/p/593050641622217731) - 改编自[《盗将行》](https://music.163.com/#/song?id=574566207)，本人重新填词并调音，由VOCALOID虚拟歌姬“星尘”演唱，由音乐主播慕一cc[[直播翻唱]](https://v.douyu.com/show/wLjGvLZPeexMmO90)
 
-## 防冲说明
+## 关于本站
 
-本页主要摘抄自©️斗鱼[火力堂主的主播百科](https://yuba.douyu.com/group/anchorWiki/3022)，有删改。
+堂主小站是为了斗鱼主播火力堂主及其粉丝而成立的，与堂主本人并没有直接关系，网站上的内容均为网络公开发表的内容，本站不会就其内容的准确性、有效性、或完整性作出任何保证。
 
 ## 访客统计
 
