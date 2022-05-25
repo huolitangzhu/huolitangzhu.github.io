@@ -12,7 +12,7 @@ redirect_from:
 
 ## 近期动态
 
-* 主播在武汉和好妹妹们团建中 [[day1]](https://img.douyucdn.cn/data/yuba/default/2022/05/24/202205241831412210492182350.jpg)
+* 主播在武汉和好妹妹团建中 [[day1]](https://img.douyucdn.cn/data/yuba/default/2022/05/24/202205241831412210492182350.jpg)
 * 主播被官方评为斗鱼劳模，祝贺！[[奖状]](https://yuba.douyu.com/p/435981531652944742)
 
 ## 水友整活
