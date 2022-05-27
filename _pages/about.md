@@ -18,7 +18,7 @@ redirect_from:
 ## 水友整活
 
 * **视频**之
-  * 火力公寓[第一期](https://yuba.douyu.com/p/503763041649141424) · [第二期](https://yuba.douyu.com/p/597284961649439452) · [第三期](https://yuba.douyu.com/p/785829821650381993) by 泥董的
+  * 百年孤寂—永远的直播王(https://yuba.douyu.com/p/285844131653481752) by 何苦惹我错付了情衷
 * 来自世界各地的[**明信片**](https://huolitangzhu.github.io/postcards/)（收集中） by 我
 * 更多整活，请见[鱼吧](https://yuba.douyu.com/group/3022) 
 
