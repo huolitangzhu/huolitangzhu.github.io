@@ -12,6 +12,9 @@ redirect_from:
 
 ## 近期动态
 
+* 祝斗鱼孩子王——玩具爱好者——火力堂主 儿童节快乐！
+  
+  ![image](https://user-images.githubusercontent.com/82739785/171309277-1bbaf7dd-349b-4ff5-a534-277186115e17.png)
 * 主播即将满级，大家上一上！
 * 主播被官方评为斗鱼劳模，祝贺！[[奖状]](https://yuba.douyu.com/p/435981531652944742)
 
