@@ -4,7 +4,10 @@ permalink: /positive_energy/
 author_profile: true
 ---
 
-* 直播活动
+* 直播款款
+ * 2022年儿童节当日流水收入[[捐款记录]](https://img.douyucdn.cn/data/yuba/default/2022/06/02/202206020104149119286808981.jpg)
+
+* 公益性直播活动
 
   * #四时有序 节气有令# 二十四节气系列活动——芒种采茶挑战赛 [[微博]](https://weibo.com/6337194707/KiCoLwhqr)
   * #斗鱼第二届公益日# 八位“鱼阅荐书官”之一 [[微博]](https://weibo.com/3982726153/KcI5AD4Lt)
