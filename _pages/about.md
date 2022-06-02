@@ -12,11 +12,8 @@ redirect_from:
 
 ## 近期动态
 
-* 祝斗鱼孩子王——玩具爱好者——火力堂主 儿童节快乐！
-  
-  ![image](https://user-images.githubusercontent.com/82739785/171309277-1bbaf7dd-349b-4ff5-a534-277186115e17.png)
+* 主播在儿童节期间公益直播，所得收入捐赠给儿童公益活动，正能量！[[记录]](https://img.douyucdn.cn/data/yuba/default/2022/06/02/202206020104149119286808981.jpg)
 * 主播即将满级，大家上一上！
-* 主播被官方评为斗鱼劳模，祝贺！[[奖状]](https://yuba.douyu.com/p/435981531652944742)
 
 ## 水友整活
 
