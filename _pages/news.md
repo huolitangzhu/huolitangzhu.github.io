@@ -44,7 +44,7 @@ author_profile: true
 
 ### <span id="head202205"> 5月</span>
 
-* [武汉] 参加斗鱼户外活动《燃烧吧卡路里》[[海报]](https://yuba.douyu.com/p/147448391652860198) [[女嘉宾团建]](https://img.douyucdn.cn/data/yuba/default/2022/05/24/202205241831412210492182350.jpg)
+* [武汉] 参加斗鱼户外活动《燃烧吧卡路里》[[海报]](https://yuba.douyu.com/p/147448391652860198) [[女嘉宾团建]](https://img.douyucdn.cn/data/yuba/default/2022/05/24/202205241831412210492182350.jpg) 获赠素人嘉宾[[人物漫画]](/images/news/cartoon.jpg)
 * [海口] 参加斗鱼户外活动《野王的加冕2》[[海报]](https://yuba.douyu.com/p/166198381651334373) [[嘉宾互动]](https://img.douyucdn.cn/data/yuba/default/2022/05/12/202205120852212031194639193.jpg)
 * [洛阳] 直播七周年，火力宇宙云庆祝 [[图片]](https://img.douyucdn.cn/data/yuba/weibo/2022/05/04/202205040605534385054374094.jpg)
 
