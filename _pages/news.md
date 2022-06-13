@@ -44,6 +44,7 @@ author_profile: true
 
 ### <span id="head202206"> 6月</span>
 
+* [武汉] 主参加斗鱼活动《六边形战士》[[海报]](https://img.douyucdn.cn/data/yuba/weibo/2022/06/07/202206071816597037404701831.jpg) 被董姐[[当场拿下]](https://img.douyucdn.cn/data/yuba/weibo/2022/06/13/202206130607191289276996335.gif)
 * [洛阳] 台球粉狂欢
 
 ### <span id="head202205"> 5月</span>
