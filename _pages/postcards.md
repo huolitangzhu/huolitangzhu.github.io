@@ -12,7 +12,7 @@ author_profile: true
 
 ### 第四批
 
-  * 来自圣马力诺（英语/意大利语）[[图片]](/images/postcards/SanMarino.jpg) （邮票为[艺术家丢勒诞辰550周年纪念特殊邮票](https://www.ufn.sm/en/cod-710-2021.html)，邮戳为[第134届Veronafil特殊邮戳](https://www.veronafil.it/immagini/fotodb.php?tipo=sezioni&idf=452)） 
+  * 来自圣马力诺（英语/意大利语）[[图片]](/images/postcards/SanMarino.jpg) （邮票为[艺术家丢勒诞辰550周年纪念特殊邮票](https://www.ufn.sm/en/cod-710-2021.html)，邮戳为[第134届Veronafil特殊邮戳](https://www.veronafil.it/immagini/fotodb.php?tipo=sezioni&idf=452)和[Borgo Maggiore邮局特殊邮戳](https://www.poste.sm/on-line/home/chi-siamo/uffici-postali/scheda46098293.html)，这个明信片上来自于发信人在圣马力诺邮局参加Veronafil活动时所设摊位投递，后转到圣马力诺当地邮局寄出） 
   * 来自德国奥尔登堡（英语）[[图片]](/images/postcards/Germany11.jpg) （图片为德国女物理学家[莉泽·迈特纳](https://baike.sogou.com/m/fullLemma?lid=4894151)）
   * 来自美国圣克拉拉（英语）[[图片]](/images/postcards/USA12.jpg) （图片是一种运动，邮票为[科罗拉多线灰蝶](https://about.usps.com/newsroom/national-releases/2021/0301ma-colorado-hairstreak-butterfly-featured-on-new-stamp.htm)和[西部服饰](https://about.usps.com/newsroom/national-releases/2021/0723-new-western-wear-forever-stamps-now-available.pdf)特殊邮票）
   * 来自日本四国中央（英语) [[图片]](/images/postcards/Japan4.jpg) （图片和邮票为一种植物)
