@@ -12,10 +12,8 @@ redirect_from:
 
 ## 近期动态
 
+* 主播将参加斗鱼大型民俗生活体验节目《云南一家人》 [[鱼吧]](https://yuba.douyu.com/p/758681181655202927)
 * 主播即将29w关注，这个大家可以上一上！
-* 恭喜主播满级，大家不用上一上了，因为主播不再挣钱了！
-
-![image](https://user-images.githubusercontent.com/82739785/173262727-21ee3ee2-92de-4977-81bc-8d79fee341cc.png)
 
 ## 水友整活
 
