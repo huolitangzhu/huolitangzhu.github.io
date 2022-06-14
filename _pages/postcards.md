@@ -12,15 +12,16 @@ author_profile: true
 
 ### 第四批
 
+  * 来自圣马力诺（英语/意大利语）[[图片]](/images/postcards/SanMarino.jpg) （邮票为[艺术家丢勒诞辰550周年纪念特殊邮票](https://www.ufn.sm/en/cod-710-2021.html)，邮戳为[第134届Veronafil特殊邮戳](https://www.veronafil.it/immagini/fotodb.php?tipo=sezioni&idf=452)） 
   * 来自德国奥尔登堡（英语）[[图片]](/images/postcards/Germany11.jpg) （图片为德国女物理学家[莉泽·迈特纳](https://baike.sogou.com/m/fullLemma?lid=4894151)）
   * 来自美国圣克拉拉（英语）[[图片]](/images/postcards/USA12.jpg) （图片是一种运动，邮票为[科罗拉多线灰蝶](https://about.usps.com/newsroom/national-releases/2021/0301ma-colorado-hairstreak-butterfly-featured-on-new-stamp.htm)和[西部服饰](https://about.usps.com/newsroom/national-releases/2021/0723-new-western-wear-forever-stamps-now-available.pdf)特殊邮票）
   * 来自日本四国中央（英语) [[图片]](/images/postcards/Japan4.jpg) （图片和邮票为一种植物)
   * 来自德国英戈尔施塔特（英语/德语) [[图片]](/images/postcards/Germany10.jpg) （邮票为冬菟葵，一种植物和[Benjamin Blümchen四十五周年纪念特殊邮票](https://shop.deutschepost.de/benjamin-bluemchen-briefmarke-zu-0-85-eur-10er-bogen))
   * 来自台湾省台北市（中文) [[图片]](/images/postcards/Taiwan2.jpg) （图片和邮票为一种动物)
 
-### 第三批 
+--- 以下已通过快递送到堂主家并帮助混了几分钟直播时长 ---
 
-快递[[记录]](https://htm.sf-express.com/hk/tc/dynamic_function/waybill/#search/bill-number/SF1137491985635)已发到主播家，择日恩赐开箱
+### 第三批 [[快递记录]](https://htm.sf-express.com/hk/tc/dynamic_function/waybill/#search/bill-number/SF1137491985635)
 
   * 来自荷兰德龙滕（英语/荷语）[[图片]](/images/postcards/Holland3.jpg) （图片和邮票均为流苏鹬）
   * 来自美国萨姆特（英语）[[图片]](/images/postcards/USA11.jpg) （图片为火烈鸟）
@@ -43,8 +44,6 @@ author_profile: true
   * 来自德国诺图尔恩（英语/德语） [[图片]](/images/postcards/Germany5.jpg) （图片为当地圣马丁教堂，邮票为[玛利亚广场地铁站特殊邮票](https://shop.deutschepost.de/marienplatz-muenchen-briefmarke-zu-0-95-eur-10er-bogen)）
   * 来自美国迈尔斯堡（英语） [[图片]](/images/postcards/USA4.jpg) （图片为[美国最小的邮政局](https://facts.usps.com/smallest-post-office/)，邮戳为该邮政局特殊邮戳）
   * 来自日本东京（英语/日语） [[图片]](/images/postcards/Japan2.jpg) （图片为家乡の二次元）
-
---- 以下已通过快递送到堂主家并帮助混了几分钟直播时长 ---
 
 ### 第二批
 
