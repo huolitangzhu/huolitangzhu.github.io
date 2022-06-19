@@ -12,6 +12,9 @@ author_profile: true
 
 ### 第四批
 
+  * 来自英国萨里（英语） [[图片]](/images/postcards/UK.jpg) （图片为英国国家邮政博物馆馆藏品，邮票为2007年[哈利波特与火焰杯特殊邮票](https://www.collectgbstamps.co.uk/downloads/pdf/pb4411%20Harry%20Potter.pdf)和[幸运符号系列特殊邮票](https://www.collectgbstamps.co.uk/downloads/pdf/pb2805%20Greetings%20Stamps.pdf)）
+  * 来自比利时蒂伦豪特（英语/法语） [[图片]](/images/postcards/Belgium.jpg) （邮票为[比利时国际信件通用邮票](https://eshop.bpost.be/fr/products/sm-le-roi-philippe-timbres-monde?v=177)）
+  * 来自俄罗斯莫斯科（英语） [[图片]](/images/postcards/Russia6.jpg) （图片为俄罗斯梁赞的一处庄园，邮票为[2009年克里姆林宫主题邮票](https://www.stampworld.com/stamps/Russia/Postage-stamps/g1586/)）
   * 来自圣马力诺（英语/意大利语）[[图片]](/images/postcards/SanMarino.jpg) （邮票为[艺术家丢勒诞辰550周年纪念特殊邮票](https://www.ufn.sm/en/cod-710-2021.html)，邮戳为[第134届Veronafil特殊邮戳](https://www.veronafil.it/immagini/fotodb.php?tipo=sezioni&idf=452)和[Borgo Maggiore邮局特殊邮戳](https://www.poste.sm/on-line/home/chi-siamo/uffici-postali/scheda46098293.html)，这个明信片来自于本人委托发信人在圣马力诺邮局参加意大利维罗纳Veronafil活动时所设摊位投递，后转到圣马力诺当地邮局寄出） 
   * 来自德国奥尔登堡（英语）[[图片]](/images/postcards/Germany11.jpg) （图片为德国女物理学家[莉泽·迈特纳](https://baike.sogou.com/m/fullLemma?lid=4894151)）
   * 来自美国圣克拉拉（英语）[[图片]](/images/postcards/USA12.jpg) （图片是一种运动，邮票为[科罗拉多线灰蝶](https://about.usps.com/newsroom/national-releases/2021/0301ma-colorado-hairstreak-butterfly-featured-on-new-stamp.htm)和[西部服饰](https://about.usps.com/newsroom/national-releases/2021/0723-new-western-wear-forever-stamps-now-available.pdf)特殊邮票）
