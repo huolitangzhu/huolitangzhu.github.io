@@ -44,6 +44,7 @@ author_profile: true
 
 ### <span id="head202206"> 6月</span>
 
+* [西双版纳] 参加斗鱼活动《云南一家人》 和女嘉宾[[合影]](https://yuba.douyu.com/p/396500691655564055) 
 * [武汉] 参加斗鱼活动《六边形战士》[[海报]](https://img.douyucdn.cn/data/yuba/weibo/2022/06/07/202206071816597037404701831.jpg) · 成为[[满级主播]](https://img.douyucdn.cn/data/yuba/default/2022/06/13/202206130036238167053037474.jpg) · 被董姐[[偷袭]](https://img.douyucdn.cn/data/yuba/weibo/2022/06/13/202206130607191289276996335.gif)
 * [洛阳] 台球粉狂欢
 
