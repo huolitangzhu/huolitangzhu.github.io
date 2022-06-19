@@ -12,15 +12,13 @@ redirect_from:
 
 ## 近期动态
 
-* 主播将参加斗鱼大型民俗生活体验节目《云南一家人》 [[鱼吧]](https://yuba.douyu.com/p/758681181655202927)
-* 恭喜火力堂主满级，站长今天也代收到了一份很有意义的明信片：来自圣马力诺（英语/意大利语）[[图片]](/images/postcards/SanMarino.jpg) （邮票为[艺术家丢勒诞辰550周年纪念特殊邮票](https://www.ufn.sm/en/cod-710-2021.html)，邮戳为[第134届Veronafil特殊邮戳](https://www.veronafil.it/immagini/fotodb.php?tipo=sezioni&idf=452)和[Borgo Maggiore邮局特殊邮戳](https://www.poste.sm/on-line/home/chi-siamo/uffici-postali/scheda46098293.html)，这个明信片是来自于站长委托发信人在圣马力诺邮局参加意大利维罗纳Veronafil活动时所设摊位投递，后转到圣马力诺当地邮局寄出）
-* 主播即将29w关注，这个大家可以上一上！
+* 主播参加斗鱼大型民俗生活体验节目《云南一家人》 [[鱼吧]](https://yuba.douyu.com/p/758681181655202927)
+* 恭喜主播直播间关注数达到29W！
 
 ## 水友整活
 
 * **视频**之
   * [火力公寓第四期](https://yuba.douyu.com/p/178067451653731222) by 泥董的
-  * [百年孤寂—永远的直播王](https://yuba.douyu.com/p/285844131653481752) by 何苦惹我错付了情衷
 * 来自世界各地的[**明信片**](https://huolitangzhu.github.io/postcards/)（收集中） by 我
 * 更多整活，请见[鱼吧](https://yuba.douyu.com/group/3022) 
 
