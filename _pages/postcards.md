@@ -12,6 +12,7 @@ author_profile: true
 
 ### 第四批
 
+  * 来自美国凤凰城（英语） [[图片]](/images/postcards/USA3.jpg) （图片是亚利桑那州代表性的仙人掌，邮票为[星球大战主题特殊邮票](/images/postcards/Germany12.jpg)）
   * 来自德国埃肯弗德（英语/德语） [[图片]](/images/postcards/Germany12.jpg) （图片为一种植物，邮票为一种植物和[纸鹤特殊邮票](https://shop.deutschepost.de/markenset-brieftaube-briefmarke-zu-0-85-eur-10er-set)）
   * 来自英国萨里（英语） [[图片]](/images/postcards/UK.jpg) （图片为英国国家邮政博物馆馆藏品，邮票为2007年[哈利波特与火焰杯特殊邮票](https://www.collectgbstamps.co.uk/downloads/pdf/pb4411%20Harry%20Potter.pdf)和[幸运符号系列特殊邮票](https://www.collectgbstamps.co.uk/downloads/pdf/pb2805%20Greetings%20Stamps.pdf)）
   * 来自比利时蒂伦豪特（英语/法语） [[图片]](/images/postcards/Belgium.jpg) （邮票为[比利时国际信件通用邮票](https://eshop.bpost.be/fr/products/sm-le-roi-philippe-timbres-monde?v=177)）
