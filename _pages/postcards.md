@@ -12,7 +12,9 @@ author_profile: true
 
 ### 第四批
 
-  * 来自美国凤凰城（英语） [[图片]](/images/postcards/USA3.jpg) （图片是亚利桑那州代表性的仙人掌，邮票为[星球大战主题特殊邮票](/images/postcards/Germany12.jpg)）
+  * 来自白俄罗斯明斯克（英语） [[图片]](/images/postcards/Belarus.jpg) （图片为维帖布斯克某教堂，邮票为[窄爪小龙虾主题邮票](https://colnect.com/en/stamps/stamp/856967-Narrow-clawed_Crayfish_Astacus_leptodactylus-Wildlife_in_Belarusian_Wetlands_2019-Belarus)）
+  * 来自美国美国威斯康星州拉克罗斯（英语） [[图片]](/images/postcards/USA14.jpg) （图片为[印第安纳波利斯赛车场](https://baike.baidu.com/item/%E5%8D%B0%E7%AC%AC%E5%AE%89%E7%BA%B3%E6%B3%A2%E5%88%A9%E6%96%AF%E8%B5%9B%E8%BD%A6%E5%9C%BA/1967899)）
+  * 来自美国凤凰城（英语） [[图片]](/images/postcards/USA13.jpg) （图片为亚利桑那州代表性的仙人掌，邮票为[星球大战主题特殊邮票](/images/postcards/Germany12.jpg)）
   * 来自德国埃肯弗德（英语/德语） [[图片]](/images/postcards/Germany12.jpg) （图片为一种植物，邮票为一种植物和[纸鹤特殊邮票](https://shop.deutschepost.de/markenset-brieftaube-briefmarke-zu-0-85-eur-10er-set)）
   * 来自英国萨里（英语） [[图片]](/images/postcards/UK.jpg) （图片为英国国家邮政博物馆馆藏品，邮票为2007年[哈利波特与火焰杯特殊邮票](https://www.collectgbstamps.co.uk/downloads/pdf/pb4411%20Harry%20Potter.pdf)和[幸运符号系列特殊邮票](https://www.collectgbstamps.co.uk/downloads/pdf/pb2805%20Greetings%20Stamps.pdf)）
   * 来自比利时蒂伦豪特（英语/法语） [[图片]](/images/postcards/Belgium.jpg) （邮票为[比利时国际信件通用邮票](https://eshop.bpost.be/fr/products/sm-le-roi-philippe-timbres-monde?v=177)）
