@@ -12,6 +12,8 @@ author_profile: true
 
 ### 第四批
 
+  * 来自荷兰阿姆斯特丹（英语/荷兰语） [[图片]](/images/postcards/Holland4.jpg) （图片为荷兰皇家航空主题）
+  * 来自俄罗斯叶卡捷琳堡（英语/俄语） [[图片]](/images/postcards/Russia7.jpg) （图片视角来自主播喜欢的飞机（的座舱））
   * 来自白俄罗斯明斯克（英语） [[图片]](/images/postcards/Belarus.jpg) （图片为维帖布斯克某教堂，邮票为[窄爪小龙虾主题邮票](https://colnect.com/en/stamps/stamp/856967-Narrow-clawed_Crayfish_Astacus_leptodactylus-Wildlife_in_Belarusian_Wetlands_2019-Belarus)）
   * 来自美国美国威斯康星州拉克罗斯（英语） [[图片]](/images/postcards/USA14.jpg) （图片为[印第安纳波利斯赛车场](https://baike.baidu.com/item/%E5%8D%B0%E7%AC%AC%E5%AE%89%E7%BA%B3%E6%B3%A2%E5%88%A9%E6%96%AF%E8%B5%9B%E8%BD%A6%E5%9C%BA/1967899)）
   * 来自美国凤凰城（英语） [[图片]](/images/postcards/USA13.jpg) （图片为亚利桑那州代表性的仙人掌，邮票为[星球大战主题特殊邮票](/images/postcards/Germany12.jpg)）
