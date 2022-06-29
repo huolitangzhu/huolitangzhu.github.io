@@ -12,6 +12,7 @@ author_profile: true
 
 ### 第四批
 
+  * 来自印度尼西亚雅加达（英语/印尼语） [[图片]](/images/postcards/Indonesia2.jpg) （图片为梵高的关于某植物的画作，邮票为印尼国家疫苗接种纪念邮票）
   * 来自荷兰阿姆斯特丹（英语/荷兰语） [[图片]](/images/postcards/Holland4.jpg) （图片为荷兰皇家航空主题）
   * 来自俄罗斯叶卡捷琳堡（英语/俄语） [[图片]](/images/postcards/Russia7.jpg) （图片视角来自主播喜欢的飞机（的座舱））
   * 来自白俄罗斯明斯克（英语） [[图片]](/images/postcards/Belarus.jpg) （图片为维帖布斯克某教堂，邮票为[窄爪小龙虾主题邮票](https://colnect.com/en/stamps/stamp/856967-Narrow-clawed_Crayfish_Astacus_leptodactylus-Wildlife_in_Belarusian_Wetlands_2019-Belarus)）
