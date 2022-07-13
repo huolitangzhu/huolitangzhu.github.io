@@ -8,7 +8,7 @@ author_profile: true
 
 ### 名人相关
 
-| 台球冠军亨得利[视频鼓励](https://yuba.douyu.com/p/861676091656651521) |
+| [视频鼓励](https://yuba.douyu.com/p/861676091656651521) by 台球冠军亨得利 |
 
 ### 直播时代 by dreamover1010
 
