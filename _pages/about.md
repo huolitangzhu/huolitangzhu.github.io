@@ -19,7 +19,7 @@ redirect_from:
 ## 水友整活
 
 * **视频**之
-  * [火力公寓第四期](https://yuba.douyu.com/p/178067451653731222) by 泥董的
+  * [老男孩](https://yuba.douyu.com/p/556595171657760070) by 荧光棒X60
 * 来自世界各地的[**明信片**](https://huolitangzhu.github.io/postcards/)（收集中） by 我
 * 更多整活，请见[鱼吧](https://yuba.douyu.com/group/3022) 
 
