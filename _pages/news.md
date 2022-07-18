@@ -44,7 +44,7 @@ author_profile: true
 
 ### <span id="head202207"> 7月</span>
 
-* [洛阳] 暑假中！
+* [武汉] 参加斗鱼户外活动《再见旧时光》 [[鱼吧]](https://yuba.douyu.com/p/375084971657635356) 
 
 ### <span id="head202206"> 6月</span>
 
