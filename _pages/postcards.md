@@ -12,6 +12,7 @@ author_profile: true
 
 ### 第四批
 
+  * 来自立陶宛考纳斯（英语） [[图片]](/images/postcards/Lithuania.jpg) （图片为立陶宛城市维尔基亚）
   * 来自印尼巴淡岛（英语） [[图片]](/images/postcards/Indonesia3.jpg) （邮票为传统服饰特殊邮票）
   * 来自德国多特蒙德（英语/德语） [[图片]](/images/postcards/Germany13.jpg) （图片为主播喜欢的飞机（汉莎城际航空），邮票为[尾波滑水运动邮票](https://www.stamps-sieger.com/non-olympic-sports-wakeboarding-booklet-stamped-germany/)）
   * 来自美国印地安纳州谢尔比（英语） [[图片]](/images/postcards/USA15.jpg) （邮票为[棒球全明星Yogi Berra纪念邮票](https://about.usps.com/newsroom/national-releases/2021/0512ma-usps-will-celebrate-all-star-baseball-player-yogi-berra-with-a-forever-stamp.htm)，[美国教育法修正案第九条纪念邮票](https://about.usps.com/newsroom/national-releases/2022/0207ma-celebrating-the-50th-anniversary-of-title-ix.htm)和一种植物）
