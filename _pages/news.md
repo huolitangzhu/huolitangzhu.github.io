@@ -44,6 +44,7 @@ author_profile: true
 
 ### <span id="head202207"> 7月</span>
 
+* [长沙] 暑期活动之电竞酒店/台球厅 [[总结]](https://img.douyucdn.cn/data/yuba/default/2022/07/27/202207271609557769743276740.jpg)
 * [武汉] 参加斗鱼户外活动《再见旧时光》 [[活动照]](https://yuba.douyu.com/p/677901301657919466) 
 
 ### <span id="head202206"> 6月</span>
