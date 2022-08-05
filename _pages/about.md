@@ -18,6 +18,7 @@ redirect_from:
 ## 水友整活
 
 * **视频**之
+  * [情非得已](https://yuba.douyu.com/p/195054061659543393) by 荧光棒X60
   * [可爱女人](https://yuba.douyu.com/p/110692751659024081) by 泥董的
 * 来自世界各地的[**明信片**](https://huolitangzhu.github.io/postcards/)（收集中） by 我
 * 更多整活，请见[鱼吧](https://yuba.douyu.com/group/3022) 
