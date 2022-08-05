@@ -10,7 +10,7 @@ author_profile: true
 
 ## 图文说明
 
-### 第四批
+### 第四批 [[快递中]](https://www.sf-express.com/we/ow/chn/sc/waybill/waybill-detail/SF1158016878133)
 
   * 来自立陶宛考纳斯（英语） [[图片]](/images/postcards/Lithuania.jpg) （图片为立陶宛城市维尔基亚）
   * 来自印尼巴淡岛（英语） [[图片]](/images/postcards/Indonesia3.jpg) （邮票为传统服饰特殊邮票）
@@ -29,11 +29,11 @@ author_profile: true
   * 来自圣马力诺（英语/意大利语）[[图片]](/images/postcards/SanMarino.jpg) （邮票为[艺术家丢勒诞辰550周年纪念特殊邮票](https://www.ufn.sm/en/cod-710-2021.html)，邮戳为[第134届Veronafil特殊邮戳](https://www.veronafil.it/immagini/fotodb.php?tipo=sezioni&idf=452)和[Borgo Maggiore邮局特殊邮戳](https://www.poste.sm/on-line/home/chi-siamo/uffici-postali/scheda46098293.html)，这个明信片来自于本人委托发信人在圣马力诺邮局参加意大利维罗纳Veronafil活动时所设摊位投递，后转到圣马力诺当地邮局寄出） 
   * 来自德国奥尔登堡（英语）[[图片]](/images/postcards/Germany11.jpg) （图片为德国女物理学家[莉泽·迈特纳](https://baike.sogou.com/m/fullLemma?lid=4894151)）
   * 来自美国圣克拉拉（英语）[[图片]](/images/postcards/USA12.jpg) （图片是一种运动，邮票为[科罗拉多线灰蝶](https://about.usps.com/newsroom/national-releases/2021/0301ma-colorado-hairstreak-butterfly-featured-on-new-stamp.htm)和[西部服饰](https://about.usps.com/newsroom/national-releases/2021/0723-new-western-wear-forever-stamps-now-available.pdf)特殊邮票）
-  * 来自日本四国中央（英语) [[图片]](/images/postcards/Japan4.jpg) （图片和邮票为一种植物)
-  * 来自德国英戈尔施塔特（英语/德语) [[图片]](/images/postcards/Germany10.jpg) （邮票为冬菟葵，一种植物和[Benjamin Blümchen四十五周年纪念特殊邮票](https://shop.deutschepost.de/benjamin-bluemchen-briefmarke-zu-0-85-eur-10er-bogen))
-  * 来自台湾省台北市（中文) [[图片]](/images/postcards/Taiwan2.jpg) （图片和邮票为一种动物)
+  * 来自日本四国中央（英语) [[图片]](/images/postcards/Japan4.jpg) （图片和邮票为一种植物）
+  * 来自德国英戈尔施塔特（英语/德语) [[图片]](/images/postcards/Germany10.jpg) （邮票为冬菟葵，一种植物和[Benjamin Blümchen四十五周年纪念特殊邮票](https://shop.deutschepost.de/benjamin-bluemchen-briefmarke-zu-0-85-eur-10er-bogen)）
+  * 来自台湾省台北市（中文) [[图片]](/images/postcards/Taiwan2.jpg) （图片和邮票为一种动物）
 
---- 以下已通过快递送到堂主家并帮助混了几分钟直播时长 ---
+--- 以下已通过快递送给主播并帮助混了几分钟直播时长 ---
 
 ### 第三批 [[快递记录]](https://htm.sf-express.com/hk/tc/dynamic_function/waybill/#search/bill-number/SF1137491985635)
 
