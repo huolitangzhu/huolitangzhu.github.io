@@ -44,7 +44,7 @@ author_profile: true
 
 ### <span id="head202208"> 8月</span>
 
-* Coming soon
+* [太原] 直播悠悠球山西赛 [[海报](https://yuba.douyu.com/p/760312711659720845) · [现场](https://img.douyucdn.cn/data/yuba/default/2022/08/13/202208131752217776966502803.jpg)]
 
 ### <span id="head202207"> 7月</span>
 
