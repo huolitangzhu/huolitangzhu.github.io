@@ -10,7 +10,7 @@ author_profile: true
 
 ## 图文说明
 
-### 第四批 [[快递中]](https://www.sf-express.com/we/ow/chn/sc/waybill/waybill-detail/SF1158016878133)
+### 第四批 [[快递记录]](https://www.sf-express.com/we/ow/chn/sc/waybill/waybill-detail/SF1158016878133)
 
   * 来自立陶宛考纳斯（英语） [[图片]](/images/postcards/Lithuania.jpg) （图片为立陶宛城市维尔基亚）
   * 来自印尼巴淡岛（英语） [[图片]](/images/postcards/Indonesia3.jpg) （邮票为传统服饰特殊邮票）
