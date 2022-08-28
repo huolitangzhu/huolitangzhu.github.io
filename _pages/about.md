@@ -18,7 +18,6 @@ redirect_from:
 
 * **视频**之
   * [你不是真正的快乐](https://yuba.douyu.com/p/970354401659950589) by 荧光棒X60
-  * [可爱女人](https://yuba.douyu.com/p/110692751659024081) by 泥董的
 * 来自世界各地的[**明信片**](https://huolitangzhu.github.io/postcards/)（收集中） by 我
 * 更多整活，请见[鱼吧](https://yuba.douyu.com/group/3022) 
 
