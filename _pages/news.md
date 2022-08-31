@@ -48,7 +48,7 @@ author_profile: true
 
 ### <span id="head202208"> 8月</span>
 
-* [宁波] 参加斗鱼官方节目《斗罗外传》 [[鱼吧]](https://yuba.douyu.com/p/113799441661447249)
+* [宁波] 参加斗鱼官方节目《斗罗外传》 [[鱼吧](https://yuba.douyu.com/p/113799441661447249) · [官方剪辑](https://yuba.douyu.com/p/241280791661863112)]
 * [太原] 直播悠悠球山西赛 [[海报](https://yuba.douyu.com/p/760312711659720845) · 现场 [1](https://img.douyucdn.cn/data/yuba/default/2022/08/13/202208131752217776966502803.jpg) · [2](https://imgoss.douyucdn.cn/bj/yuba/default/2022/08/16/202208160056185933368877629.jpg)]
 
 ### <span id="head202207"> 7月</span>
