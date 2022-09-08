@@ -17,7 +17,7 @@ author_profile: true
  * 来自日本佐贺（英语） [[图片]](/images/postcards/Japan5.jpg) （图片为一种动物）
  * 来自中国台湾省屏东（英语） [[图片]](/images/postcards/Taiwan3.jpg) （图片为[基隆和平岛公园](https://www.taiwan.net.tw/m1.aspx?sno=0001105&id=635)）
 
----
+--- 以下已通过快递送给主播并帮助混了几分钟直播时长 ---
 
 ### 第四批 [[快递记录]](https://www.sf-express.com/we/ow/chn/sc/waybill/waybill-detail/SF1158016878133)
 
@@ -41,8 +41,6 @@ author_profile: true
   * 来自日本四国中央（英语) [[图片]](/images/postcards/Japan4.jpg) （图片和邮票为一种植物）
   * 来自德国英戈尔施塔特（英语/德语) [[图片]](/images/postcards/Germany10.jpg) （邮票为冬菟葵，一种植物和[Benjamin Blümchen四十五周年纪念特殊邮票](https://shop.deutschepost.de/benjamin-bluemchen-briefmarke-zu-0-85-eur-10er-bogen)）
   * 来自台湾省台北市（中文) [[图片]](/images/postcards/Taiwan2.jpg) （图片和邮票为一种动物）
-
---- 以下已通过快递送给主播并帮助混了几分钟直播时长 ---
 
 ### 第三批 [[快递记录]](https://htm.sf-express.com/hk/tc/dynamic_function/waybill/#search/bill-number/SF1137491985635)
 
