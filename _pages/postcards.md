@@ -12,6 +12,11 @@ author_profile: true
 
 ### 第五批
 
+ * 来自日本爱知县丰田市（英语） [[图片]](/images/postcards/Japan6.jpg) （图片为一种动物，邮票是一种植物）
+ * 来自美国俄亥俄伊利里亚（英语） [[图片]](/images/postcards/USA18.jpg) （邮票为[光年正传特别邮票](https://about.usps.com/newsroom/national-releases/2022/0803-usps-buzz-lightyear-forever-stamp.htm)）
+ * 来自中国台湾高雄（英语） [[图片]](/images/postcards/Taiwan4.jpg)
+ * 来自中国上海 [[图片]](/images/postcards/China_Shanghai.jpg)  
+ * 来自中国北京 [[图片]](/images/postcards/China_Peking.jpg) 
  * 来自美国华盛顿斯波坎（英语） [[图片]](/images/postcards/USA17.jpg) （图片为华盛顿州州花海滨杜鹃和州鸟美洲金翅雀）
  * 来自美国亚利桑那旗手市（英语） [[图片]](/images/postcards/USA16.jpg) （图片为阿波罗11号随🚀发射，邮票为[麋鹿角珊瑚特别邮票](https://store.usps.com/store/product/buy-stamps/coral-reefs-postcard-stamp-S_745104)）
  * 来自日本佐贺（英语） [[图片]](/images/postcards/Japan5.jpg) （图片为一种动物）
