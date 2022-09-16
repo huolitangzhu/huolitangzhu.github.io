@@ -12,6 +12,11 @@ author_profile: true
 
 ### 第五批
 
+ * 来自美国宾夕法尼亚州阿尔图纳（英语） [[图片]](/images/postcards/USA22.jpg) （图片为[Point State Park](https://www.dcnr.pa.gov/StateParks/FindAPark/PointStatePark/Pages/default.aspx)，邮票为[美丽密西西比特别邮票](https://store.usps.com/store/product/buy-stamps/mighty-mississippi-stamps-S_580304)）
+ * 来自美国路易斯安那州雷斯兰（英语） [[图片]](/images/postcards/USA21.jpg) （邮票为一种植物）
+ * 来自美国纽约州哈得孙（英语/中文） [[图片]](/images/postcards/USA20.jpg) （图片为[库雅荷加谷国家公园](https://baike.baidu.com/item/%E5%BA%93%E9%9B%85%E8%8D%B7%E5%8A%A0%E8%B0%B7%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD/15275303)，邮票为一种植物）
+ * 来自美国得克萨斯州胡德堡（英语）[[图片]](/images/postcards/USA19.jpg) （图片为德州州花矢车菊，邮票为[George Morrison纪念特殊邮票]([https://about.usps.com/newsroom/national-releases/2022/0803-usps-buzz-lightyear-forever-stamp.htm](https://store.usps.com/store/product/buy-stamps/george-morrison-stamps-S_481804))）
+ * 来自韩国首尔（英语/韩语） [[图片]](/images/postcards/Korea.jpg) （图片为一种动物，邮票为[痕掌沙蟹特殊邮票](https://koreastamp.go.kr/sp/eg/speg0302.jsp?tbsmh15seqnum=3861&tbsmh01seqnum=4889)）
  * 来自日本爱知县丰田市（英语） [[图片]](/images/postcards/Japan6.jpg) （图片为一种动物，邮票是一种植物）
  * 来自美国俄亥俄伊利里亚（英语） [[图片]](/images/postcards/USA18.jpg) （邮票为[光年正传特别邮票](https://about.usps.com/newsroom/national-releases/2022/0803-usps-buzz-lightyear-forever-stamp.htm)）
  * 来自中国台湾高雄（英语） [[图片]](/images/postcards/Taiwan4.jpg)
