@@ -44,7 +44,7 @@ author_profile: true
 
 ### <span id="head202209"> 9月</span>
 
-* 金九银十，尽情期待！
+* [榆林] 参加斗鱼官方节目《陕北一家人》[[鱼吧]](https://yuba.douyu.com/p/650785951662966639)
 
 ### <span id="head202208"> 8月</span>
 
