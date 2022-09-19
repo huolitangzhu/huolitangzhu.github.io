@@ -12,6 +12,8 @@ author_profile: true
 
 ### 第五批
 
+ * 来自德国杜伊斯堡（英语） [[图片]](/images/postcards/Germany15.jpg) （邮票为一种植物）
+ * 来自德国曼海姆（英语/德语） [[图片]](/images/postcards/Germany14.jpg) （图片为一种动物，邮票为植物和史努比漫画特殊邮票）
  * 来自美国宾夕法尼亚州阿尔图纳（英语） [[图片]](/images/postcards/USA22.jpg) （图片为[Point State Park](https://www.dcnr.pa.gov/StateParks/FindAPark/PointStatePark/Pages/default.aspx)，邮票为[美丽密西西比特别邮票](https://store.usps.com/store/product/buy-stamps/mighty-mississippi-stamps-S_580304)）
  * 来自美国路易斯安那州雷斯兰（英语） [[图片]](/images/postcards/USA21.jpg) （邮票为一种植物）
  * 来自美国纽约州哈得孙（英语/中文） [[图片]](/images/postcards/USA20.jpg) （图片为[库雅荷加谷国家公园](https://baike.baidu.com/item/%E5%BA%93%E9%9B%85%E8%8D%B7%E5%8A%A0%E8%B0%B7%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD/15275303)，邮票为一种植物）
