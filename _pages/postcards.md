@@ -12,6 +12,7 @@ author_profile: true
 
 ### 第五批
 
+ * 来自美国俄亥俄州代顿（英语） [[图片]](/images/postcards/USA23.jpg) （邮票为[科罗拉多发丝蝶特殊邮票](https://store.usps.com/store/product/buy-stamps/colorado-hairstreak-stamps-99-cents-S_121204)和[美丽密西西比特殊邮票](https://store.usps.com/store/product/buy-stamps/mighty-mississippi-stamps-S_580304)）
  * 来自德国杜伊斯堡（英语） [[图片]](/images/postcards/Germany15.jpg) （邮票为一种植物）
  * 来自德国曼海姆（英语/德语） [[图片]](/images/postcards/Germany14.jpg) （图片为一种动物，邮票为植物和史努比漫画特殊邮票）
  * 来自美国宾夕法尼亚州阿尔图纳（英语） [[图片]](/images/postcards/USA22.jpg) （图片为[Point State Park](https://www.dcnr.pa.gov/StateParks/FindAPark/PointStatePark/Pages/default.aspx)，邮票为[美丽密西西比特别邮票](https://store.usps.com/store/product/buy-stamps/mighty-mississippi-stamps-S_580304)）
