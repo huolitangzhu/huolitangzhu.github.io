@@ -12,6 +12,8 @@ author_profile: true
 
 ### 第五批
 
+ * 来自拉脱维亚（英语/拉脱维亚语）[[图片]](/images/postcards/Latvia.jpg) （图片为锡古尔达） 
+ * 来自英国卡迪夫（英语） [[图片]](/images/postcards/UK2.jpg) （图片为一种植物，邮票为女王纪念特殊邮票） 
  * 来自白俄罗斯明斯克（英语） [[图片]](/images/postcards/Belarus2.jpg) （图片为奥尔沙耶稣会学院） 
  * 来自俄罗斯彼尔姆（英语） [[图片]](/images/postcards/Russ8.jpg) （图片为主播故乡的Sakura，邮票为摩托车和飞机特殊邮票） 
  * 来自印度新德里（英语/印度语） [[图片]](/images/postcards/India.jpg) （邮票为印度时尚特殊邮票） 
