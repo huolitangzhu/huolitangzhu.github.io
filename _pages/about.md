@@ -12,7 +12,7 @@ redirect_from:
 
 ## 近期动态
 
-* 金九银十，大家上一上！
+* 鱼子酱老师为主播唱作单曲《猪猪》发布 [[抖音码]](/images/about/douyin_zhuzhu.png)
 
 ## 水友整活
 
@@ -31,10 +31,11 @@ redirect_from:
 
 ## 专属BGM
 
+* [猪猪](/images/about/douyin_zhuzhu.png) by [鱼子酱](https://www.douyu.com/5508997)
+* [我是真的爱上你](https://music.163.com/#/song?id=492151019) · [音乐区主播翻唱](https://music.163.com/song?id=1877540723)
 * [星屑ビーナス](https://music.163.com/#/song?id=476081899)
 * [明日晴れるかな](https://music.163.com/#/song?id=26144177)
 * [爱情大魔咒](https://music.163.com/#/song?id=327687)
-* [我是真的爱上你](https://music.163.com/#/song?id=492151019) · [主播翻唱](https://music.163.com/song?id=1877540723)
 * [鹏将行](https://yuba.douyu.com/p/593050641622217731) - 改编自[《盗将行》](https://music.163.com/#/song?id=574566207)，本人重新填词并调音，由VOCALOID虚拟歌姬“星尘”演唱，由音乐主播慕一cc[[直播翻唱]](https://v.douyu.com/show/wLjGvLZPeexMmO90)
 
 ## 防冲声明
