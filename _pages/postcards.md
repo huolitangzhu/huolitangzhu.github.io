@@ -12,7 +12,10 @@ author_profile: true
 
 ### 第五批
 
- * 来自拉脱维亚（英语/拉脱维亚语）[[图片]](/images/postcards/Latvia.jpg) （图片为锡古尔达） 
+ * 来自德国萨尔布吕肯（英语） [[图片]](/images/postcards/Germany16.jpg) （图片为当地街景） 
+ * 来自西班牙格拉年（英语/西班牙语） [[图片]](/images/postcards/Spain.jpg) （图片为[里格洛斯岩]([第3回国連防災世界会議](https://en.wikipedia.org/wiki/Mallos_de_Riglos))） 
+ * 来自日本神户（英语） [[图片]](/images/postcards/Japan7.jpg) （邮票为[第3回国連防災世界会議特殊邮票](第3回国連防災世界会議)） 
+ * 来自拉脱维亚（英语/拉脱维亚语） [[图片]](/images/postcards/Latvia.jpg) （图片为锡古尔达） 
  * 来自英国卡迪夫（英语） [[图片]](/images/postcards/UK2.jpg) （图片为一种植物，邮票为女王纪念特殊邮票） 
  * 来自白俄罗斯明斯克（英语） [[图片]](/images/postcards/Belarus2.jpg) （图片为奥尔沙耶稣会学院） 
  * 来自俄罗斯彼尔姆（英语） [[图片]](/images/postcards/Russ8.jpg) （图片为主播故乡的Sakura，邮票为摩托车和飞机特殊邮票） 
