@@ -12,7 +12,7 @@ redirect_from:
 
 ## 近期动态
 
-* 鱼子酱老师为主播唱作单曲《猪猪》发布 [[抖音码]](/images/about/douyin_zhuzhu.png)
+* 鱼子酱老师为主播唱作单曲《猪猪》发布 [[抖音码]](/images/about/douyin_zhuzhu.png) · [[网易云]](https://music.163.com/#/song?id=1994572467)
 
 ## 水友整活
 
@@ -31,7 +31,7 @@ redirect_from:
 
 ## 专属BGM
 
-* [猪猪](/images/about/douyin_zhuzhu.png) by [鱼子酱](https://www.douyu.com/5508997)
+* [猪猪](https://music.163.com/#/song?id=1994572467) by [鱼子酱](https://www.douyu.com/5508997)
 * [我是真的爱上你](https://music.163.com/#/song?id=492151019) · [音乐区主播翻唱](https://music.163.com/song?id=1877540723)
 * [星屑ビーナス](https://music.163.com/#/song?id=476081899)
 * [明日晴れるかな](https://music.163.com/#/song?id=26144177)
