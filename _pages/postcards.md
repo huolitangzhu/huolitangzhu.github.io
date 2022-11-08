@@ -12,6 +12,8 @@ author_profile: true
 
 ### 第五批
 
+ * 来自澳大利亚格里菲斯（英语）  [[图片]](/images/postcards/Australia2.jpg) （为皇家防止虐待动物协会（RSPCA）成立150周年纪念主题极限明信片） 
+ * 来自中国台湾省台北市（英语） [[图片]](/images/postcards/Taiwan5.jpg) （邮票为当地博物馆馆藏明·青花牡丹大瓮） 
  * 来自德国萨尔布吕肯（英语） [[图片]](/images/postcards/Germany16.jpg) （图片为当地街景） 
  * 来自西班牙格拉年（英语/西班牙语） [[图片]](/images/postcards/Spain.jpg) （图片为[里格洛斯岩]([第3回国連防災世界会議](https://en.wikipedia.org/wiki/Mallos_de_Riglos))） 
  * 来自日本神户（英语） [[图片]](/images/postcards/Japan7.jpg) （邮票为[第3回国連防災世界会議特殊邮票](第3回国連防災世界会議)） 
