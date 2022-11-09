@@ -12,6 +12,7 @@ author_profile: true
 
 ### 第五批
 
+ * 来自德国基尔（英语）  [[图片]](/images/postcards/Germany17.jpg) （图片为[朗格奥格水塔](https://de.wikipedia.org/wiki/Wasserturm_Langeoog)前的沙丘玫瑰，邮票为[Postcrossing主题特殊邮票](https://www.postcrossing.com/blog/tag/postcrossing-stamp)） 
  * 来自澳大利亚格里菲斯（英语）  [[图片]](/images/postcards/Australia2.jpg) （为皇家防止虐待动物协会（RSPCA）成立150周年纪念主题极限明信片） 
  * 来自中国台湾省台北市（英语） [[图片]](/images/postcards/Taiwan5.jpg) （邮票为当地博物馆馆藏明·青花牡丹大瓮） 
  * 来自德国萨尔布吕肯（英语） [[图片]](/images/postcards/Germany16.jpg) （图片为当地街景） 
