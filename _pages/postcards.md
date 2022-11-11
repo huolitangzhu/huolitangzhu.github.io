@@ -12,7 +12,9 @@ author_profile: true
 
 ### 第五批
 
- * 来自德国基尔（英语）  [[图片]](/images/postcards/Germany17.jpg) （图片为[朗格奥格水塔](https://de.wikipedia.org/wiki/Wasserturm_Langeoog)前的沙丘玫瑰，邮票为[Postcrossing主题特殊邮票](https://www.postcrossing.com/blog/tag/postcrossing-stamp)） 
+ * 来自美国罗切斯特（英语） [[图片]](/images/postcards/USA24.jpg) （图片为牛油果，邮票分别为[罗德岛主题特殊邮票](https://www.littlepostagehouse.com/vintage-postage-multi-color/rhode-island)；[谢尔登·艾伦·希尔弗斯坦漫画特殊邮票](https://about.usps.com/newsroom/national-releases/2022/0307ma-usps-to-release-shel-silverstein-stamp.htm)和[教育法修正案第九条颁布五十周年纪念特殊邮票](https://share.america.gov/zh-hans/title-ix-protecting-equality-in-the-u-s-for-50-years/)） 
+ * 来自德国汉堡（英语） [[图片]](/images/postcards/Germany18.jpg) （图片为[汉堡港]([https://de.wikipedia.org/wiki/Wasserturm_Langeoog](https://baike.baidu.com/item/%E6%B1%89%E5%A0%A1%E6%B8%AF/3179983))） 
+ * 来自德国基尔（英语） [[图片]](/images/postcards/Germany17.jpg) （图片为[朗格奥格水塔](https://de.wikipedia.org/wiki/Wasserturm_Langeoog)前的沙丘玫瑰，邮票为[Postcrossing主题特殊邮票](https://www.postcrossing.com/blog/tag/postcrossing-stamp)） 
  * 来自澳大利亚格里菲斯（英语）  [[图片]](/images/postcards/Australia2.jpg) （为皇家防止虐待动物协会（RSPCA）成立150周年纪念主题极限明信片） 
  * 来自中国台湾省台北市（英语） [[图片]](/images/postcards/Taiwan5.jpg) （邮票为当地博物馆馆藏明·青花牡丹大瓮） 
  * 来自德国萨尔布吕肯（英语） [[图片]](/images/postcards/Germany16.jpg) （图片为当地街景） 
