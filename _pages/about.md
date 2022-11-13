@@ -12,7 +12,8 @@ redirect_from:
 
 ## 近期动态
 
-* 主播到达郑州开始租房节目，和嘉宾线下见面并交换礼物 [[鱼吧]](https://yuba.douyu.com/p/813876921667992271)
+* 主播到达郑州开始租房节目
+  * 和嘉宾线下见面并交换礼物 [[鱼吧]](https://yuba.douyu.com/p/813876921667992271)
 * 鱼子酱老师为主播唱作单曲《猪猪》发布 [[抖音码]](/images/about/douyin_zhuzhu.png) · [[网易云]](https://music.163.com/#/song?id=1994572467)
 
 ## 水友整活
