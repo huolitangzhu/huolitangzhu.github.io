@@ -18,8 +18,8 @@ redirect_from:
 
 ## 水友整活
 
-* **视频**之
-  * [无所谓，赵鹏会出手](https://yuba.douyu.com/p/283731501667222729)
+* **小说**之
+  * 赵鹏的如梦之境 [[1](https://yuba.douyu.com/p/685229751668307428) · [2](https://yuba.douyu.com/p/784839381668388886)]
 * 来自世界各地的[**明信片**](https://huolitangzhu.github.io/postcards/)（收集中） by 我
 * 更多整活，请见[鱼吧](https://yuba.douyu.com/group/3022) 
 
