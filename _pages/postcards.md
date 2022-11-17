@@ -12,7 +12,10 @@ author_profile: true
 
 ### 第五批
 
- * 来自美国拉斯维加斯（英语）  [[图片]](/images/postcards/USA26.jpg) （图片为拉斯维加斯当地景观，邮票为一种植物）
+ * 来自俄罗斯莫斯科（英语/俄语） [[图片]](/images/postcards/Russia9.jpg) （图片为圣彼得堡[涅瓦大街](https://baike.baidu.com/item/%E6%B6%85%E7%93%A6%E5%A4%A7%E8%A1%97/1398384)）
+ * 来自德国诺伊施塔特（英语） [[图片]](/images/postcards/Germany19.jpg) （图片和邮票均为一种植物）
+ * 来自澳大利亚悉尼（英语） [[图片]](/images/postcards/Australia3.jpg) （图片和邮票均为一种职业）
+ * 来自美国拉斯维加斯（英语） [[图片]](/images/postcards/USA26.jpg) （图片为拉斯维加斯当地景观，邮票为一种植物）
  * 来自美国达拉斯（英语） [[图片]](/images/postcards/USA25.jpg) （图片为一种动物，邮票为一种植物）
  * 来自斯洛文尼亚卢布尔雅那（英语/斯洛文尼亚语） [[图片]](/images/postcards/Slovenia.jpg) （图片为当地神话人物的卡通图案） 
  * 来自英国布里斯托（英语） [[图片]](/images/postcards/UK3.jpg) （图片为主播喜欢的飞机[协和式](https://baike.baidu.com/item/%E5%8D%8F%E5%92%8C%E5%BC%8F%E9%A3%9E%E6%9C%BA/5040149)，邮票图案是缅因猫） 
@@ -20,7 +23,7 @@ author_profile: true
  * 来自德国汉堡（英语） [[图片]](/images/postcards/Germany18.jpg) （图片为[汉堡港]([https://de.wikipedia.org/wiki/Wasserturm_Langeoog](https://baike.baidu.com/item/%E6%B1%89%E5%A0%A1%E6%B8%AF/3179983))） 
  * 来自德国基尔（英语） [[图片]](/images/postcards/Germany17.jpg) （图片为[朗格奥格水塔](https://de.wikipedia.org/wiki/Wasserturm_Langeoog)前的沙丘玫瑰，邮票为[Postcrossing主题特殊邮票](https://www.postcrossing.com/blog/tag/postcrossing-stamp)） 
  * 来自澳大利亚格里菲斯（英语）  [[图片]](/images/postcards/Australia2.jpg) （为皇家防止虐待动物协会（RSPCA）成立150周年纪念主题极限明信片） 
- * 来自中国台湾省台北市（英语） [[图片]](/images/postcards/Taiwan5.jpg) （邮票为当地博物馆馆藏明·青花牡丹大瓮） 
+ * 来自中国台湾省台北（英语） [[图片]](/images/postcards/Taiwan5.jpg) （邮票为当地博物馆馆藏明·青花牡丹大瓮） 
  * 来自德国萨尔布吕肯（英语） [[图片]](/images/postcards/Germany16.jpg) （图片为当地街景） 
  * 来自西班牙格拉年（英语/西班牙语） [[图片]](/images/postcards/Spain.jpg) （图片为[里格洛斯岩]([第3回国連防災世界会議](https://en.wikipedia.org/wiki/Mallos_de_Riglos))） 
  * 来自日本神户（英语） [[图片]](/images/postcards/Japan7.jpg) （邮票为[第3回国連防災世界会議特殊邮票](第3回国連防災世界会議)） 
@@ -40,7 +43,7 @@ author_profile: true
  * 来自韩国首尔（英语/韩语） [[图片]](/images/postcards/Korea.jpg) （图片为一种动物，邮票为[痕掌沙蟹特殊邮票](https://koreastamp.go.kr/sp/eg/speg0302.jsp?tbsmh15seqnum=3861&tbsmh01seqnum=4889)）
  * 来自日本爱知县丰田市（英语） [[图片]](/images/postcards/Japan6.jpg) （图片为一种动物，邮票是一种植物）
  * 来自美国俄亥俄伊利里亚（英语） [[图片]](/images/postcards/USA18.jpg) （邮票为[光年正传特别邮票](https://about.usps.com/newsroom/national-releases/2022/0803-usps-buzz-lightyear-forever-stamp.htm)）
- * 来自中国台湾高雄（英语） [[图片]](/images/postcards/Taiwan4.jpg)
+ * 来自中国台湾省高雄（英语） [[图片]](/images/postcards/Taiwan4.jpg)
  * 来自中国上海 [[图片]](/images/postcards/China_Shanghai.jpg)  
  * 来自中国北京 [[图片]](/images/postcards/China_Peking.jpg) 
  * 来自美国华盛顿斯波坎（英语） [[图片]](/images/postcards/USA17.jpg) （图片为华盛顿州州花海滨杜鹃和州鸟美洲金翅雀）
@@ -71,7 +74,7 @@ author_profile: true
   * 来自美国圣克拉拉（英语）[[图片]](/images/postcards/USA12.jpg) （图片是一种运动，邮票为[科罗拉多线灰蝶](https://about.usps.com/newsroom/national-releases/2021/0301ma-colorado-hairstreak-butterfly-featured-on-new-stamp.htm)和[西部服饰](https://about.usps.com/newsroom/national-releases/2021/0723-new-western-wear-forever-stamps-now-available.pdf)特殊邮票）
   * 来自日本四国中央（英语) [[图片]](/images/postcards/Japan4.jpg) （图片和邮票为一种植物）
   * 来自德国英戈尔施塔特（英语/德语) [[图片]](/images/postcards/Germany10.jpg) （邮票为冬菟葵，一种植物和[Benjamin Blümchen四十五周年纪念特殊邮票](https://shop.deutschepost.de/benjamin-bluemchen-briefmarke-zu-0-85-eur-10er-bogen)）
-  * 来自台湾省台北市（中文) [[图片]](/images/postcards/Taiwan2.jpg) （图片和邮票为一种动物）
+  * 来自中国台湾省台北（中文) [[图片]](/images/postcards/Taiwan2.jpg) （图片和邮票为一种动物）
 
 ### 第三批 [[快递记录]](https://htm.sf-express.com/hk/tc/dynamic_function/waybill/#search/bill-number/SF1137491985635)
 
@@ -105,7 +108,7 @@ author_profile: true
   * 来自德国东弗里西亚（英语/德语） [[图片]](/images/postcards/Germany4.jpg) （图片为德国画家[奥古斯特·马克](https://baike.baidu.com/item/%E5%A5%A5%E5%8F%A4%E6%96%AF%E7%89%B9%C2%B7%E9%A9%AC%E5%85%8B/382206)画作《在公园里散步（Spaziergang im Park）》，邮票为野生动物-高地山羊特殊邮票）
   * 来自德国库尔姆巴赫（英语） [[图片]](/images/postcards/Germany3.jpg) （图片为[勃兰登堡门](https://baike.baidu.com/item/%E5%8B%83%E5%85%B0%E7%99%BB%E5%A0%A1%E9%97%A8/1513297)，邮票为贝多芬诞辰250周年特殊邮票）
   * 来自广东省广州市（英语/中文） [[图片]](/images/postcards/Guangzhou.jpg) （图片为西藏阿里[土林](https://baike.baidu.com/item/%E9%98%BF%E9%87%8C%E5%9C%9F%E6%9E%97/8989200)）
-  * 来自台湾省苗栗縣（英语/國語） [[图片]](/images/postcards/Taiwan.jpg) （图片为寄信人在日本旅游拍摄的植物）
+  * 来自中国台湾省苗栗縣（英语/國語） [[图片]](/images/postcards/Taiwan.jpg) （图片为寄信人在日本旅游拍摄的植物）
   * 来自加拿大温哥华岛（英语） [[图片]](/images/postcards/Canada.jpg) （图片为不列颠哥伦比亚省西海岸，邮票为农历羊年和蛇年特殊邮票）
   * 来自俄罗斯梁赞（英语/俄语） [[图片]](/images/postcards/Russia.jpg) （邮票为苏联[伊尔-18](https://baike.baidu.com/item/%E4%BC%8A%E5%B0%94-18%E5%AE%A2%E6%9C%BA/17616190)飞机特殊邮票）
   * 来自美国堪萨斯（英语） [[图片]](/images/postcards/USA3.jpg) （邮戳为美国能源行动月特殊邮戳）
