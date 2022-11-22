@@ -12,6 +12,9 @@ author_profile: true
 
 ### 第五批
 
+ * 来自美国科德角（英语） [[图片]](/images/postcards/USA29.jpg) （图片为超人，邮票为一种植物）
+ * 来自美国西雅图（英语/中文） [[图片]](/images/postcards/USA28.jpg) （图片为主播家乡的富士山，邮票为一种植物）
+ * 来自立陶宛考纳斯（英语/立陶宛语） [[图片]](/images/postcards/Lithuania2.jpg) （图片和邮票均为主播喜欢的飞机）
  * 来自美国哈得孙（英语） [[图片]](/images/postcards/USA27.jpg) （图片为一种动物）
  * 来自俄罗斯莫斯科（英语/俄语） [[图片]](/images/postcards/Russia9.jpg) （图片为圣彼得堡[涅瓦大街](https://baike.baidu.com/item/%E6%B6%85%E7%93%A6%E5%A4%A7%E8%A1%97/1398384)）
  * 来自德国诺伊施塔特（英语） [[图片]](/images/postcards/Germany19.jpg) （图片和邮票均为一种植物）
