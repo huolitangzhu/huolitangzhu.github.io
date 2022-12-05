@@ -52,7 +52,7 @@ author_profile: true
 
 ### <span id="head202210"> 10月</span>
 
-* [洛阳] 自制做饭节目
+* [洛阳] 自制做饭节目（凑数的）
 
 ### <span id="head202209"> 9月</span>
 
