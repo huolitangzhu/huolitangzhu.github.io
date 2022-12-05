@@ -12,7 +12,7 @@ redirect_from:
 
 ## 近期动态
 
-* 主播将于近日抵达自己忠实的偃师
+* 主播已经抵达自己忠实的偃师
 * 鱼子酱老师为主播唱作单曲《猪猪》发布 [[抖音码]](/images/about/douyin_zhuzhu.png) · [[网易云]](https://music.163.com/#/song?id=1994572467)
 
 ## 水友整活
