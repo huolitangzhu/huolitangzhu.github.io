@@ -12,6 +12,7 @@ author_profile: true
 
 ### 第五批
 
+ * 来自印尼诗都阿佐（英语/阿拉伯语） [[图片]](/images/postcards/Indonesia4.jpg) （图片为一种植物）
  * 来自波兰华沙（英语/波兰语/乌克兰语） [[图片]](/images/postcards/Poland2.jpg) （图片为波兰著名菜肴Bigos，很像主播吃过的一种食物）
  * 来自美国科德角（英语） [[图片]](/images/postcards/USA29.jpg) （图片为超人，邮票为一种植物）
  * 来自美国西雅图（英语/中文） [[图片]](/images/postcards/USA28.jpg) （图片为主播家乡的富士山，邮票为一种植物）
