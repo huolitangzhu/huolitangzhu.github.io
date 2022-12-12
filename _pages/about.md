@@ -12,13 +12,11 @@ redirect_from:
 
 ## 近期动态
 
-* 主播已经抵达自己忠实的偃师
-* 鱼子酱老师为主播唱作单曲《猪猪》发布 [[抖音码]](/images/about/douyin_zhuzhu.png) · [[网易云]](https://music.163.com/#/song?id=1994572467)
+* 《轮回》中
 
 ## 水友整活
 
-* **小说**之
-  * 赵鹏的如梦之境 [[1](https://yuba.douyu.com/p/685229751668307428) · [2](https://yuba.douyu.com/p/784839381668388886) · [3](https://yuba.douyu.com/p/783951061668477915)]
+* 没啥新活，大家加油！
 * 来自世界各地的[**明信片**](https://huolitangzhu.github.io/postcards/)（收集中） by 我
 * 更多整活，请见[鱼吧](https://yuba.douyu.com/group/3022) 
 
