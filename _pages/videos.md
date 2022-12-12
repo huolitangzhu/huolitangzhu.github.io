@@ -46,8 +46,8 @@ author_profile: true
 
 ## 音频
 
-| [我是真的爱上你（翻唱）](https://music.163.com/#/song?id=1877540723) by 主播 | [鹏将行（Cover：星尘）](https://yuba.douyu.com/p/593050641622217731) by 我 · 直播[翻唱](https://v.douyu.com/show/wLjGvLZPeexMmO90) by 幕一cc |
+| [我是真的爱上你（翻唱）](https://music.163.com/#/song?id=1877540723) by 主播 | [鹏将行（Cover：星尘）](https://yuba.douyu.com/p/593050641622217731) by 我 · [直播翻唱](https://v.douyu.com/show/wLjGvLZPeexMmO90) by 幕一cc | [猪猪](https://music.163.com/#/song?id=1994572467) by 鱼子酱
 
 ## 小说
 
-[【直播时代之楚门的世界】](https://yuba.douyu.com/p/998187491625529337) by 爱情盲僧
+| [直播时代之楚门的世界](https://yuba.douyu.com/p/998187491625529337) by 爱情盲僧 | 赵鹏的如梦之境 [[1](https://yuba.douyu.com/p/685229751668307428) · [2](https://yuba.douyu.com/p/784839381668388886) · [3](https://yuba.douyu.com/p/783951061668477915)] by 一团孩气
