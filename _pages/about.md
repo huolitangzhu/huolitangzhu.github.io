@@ -12,11 +12,10 @@ redirect_from:
 
 ## 近期动态
 
-* 主播在上海户外中
+* 主播在泰国户外中
 
 ## 水友整活
 
-* 没啥新活，大家加油！
 * 来自世界各地的[**明信片**](https://huolitangzhu.github.io/postcards/)（收集中） by 我
 * 更多整活，请见[鱼吧](https://yuba.douyu.com/group/3022) 
 
