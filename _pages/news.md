@@ -211,7 +211,7 @@ author_profile: true
 
 ### <span id="head201908"> 8月</span>
 
-* [广州] 赞助并直播（可能是最后一届）CYCC [[赞助]](https://wx4.sinaimg.cn/mw2000/7f858b06gy1g5ljcnaz6vj23402c0b2a.jpg) [[同事合影]](https://wx2.sinaimg.cn/mw2000/7f858b06gy1g5ljegodi5j23402c0x6t.jpg)
+* [广州] 赞助并直播CYCC [[前同事合影]](/images/news/2019CYCC.jpeg)
 
 ### <span id="head201906"> 6月</span>
 
