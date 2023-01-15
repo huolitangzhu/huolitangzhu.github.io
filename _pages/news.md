@@ -46,6 +46,7 @@ author_profile: true
 
 ### <span id="head202301"> 1月</span>
 
+* [香港] 本站站长狙击成功 [[现场](/images/news/2023HK.jpeg)]
 * [泰国] 后新冠时代泰囧
 
 ## <span id="head2022"> 2022年 </span>
