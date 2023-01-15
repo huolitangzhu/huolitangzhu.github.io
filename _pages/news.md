@@ -225,7 +225,7 @@ author_profile: true
 
 ### <span id="head201808"> 8月</span>
 
-* [上海] 现场直播并赞助[世界悠悠球大赛](http://wyyc2018.auldey.com/details/id/618.html) [[火力组合影]](https://wx4.sinaimg.cn/mw2000/005MlMglgy1fu9m13lhnjj31900u0k0v.jpg)
+* [上海] 现场直播并赞助[世界悠悠球大赛](http://wyyc2018.auldey.com/details/id/618.html) [[火力组合影]](/images/news/2018WYYC.jpg)
 
 ### <span id="head201803"> 3月</span>
 
