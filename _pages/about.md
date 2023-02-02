@@ -16,7 +16,7 @@ redirect_from:
 
 ## 水友整活
 
-* 主播2022年度视频 [[鱼吧]](https://yuba.douyu.com/p/118638461674031913)
+* 主播2022年度视频 [[鱼吧]](https://yuba.douyu.com/p/118638461674031913) by 何苦惹我错付了情衷
 * 来自世界各地的[**明信片**](https://huolitangzhu.github.io/postcards/)（收集中） by 我
 * 更多整活，请见[鱼吧](https://yuba.douyu.com/group/3022) 
 
