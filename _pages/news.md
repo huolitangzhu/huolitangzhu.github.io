@@ -46,7 +46,8 @@ author_profile: true
 
 ### <span id="head202302"> 2月</span>
 
-* [西安] TBA
+* [乌鲁木齐] TBA
+* [西安] 台球交流赛第二站
 
 ### <span id="head202301"> 1月</span>
 
@@ -57,7 +58,7 @@ author_profile: true
 
 ### <span id="head202212"> 12月</span>
 
-* [上海] 水友台球交流赛第一站
+* [上海] 台球交流赛第一站
 
 ### <span id="head202211"> 11月</span>
 
