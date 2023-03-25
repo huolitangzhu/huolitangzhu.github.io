@@ -46,7 +46,7 @@ author_profile: true
 
 ### <span id="head202303"> 3月</span>
 
-* [秦皇岛] TBA
+* [秦皇岛] 观摩台球比赛 [[阿亚那礼堂自拍](/images/news/202303秦皇岛.jpg)]
 
 ### <span id="head202302"> 2月</span>
 
