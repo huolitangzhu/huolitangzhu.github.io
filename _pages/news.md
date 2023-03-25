@@ -46,8 +46,8 @@ author_profile: true
 
 ### <span id="head202303"> 3月</span>
 
-* [北京] 重回像素公寓
-* [秦皇岛] 观摩台球比赛 [[阿亚那礼堂自拍](/images/news/202303秦皇岛.jpg)]
+* [北京] 梦的开始之重回像素公寓
+* [秦皇岛] 观摩台球比赛 [[阿亚那礼堂自拍](/images/news/202303秦皇岛.JPG)]
 
 ### <span id="head202302"> 2月</span>
 
@@ -71,7 +71,7 @@ author_profile: true
 
 ### <span id="head202210"> 10月</span>
 
-* [洛阳] 自制做饭节目（凑数的）
+* [洛阳] 自制做饭节目
 
 ### <span id="head202209"> 9月</span>
 
