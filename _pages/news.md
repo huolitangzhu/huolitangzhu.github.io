@@ -46,13 +46,13 @@ author_profile: true
 
 ### <span id="head202303"> 3月</span>
 
-* [北京] 梦的开始之重回像素公寓
-* [秦皇岛] 观摩台球比赛 [[阿亚那礼堂自拍](/images/news/202303秦皇岛.JPG)]
+* [北京] 火力台球全国行第四站
+* [秦皇岛] 火力台球全国行第三站 [[阿亚那礼堂自拍](/images/news/202303秦皇岛.JPG)]
 
 ### <span id="head202302"> 2月</span>
 
 * [新疆] 滑雪 [[荷兰悍匪](https://wx3.sinaimg.cn/mw690/005wBK3Xly1hbdxt9q52ij32c0340u0x.jpg)]
-* [西安] 台球交流赛第二站
+* [西安] 火力台球全国行第二站
 
 ### <span id="head202301"> 1月</span>
 
@@ -63,7 +63,7 @@ author_profile: true
 
 ### <span id="head202212"> 12月</span>
 
-* [上海] 台球交流赛第一站
+* [上海] 火力台球全国行第一站
 
 ### <span id="head202211"> 11月</span>
 
