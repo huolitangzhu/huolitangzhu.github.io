@@ -44,6 +44,8 @@ author_profile: true
 		
 ## <span id="head2023"> 2023年 </span>
 
+### <span id="head202304"> 4月</span>
+
 * [上海] 火力露营 [[图片](/images/news/202304上海.JPG)]
 
 ### <span id="head202303"> 3月</span>
