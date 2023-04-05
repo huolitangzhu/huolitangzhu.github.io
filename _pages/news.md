@@ -46,6 +46,7 @@ author_profile: true
 
 ### <span id="head202304"> 4月</span>
 
+* [洛阳] 火力骑行之一路向东
 * [上海] 火力露营 [[图片](/images/news/202304上海.JPG)]
 
 ### <span id="head202303"> 3月</span>
