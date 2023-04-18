@@ -17,7 +17,7 @@ author_profile: true
   * #斗鱼主播重走长征路# 井冈山站 [[微博]](https://weibo.com/3982726153/JjGkeFrHy)
   * #这是什么垃圾？# 斗鱼垃圾分类小课堂 [[微博]](https://weibo.com/3982726153/HCHEH61h5)
 
-* 本站捐款
+* 本站站长捐款
 
   * 2023年UNHCR(HK)冬季支援項目 [[电子收据]](/images/donate/UNHCR23.png)
   * WeChat Pay(HK)[日行一膳]公益项目 [[2021年](/images/donate/wechat-pay.jpg) · [2022年](/images/donate/Wechat-Pay2.png)]
