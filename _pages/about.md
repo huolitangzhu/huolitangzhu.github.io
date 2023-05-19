@@ -12,12 +12,12 @@ redirect_from:
 
 ## 近期动态
 
-* 主播划水中
+* 调整休息 [[主播日历](https://huolitangzhu.github.io/calendar/)]
 
 ## 水友整活
 
-* 来自世界各地的[**明信片**](https://huolitangzhu.github.io/postcards/)（均送达主播） by 小站站长
 * 更多整活，请见[鱼吧](https://yuba.douyu.com/group/3022) 
+* 来自世界各地的[**明信片**](https://huolitangzhu.github.io/postcards/)（均送达主播） by 小站站长
 
 ## 主播属性
 
