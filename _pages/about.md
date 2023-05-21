@@ -12,7 +12,7 @@ redirect_from:
 
 ## 近期动态
 
-* 调整休息 [[主播日历](https://huolitangzhu.github.io/calendar/)]
+* 上海直播中 [[主播日历](https://huolitangzhu.github.io/calendar/)]
 
 ## 水友整活
 
