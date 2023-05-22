@@ -46,7 +46,7 @@ author_profile: true
 
 ### <span id="head202305"> 5月</span>
 
-* [上海] TBA
+* [上海] 参加前同事美平菇婚礼 [[合照](/images/news/202305上海.JPG)]
 * [运城] 参加水友婚礼
 
 ### <span id="head202304"> 4月</span>
