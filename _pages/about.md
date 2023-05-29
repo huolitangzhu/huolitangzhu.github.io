@@ -12,7 +12,7 @@ redirect_from:
 
 ## 近期动态
 
-* 在家原神中 [[主播日历](https://huolitangzhu.github.io/calendar/)]
+* 在家原神中，准备去日本 [[主播日历](https://huolitangzhu.github.io/calendar/)]
 
 ## 水友整活
 
