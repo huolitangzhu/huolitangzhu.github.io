@@ -12,7 +12,7 @@ redirect_from:
 
 ## 近期动态
 
-* 日本酒店TV [[主播日历](https://huolitangzhu.github.io/calendar/)]
+* 日本酒店TV [[鱼吧海报](https://img.douyucdn.cn/data/yuba/default/2023/06/04/202306042325579646734024913.1440x0.jpg) · [主播日历](https://huolitangzhu.github.io/calendar/)]
 
 ## 水友整活
 
