@@ -46,7 +46,8 @@ author_profile: true
 
 ### <span id="head202306"> 6月</span>
 
-* [日本福冈] TBA
+* [新疆] 参加斗鱼户外《新疆一家人》官方活动
+* [日本大阪/福冈] 家乡的撒库拉时隔三年又开了
 
 ### <span id="head202305"> 5月</span>
 
