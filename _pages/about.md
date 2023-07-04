@@ -13,6 +13,7 @@ redirect_from:
 ## 近期动态 [[主播日历](https://huolitangzhu.github.io/calendar/)]
 
 * 偃师上号中
+* 本站已出现在Google搜索“火力堂主”显示结果[[第一页](/images/about/Google2.png)]，并于近期获得[[5次搜索点击](/images/about/Google1.png)]
 
 ## 水友整活
 
