@@ -12,7 +12,7 @@ redirect_from:
 
 ## 近期动态 [[主播日历](https://huolitangzhu.github.io/calendar/)]
 
-* 6/26-29 参加户外“新疆一家人”官方活动，大家上一上
+* 偃师上号中
 
 ## 水友整活
 
