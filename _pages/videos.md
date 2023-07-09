@@ -8,7 +8,7 @@ author_profile: true
 
 ### 名人相关
 
-| [视频鼓励](https://yuba.douyu.com/p/861676091656651521) by 台球冠军亨得利 |
+| [视频鼓励](https://yuba.douyu.com/p/861676091656651521) by 台球皇帝[亨得利(https://baike.baidu.com/item/%E6%96%AF%E8%92%82%E8%8A%AC%C2%B7%E4%BA%A8%E5%BE%97%E5%88%A9)] |
 
 ### 直播时代 by dreamover1010
 
@@ -20,7 +20,7 @@ author_profile: true
 | [小卑微](https://yuba.douyu.com/p/320430661616861100) with XX | [好妹妹图鉴2](https://yuba.douyu.com/p/946137141610386419) with 多人运动 | [好妹妹图鉴1](https://yuba.douyu.com/p/198854931586759899) with 多人运动 | [话剧《梦》](https://www.bilibili.com/video/BV1Eh411R7sd) with 张姐 | [巨变](https://www.bilibili.com/video/BV1Lt4y1D734) with 每个人 | 
 | [你的妹妹小董](https://www.bilibili.com/video/BV1nZ4y1H7tV) with 小董 | 
 
-### （已退鱼）女嘉宾经典
+### 女嘉宾经典
 
 | 张曼希 | [你是我穷极一生到不了的天堂](https://yuba.douyu.com/p/392852661591064413) 
 | 舒舒 | [爱的飞行日记](https://yuba.douyu.com/p/765192541611244940) |
