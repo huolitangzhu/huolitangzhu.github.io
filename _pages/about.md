@@ -30,12 +30,9 @@ redirect_from:
 
 ## 专属BGM
 
-* [猪猪](https://music.163.com/#/song?id=1994572467) by [鱼子酱](https://www.douyu.com/5508997)
-* [我是真的爱上你](https://music.163.com/#/song?id=492151019) · [音乐区主播翻唱](https://music.163.com/song?id=1877540723)
-* [星屑ビーナス](https://music.163.com/#/song?id=476081899)
-* [明日晴れるかな](https://music.163.com/#/song?id=26144177)
-* [爱情大魔咒](https://music.163.com/#/song?id=327687)
-* [鹏将行](https://yuba.douyu.com/p/593050641622217731) - 改编自[《盗将行》](https://music.163.com/#/song?id=574566207)，本人重新填词并调音，由VOCALOID虚拟歌姬“星尘”演唱，由音乐主播慕一cc[[直播翻唱]](https://v.douyu.com/show/wLjGvLZPeexMmO90)
+* [《我是真的爱上你》](https://music.163.com/song?id=1877540723) - 翻唱 by 主播
+* [《猪猪》](https://music.163.com/#/song?id=1994572467) - 作词/作曲/演唱 by 音乐区主播 鱼子酱
+* [《鹏将行》](https://yuba.douyu.com/p/593050641622217731) - 填词改编自[《盗将行》](https://music.163.com/#/song?id=574566207) by 本站站长，[[直播翻唱]](https://v.douyu.com/show/wLjGvLZPeexMmO90) by 音乐区主播 慕一cc
 
 ## 防冲声明
 
