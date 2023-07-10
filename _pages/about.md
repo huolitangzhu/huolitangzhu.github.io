@@ -12,7 +12,7 @@ redirect_from:
 
 ## 近期动态 [[主播日历](https://huolitangzhu.github.io/calendar/)]
 
-* 主播将于10日前往成都进行酒店TV
+* 主播在成都进行酒店TV，【预期】女嘉宾[[个人混剪](https://yuba.douyu.com/p/638195331688800997)] by 麻人传媒映画
 * 本站已出现在Google搜索“火力堂主”显示结果[[第一页](/images/about/Google2.png)]，以及bing搜索首页
 
 ## 水友整活
