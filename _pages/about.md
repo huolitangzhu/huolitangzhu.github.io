@@ -12,7 +12,7 @@ redirect_from:
 
 ## 近期动态 [[主播日历](https://huolitangzhu.github.io/calendar/)]
 
-* 成都酒店TV，节目嘉宾小隐QAQ[[个人混剪](https://yuba.douyu.com/p/638195331688800997)] by 麻人传媒映画
+* 即将前往广州酒店TV
 * 本站已出现在Google及Bing搜索“火力堂主”显示结果**第一页**
 
 ## 水友整活
