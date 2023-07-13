@@ -47,7 +47,8 @@ author_profile: true
 ### <span id="head202307"> 7月</span>
 
 * [深圳] 【预期】参加电玩节
-* [成都] 和[小隐qaq(https://www.douyu.com/10049230)]户外父女尬聊
+* [广州] TBA
+* [成都] 和小隐qaq户外
 
 ### <span id="head202306"> 6月</span>
 
