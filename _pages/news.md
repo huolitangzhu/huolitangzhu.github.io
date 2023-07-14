@@ -46,7 +46,7 @@ author_profile: true
 
 ### <span id="head202307"> 7月</span>
 
-* [深圳] 【预期】参加电玩节
+* [深圳] 户外之电玩节
 * [广州] TBA
 * [成都] 和小隐qaq户外
 
