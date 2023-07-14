@@ -12,8 +12,8 @@ redirect_from:
 
 ## 近期动态 [[主播日历](https://huolitangzhu.github.io/calendar/)]
 
-* 即将前往广州酒店TV
-* 本站已出现在Google及Bing搜索“火力堂主”显示结果**第一页**
+* 广州酒店TV
+* 本月20-23日参与直播“深圳国际电玩节”
 
 ## 水友整活
 
