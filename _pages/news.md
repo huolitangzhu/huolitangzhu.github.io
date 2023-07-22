@@ -46,8 +46,7 @@ author_profile: true
 
 ### <span id="head202307"> 7月</span>
 
-* [深圳] 户外之电玩节
-* [广州] TBA
+* [深圳] 电玩节之[[天蓬驾到](https://yuba.douyu.com/p/467432161689866568)]
 * [成都] 和小隐qaq户外
 
 ### <span id="head202306"> 6月</span>
