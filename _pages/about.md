@@ -12,7 +12,7 @@ redirect_from:
 
 ## 近期动态 [[主播日历](https://huolitangzhu.github.io/calendar/)]
 
-* 主播将回到他忠实的偃师
+* 主播将回到他忠实的偃师 [[海报](https://img.douyucdn.cn/data/yuba/default/2023/07/23/202307232327446458429805028.jpg)]
 
 ## 水友整活
 
