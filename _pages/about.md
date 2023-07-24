@@ -12,7 +12,7 @@ redirect_from:
 
 ## 近期动态 [[主播日历](https://huolitangzhu.github.io/calendar/)]
 
-* 20-23日参与直播“深圳国际电玩节”
+* 主播将回到他忠实的偃师
 
 ## 水友整活
 
