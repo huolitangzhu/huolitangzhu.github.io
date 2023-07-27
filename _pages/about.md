@@ -12,10 +12,11 @@ redirect_from:
 
 ## 近期动态 [[主播日历](https://huolitangzhu.github.io/calendar/)]
 
-* 主播将回到他忠实的偃师 [[海报](https://img.douyucdn.cn/data/yuba/default/2023/07/23/202307232327446458429805028.jpg)]
+* 偃师暑假ing
 
 ## 水友整活
 
+* 官方活动和女嘉宾互动剪辑 [[鱼吧](https://yuba.douyu.com/p/954598911690383064)]
 * 更多整活，请见[鱼吧](https://yuba.douyu.com/group/3022) 
 * 来自世界各地的[**明信片**](https://huolitangzhu.github.io/postcards/)（均送达主播） by 小站站长
 
