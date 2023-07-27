@@ -46,7 +46,7 @@ author_profile: true
 
 ### <span id="head202307"> 7月</span>
 
-* [深圳] 电玩节之天蓬驾到 [[官方视角](https://yuba.douyu.com/p/467432161689866568)]
+* [深圳] 电玩节之天蓬驾到 [[官方视角](https://yuba.douyu.com/p/467432161689866568)] [[嘉宾互动](https://yuba.douyu.com/p/954598911690383064)]
 
 ### <span id="head202306"> 6月</span>
 
