@@ -44,6 +44,10 @@ author_profile: true
 		
 ## <span id="head2023"> 2023年 之“课题分离” </span>
 
+### <span id="head202308"> 8月</span>
+
+* [重庆] 参加斗鱼户外《人生赢家》官方活动 [[鱼吧](https://yuba.douyu.com/p/226649511691777618)]
+
 ### <span id="head202307"> 7月</span>
 
 * [深圳] 电玩节之天蓬驾到 [[官方视角](https://yuba.douyu.com/p/467432161689866568)] [[嘉宾互动](https://yuba.douyu.com/p/954598911690383064)]
