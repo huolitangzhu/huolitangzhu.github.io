@@ -12,6 +12,7 @@ redirect_from:
 
 ## 近期动态 [[主播日历](https://huolitangzhu.github.io/calendar/)]
 
+* 8月18-20日在长沙参加户外活动“奶团再出发” [[鱼吧](https://yuba.douyu.com/p/127517921692007205)]
 * 8月15-17日在重庆参加户外活动“人生赢家” [[鱼吧](https://yuba.douyu.com/p/226649511691777618)]
 
 ## 水友整活
