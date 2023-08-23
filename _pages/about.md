@@ -13,7 +13,6 @@ redirect_from:
 ## 近期动态 [[主播日历](https://huolitangzhu.github.io/calendar/)]
 
 * 8月20日本站站长携带主播表情包观看2023年悠悠球世界赛 [[现场展板](/images/news/2023WYYC.PNG)]
-* 8月18-20日在长沙参加户外活动“奶团再出发” [[鱼吧](https://yuba.douyu.com/p/127517921692007205)]
 
 ## 水友整活
 
