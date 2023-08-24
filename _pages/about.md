@@ -12,7 +12,8 @@ redirect_from:
 
 ## 近期动态 [[主播日历](https://huolitangzhu.github.io/calendar/)]
 
-* 8月20日本站站长携带主播表情包观看2023年悠悠球世界赛 [[现场展板](/images/news/2023WYYC.PNG)]
+* 8月25-29日在贵州参加斗鱼户外活动《野王的加冕4》
+* 8月20日本站站长携带主播表情包观看2023年大阪悠悠球世界赛 [[现场合影](/images/news/2023WYYC.PNG)]
 
 ## 水友整活
 
@@ -33,6 +34,11 @@ redirect_from:
 * [《我是真的爱上你》](https://music.163.com/song?id=1877540723) - 翻唱 by 主播
 * [《猪猪》](https://music.163.com/#/song?id=1994572467) - 作词/作曲/演唱 by 音乐区主播 鱼子酱
 * [《鹏将行》](https://yuba.douyu.com/p/593050641622217731) - 填词改编自[《盗将行》](https://music.163.com/#/song?id=574566207) by 本站站长，[[直播翻唱]](https://v.douyu.com/show/wLjGvLZPeexMmO90) by 音乐区主播 慕一cc
+
+## 站长活动
+
+* 携带主播表情包观看2023年大阪悠悠球世界赛 [[现场合影](/images/news/2023WYYC.PNG)]
+* 从世界各地获得的祝福[**明信片**](https://huolitangzhu.github.io/postcards/)，均送达主播
 
 ## 防冲声明
 
