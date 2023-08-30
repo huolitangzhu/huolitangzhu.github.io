@@ -17,7 +17,6 @@ redirect_from:
 
 ## 水友整活
 
-* 官方活动和女嘉宾互动剪辑 [[鱼吧](https://yuba.douyu.com/p/954598911690383064)]
 * 更多整活，请见[鱼吧](https://yuba.douyu.com/group/3022) 
 * 来自世界各地的[**明信片**](https://huolitangzhu.github.io/postcards/)（均送达主播） by 小站站长
 
