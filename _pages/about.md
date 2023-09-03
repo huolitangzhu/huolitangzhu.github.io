@@ -12,11 +12,11 @@ redirect_from:
 
 ## 近期动态 [[主播日历](https://huolitangzhu.github.io/calendar/)]
 
-* 8月25-29日在贵州参加斗鱼户外活动《野王的加冕4》
-* 8月20日本站站长携带主播表情包观看2023年大阪悠悠球世界赛 [[现场合影](/images/news/2023WYYC.PNG)]
+* 偃师相亲中
 
 ## 水友整活
 
+* 8月20日本站站长携带主播表情包观看2023年大阪悠悠球世界赛 [[现场合影](/images/news/2023WYYC.PNG)]
 * 更多整活，请见[鱼吧](https://yuba.douyu.com/group/3022) 
 * 来自世界各地的[**明信片**](https://huolitangzhu.github.io/postcards/)（均送达主播） by 小站站长
 
