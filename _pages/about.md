@@ -12,7 +12,7 @@ redirect_from:
 
 ## 近期动态 [[主播日历](https://huolitangzhu.github.io/calendar/)]
 
-* 偃师相亲中
+* 9月9日南昌解禁！大活绝赞生放送！
 
 ## 水友整活
 
