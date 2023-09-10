@@ -44,6 +44,10 @@ author_profile: true
 		
 ## <span id="head2023"> 2023年 之“课题分离” </span>
 
+### <span id="head202309"> 9月</span>
+
+* [南昌] 禁地重游
+
 ### <span id="head202308"> 8月</span>
 
 * [贵州] 参加斗鱼户外《野王的加冕4》官方活动
