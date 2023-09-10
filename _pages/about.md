@@ -12,7 +12,7 @@ redirect_from:
 
 ## 近期动态 [[主播日历](https://huolitangzhu.github.io/calendar/)]
 
-* 9月9日南昌解禁！大活绝赞生放送！
+* 9月9日南昌解禁！年度大活绝赞生放送！[[非官方海报](https://img.douyucdn.cn/data/yuba/default/2023/09/09/202309091048568158375562003.jpg)] 
 * 更多消息讨论请见[[鱼吧]](https://yuba.douyu.com/group/3022) 
 
 ## 主播属性
