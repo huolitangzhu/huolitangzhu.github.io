@@ -16,7 +16,7 @@ author_profile: true
 
 ### 花永神系列 by 花邪v
 
-| [火力择偶指南](https://yuba.douyu.com/p/821955871689343739) with 小隐qaq | [好妹妹图鉴番外之黑白舞曲](https://yuba.douyu.com/p/686584971648279467) with 多人运动 | [好妹妹图鉴3](https://yuba.douyu.com/p/983309451641741015) with 多人运动 | [又见花开](https://yuba.douyu.com/p/956460141632301722) with 孙姐 | [赵美琴](https://www.bilibili.com/video/bv13w411d7CY) with 张姐 | [六周年-逆流时光](https://www.bilibili.com/video/BV16Q4y1d7Va) with 每个人 | 
+| [火力择偶指南](https://yuba.douyu.com/p/821955871689343739) with 小隐QAQ | [好妹妹图鉴番外之黑白舞曲](https://yuba.douyu.com/p/686584971648279467) with 多人运动 | [好妹妹图鉴3](https://yuba.douyu.com/p/983309451641741015) with 多人运动 | [又见花开](https://yuba.douyu.com/p/956460141632301722) with 孙姐 | [赵美琴](https://www.bilibili.com/video/bv13w411d7CY) with 张姐 | [六周年-逆流时光](https://www.bilibili.com/video/BV16Q4y1d7Va) with 每个人 | 
 | [小卑微](https://yuba.douyu.com/p/320430661616861100) with XX | [好妹妹图鉴2](https://yuba.douyu.com/p/946137141610386419) with 多人运动 | [好妹妹图鉴1](https://yuba.douyu.com/p/198854931586759899) with 多人运动 | [话剧《梦》](https://www.bilibili.com/video/BV1Eh411R7sd) with 张姐 | [巨变](https://www.bilibili.com/video/BV1Lt4y1D734) with 每个人 | 
 | [你的妹妹小董](https://www.bilibili.com/video/BV1nZ4y1H7tV) with 小董 | 
 
@@ -37,8 +37,8 @@ author_profile: true
 
 | **官方活动** | 2019年[央视《黄金一百秒》](http://tv.cctv.com/2019/12/19/VIDE2wUNYhDLDzT73hqwSLGN191219.shtml) | 2015年火力少年王电视争霸赛 [腾讯视频完整版](https://v.qq.com/detail/w/wxe7z4egf3v24t9.html) · [总决赛央视版](http://tv.cctv.com/2015/06/18/VIDE1434623763859661.shtml) 
 | 2016年奥飞官方[优酷频道](http://i.youku.com/i/UMTY0NjcyNTI3Mg==/videos?q=%E5%A0%82%E4%B8%BB) | 2010年[火力总动员表演](https://yuba.douyu.com/p/627815321546306635)
-| **直播视频** | 2022年CYML山西赛[第一天](https://v.douyu.com/show/4xq3WDQPJZbvLGNz) · [第二天](https://v.douyu.com/show/wLjGvLZ10nEMmO90) | 2020年[布达拉宫](https://yuba.douyu.com/p/107953551566399070) | 2017年CYCC [[第一天]](https://v.youku.com/v_show/id_XMjg5MTQ3NDAyMA==.html) · [[第二天]](https://v.youku.com/v_show/id_XMjg5NDEyMzU2NA==.html) · [[第三天1]](https://v.youku.com/v_show/id_XMjg5NTQ2MTI5Mg==.html) · [[第三天2]](https://v.youku.com/v_show/id_XMjg5NjMxNzcyNA==.html?) · [北京玩家聚会](https://v.youku.com/v_show/id_XMjUxODkyMjkyOA==.html) 
-| 2016年[悠悠球教学](https://v.youku.com/v_show/id_XMTQ1NzM3NTM4NA==.html) | 2015年悠悠球讲堂 [[古代篇]](http://v.youku.com/v_show/id_XMTMxNDE4NTY1Ng==.html) · [[近代篇1]](http://v.youku.com/v_show/id_XMTMxNDE4OTY1Mg==.html)· [[近代篇2]](http://v.youku.com/v_show/id_XMTMxNDE4OTc5Ng==.html)· [[近代篇3]](http://v.youku.com/v_show/id_XMTMxNDE5MDI1Mg==.html) 
+| **直播视频** | 2022年CYML山西赛 [[第一天]](https://v.douyu.com/show/4xq3WDQPJZbvLGNz) · [[第二天]](https://v.douyu.com/show/wLjGvLZ10nEMmO90) | 2020年[布达拉宫](https://yuba.douyu.com/p/107953551566399070) | 2017年CYCC [[第一天]](https://v.youku.com/v_show/id_XMjg5MTQ3NDAyMA==.html) · [[第二天]](https://v.youku.com/v_show/id_XMjg5NDEyMzU2NA==.html) · [[第三天1]](https://v.youku.com/v_show/id_XMjg5NTQ2MTI5Mg==.html) · [[第三天2]](https://v.youku.com/v_show/id_XMjg5NjMxNzcyNA==.html?) · [北京玩家聚会](https://v.youku.com/v_show/id_XMjUxODkyMjkyOA==.html) 
+| 2016年[悠悠球教学](https://v.youku.com/v_show/id_XMTQ1NzM3NTM4NA==.html) | 2015年悠悠球讲堂 [[古代篇]](http://v.youku.com/v_show/id_XMTMxNDE4NTY1Ng==.html) · [[近代篇1]](http://v.youku.com/v_show/id_XMTMxNDE4OTY1Mg==.html) · [[近代篇2]](http://v.youku.com/v_show/id_XMTMxNDE4OTc5Ng==.html) · [[近代篇3]](http://v.youku.com/v_show/id_XMTMxNDE5MDI1Mg==.html) 
 | **日常玩耍** | 2014年[玩剑玉](https://v.youku.com/v_show/id_XNzE0NzY5NTEy.html) · [玩悠悠球](https://v.youku.com/v_show/id_XODEzNjk3NzMy.html) · [悠悠球聚会](https://v.youku.com/v_show/id_XODI3NzQ1NDky.html) | 2013年[练习手指滑板](https://v.youku.com/v_show/id_XNTY3NDk4OTU2.html) 
 | 2012年[悠悠球甩铁塔](https://v.youku.com/v_show/id_XNDAxODYzMDA4.html) · [巴啦啦小魔仙舞蹈](https://v.youku.com/v_show/id_XNDA3ODA5MjY4.html) · [中国好悠悠RAP](https://v.youku.com/v_show/id_XNDY3NTc0MTMy.html) | 2011年[CYCC现场RAP](https://v.youku.com/v_show/id_XNDAxNjgxMjAw.html)
 
