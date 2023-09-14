@@ -46,7 +46,7 @@ author_profile: true
 
 ### <span id="head202309"> 9月</span>
 
-* [长沙] TBA
+* [郴州] TBA
 * [南昌] 禁地重游指无憾2.0 [[非官方海报](https://img.douyucdn.cn/data/yuba/default/2023/09/09/202309091048568158375562003.jpg)]
 
 ### <span id="head202308"> 8月</span>
