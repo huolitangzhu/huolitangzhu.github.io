@@ -46,7 +46,8 @@ author_profile: true
 
 ### <span id="head202309"> 9月</span>
 
-* [南昌] 禁地重游
+* [长沙] TBA
+* [南昌] 禁地重游指无憾2.0
 
 ### <span id="head202308"> 8月</span>
 
