@@ -12,7 +12,7 @@ redirect_from:
 
 ## 近期动态 [[主播日历](https://huolitangzhu.github.io/calendar/)]
 
-* 9月9日南昌解禁！年度大活绝赞生放送！[[非官方海报](https://img.douyucdn.cn/data/yuba/default/2023/09/09/202309091048568158375562003.jpg)]
+* 去郴州准备参加朋友婚礼
 * 现在YouTube网站[[有人](/images/about/fake.png)]以主播ID上传视频，经站长与主播确认并不是主播本人账号，请大家注意甄别 
 * 更多消息讨论请见[[鱼吧]](https://yuba.douyu.com/group/3022) 
 
