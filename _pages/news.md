@@ -46,7 +46,8 @@ author_profile: true
 
 ### <span id="head202309"> 9月</span>
 
-* [郴州] TBA
+* [长沙] 参加斗鱼节目
+* [永州] 参加老鹏友婚礼
 * [南昌] 禁地重游指无憾2.0 [[非官方海报](https://img.douyucdn.cn/data/yuba/default/2023/09/09/202309091048568158375562003.jpg)]
 
 ### <span id="head202308"> 8月</span>
