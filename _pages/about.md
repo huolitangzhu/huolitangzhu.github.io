@@ -12,7 +12,7 @@ redirect_from:
 
 ## 近期动态 [[主播日历](https://huolitangzhu.github.io/calendar/)]
 
-* 预期去长沙参加斗鱼活动
+* 长沙参加斗鱼《真心换真心》户外活动
 * 现在YouTube网站[[有人](/images/about/fake.png)]以主播ID上传视频，经站长与主播确认并不是主播本人账号，请大家注意甄别 
 * 更多消息讨论请见[[鱼吧]](https://yuba.douyu.com/group/3022) 
 
