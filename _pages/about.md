@@ -12,6 +12,8 @@ redirect_from:
 
 ## 近期动态 [[主播日历](https://huolitangzhu.github.io/calendar/)]
 
+* 开通直播间钻粉可在主播生日当天抽奖手机
+
 <script>(function(d, s, id) { var js, pjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//www.tickcounter.com/static/js/loader.js"; pjs.parentNode.insertBefore(js, pjs); }(document, "script", "tickcounter-sdk"));</script><a data-type="countdown" data-id="4476549" class="tickcounter" style="display:block; left:0; width:100%; height:0; position:relative; padding-bottom:20%; margin:0 auto;" title="距主播生日还有" href="//www.tickcounter.com/">距主播生日还有</a>
 
 * 长沙参加斗鱼《真心换真心》户外活动
