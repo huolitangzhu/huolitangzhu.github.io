@@ -46,7 +46,7 @@ author_profile: true
 
 ### <span id="head202310"> 10月</span>
 
-* [偃师] 唐6老师光临偃师直播互动
+* [偃师] 唐6老师光临偃师直播互动 [[非官方海报](https://img.douyucdn.cn/data/yuba/default/2023/10/05/202310050001078828561069617.jpg)]
 
 ### <span id="head202309"> 9月</span>
 
