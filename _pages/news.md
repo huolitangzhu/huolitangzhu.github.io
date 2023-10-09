@@ -40,13 +40,13 @@ author_profile: true
 	- [ 2006年 ](#head2006)
 		| 参加《快乐大本营》
 	- [ 1901年 ](#head1901)
-		| 慈禧西狩归京留宿洛阳赵家
+		| 慈禧西狩归京路过洛阳赵家
 		
 ## <span id="head2023"> 2023年 之“课题分离” </span>
 
 ### <span id="head202310"> 10月</span>
 
-* [偃师] 唐6老师光临偃师直播互动 [[非官方海报](https://img.douyucdn.cn/data/yuba/default/2023/10/05/202310050001078828561069617.jpg)]
+* [偃师] 唐6老师来偃师直播互动 [[鱼吧海报](https://img.douyucdn.cn/data/yuba/default/2023/10/05/202310050001078828561069617.jpg)]
 
 ### <span id="head202309"> 9月</span>
 
