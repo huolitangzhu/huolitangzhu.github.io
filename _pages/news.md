@@ -162,7 +162,7 @@ author_profile: true
 ### <span id="head202112"> 12月</span>
 
 * [洛阳] 和骚骚户外（室内）之华府重聚
-* [吉林] 参加斗鱼户外活动《长白山一家人》 [[我们（和董姐）是冠军]](https://pic.imgdb.cn/item/61c12dc52ab3f51d9155533a.png)
+* [吉林] 参加斗鱼户外活动《长白山一家人》 
 
 ### <span id="head202111"> 11月</span>
 
@@ -316,7 +316,7 @@ author_profile: true
 
 ### <span id="head201506"> 6月</span>
 
-* [北京] 主持[火力少年王电视争霸赛](https://huolitangzhu.github.io/videos/)央视播出 [[幕后照]](https://pic.imgdb.cn/item/626fd114239250f7c582f647.jpg)，教欧豪玩球[[图片]](https://pic.imgdb.cn/item/626fd08a239250f7c5819ce7.jpg)
+* [北京] 主持[火力少年王电视争霸赛](https://huolitangzhu.github.io/videos/)央视播出 [[幕后照]](/images/news/争霸赛幕后.jpg)，教欧豪玩球[[图片]](/images/news/欧豪.jpg)
 
 ### <span id="head201502"> 2月</span>
 
