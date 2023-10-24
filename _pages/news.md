@@ -46,6 +46,7 @@ author_profile: true
 
 ### <span id="head202310"> 10月</span>
 
+* [深圳] 参加斗鱼《电波斗阵大会S2》官方活动
 * [洛阳] 唐6老师来洛阳直播互动 [[鱼吧海报](https://img.douyucdn.cn/data/yuba/default/2023/10/05/202310050001078828561069617.jpg)]
 
 ### <span id="head202309"> 9月</span>
