@@ -12,6 +12,7 @@ redirect_from:
 
 ## 近期动态 [[主播日历](https://huolitangzhu.github.io/calendar/)]
 
+* 主播10月26-29日将在深圳参加《电波斗阵大会S2》活动
 * 现在YouTube网站[[有人](/images/about/fake.png)]以主播ID上传视频，经站长与主播确认并不是主播本人账号，请大家注意甄别 
 * 更多消息讨论请见[[鱼吧]](https://yuba.douyu.com/group/3022) 
 
