@@ -12,8 +12,7 @@ redirect_from:
 
 ## 近期动态 [[主播日历](https://huolitangzhu.github.io/calendar/)]
 
-* 主播10月30日流泪时事件讨论帖 [[链接（仅限今日）](https://github.com/huolitangzhu/huolitangzhu.github.io/discussions/2)]
-* 现在YouTube网站[[有人](/images/about/fake.png)]以主播ID上传视频，经站长与主播确认并不是主播本人账号，请大家注意甄别 
+* 主播将去西安参加活动
 * 更多消息讨论请见[[鱼吧]](https://yuba.douyu.com/group/3022) 
 
 ## 主播属性
@@ -38,6 +37,7 @@ redirect_from:
 ## 防冲声明
 
 * 本站是为了斗鱼主播火力堂主粉丝而成立的，**不代表任何主播本人观点**
+* 现在YouTube网站[[有人](/images/about/fake.png)]以主播ID上传视频，经站长与主播确认并**不是主播本人**账号，请大家注意甄别 
 * 本站内容均为网络公开发表的内容，**本站不会就其内容的准确性、有效性、或完整性作出任何保证**
 
 ## 访客统计
