@@ -8,7 +8,7 @@ author_profile: true
 
 ### 名人相关
 
-| [视频鼓励](https://yuba.douyu.com/p/861676091656651521) by 台球皇帝[亨得利(https://baike.baidu.com/item/%E6%96%AF%E8%92%82%E8%8A%AC%C2%B7%E4%BA%A8%E5%BE%97%E5%88%A9)] |
+| [视频鼓励](https://yuba.douyu.com/p/861676091656651521) by 台球皇帝[亨得利](https://baike.baidu.com/item/%E6%96%AF%E8%92%82%E8%8A%AC%C2%B7%E4%BA%A8%E5%BE%97%E5%88%A9) |
 
 ### 直播时代 by dreamover1010
 
