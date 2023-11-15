@@ -46,6 +46,7 @@ author_profile: true
 
 ### <span id="head202311"> 11月</span>
 
+* [武汉] 参加斗鱼《》官方活动
 * [西安] 参加斗鱼《永劫风云》官方活动
 
 ### <span id="head202310"> 10月</span>
