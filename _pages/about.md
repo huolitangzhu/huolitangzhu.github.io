@@ -12,7 +12,7 @@ redirect_from:
 
 ## 近期动态 [[主播日历](https://huolitangzhu.github.io/calendar/)]
 
-* 主播即将去武汉参加活动
+* 主播在武汉参加《S13全球总决赛斗鱼线下观赛》活动
 <!--* 寒假即将开始，台球、游戏粉狂欢-->
 * 更多消息讨论请见[[鱼吧]](https://yuba.douyu.com/group/3022) 
 
