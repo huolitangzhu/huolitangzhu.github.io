@@ -13,6 +13,7 @@ redirect_from:
 ## 近期动态 [[主播日历](https://huolitangzhu.github.io/calendar/)]
 
 * 主播在三亚参与户外节目
+* 失效视频链接更新工作计划中，主要是没想到主播还有手机放视频的事情
 * 更多消息讨论请见[[鱼吧]](https://yuba.douyu.com/group/3022) 
 
 ## 主播属性
