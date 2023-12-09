@@ -53,18 +53,18 @@ author_profile: true
       - 诺伊施塔特 [[图片]](/images/postcards/Germany19.jpg)和邮票均为一种植物
       - 美因茨 [[图片]](/images/postcards/Germany8.jpg)为一大片植物
     - 汉堡 [[图片]](/images/postcards/Germany18.jpg)为汉堡港
-    - 石勒苏益格-荷尔斯泰因州 基尔 [[图片]](/images/postcards/Germany17.jpg)为[朗格奥格水塔](https://de.wikipedia.org/wiki/Wasserturm_Langeoog)前的沙丘玫瑰，邮票为[Postcrossing主题特殊邮票](https://www.postcrossing.com/blog/tag/postcrossing-stamp)
-    - 萨尔州 萨尔布吕肯 [[图片]](/images/postcards/Germany16.jpg)为当地街景
+    - 石勒苏益格-荷尔斯泰因州 基尔 [[图片]](/images/postcards/Germany17.jpg)
+    - 萨尔州 萨尔布吕肯 [[图片]](/images/postcards/Germany16.jpg)
     - 北莱茵-威斯特法伦州
       - 杜伊斯堡 [[图片]](/images/postcards/Germany15.jpg)
       - 多特蒙德（德语）[[图片1]](/images/postcards/Germany13.jpg)为主播喜欢的飞机（汉莎城际航空）；[[图片2]](/images/postcards/Germany6.jpg)
-      - 埃森 [[图片]](/images/postcards/Germany7.jpg为一种动物
+      - 埃森 [[图片]](/images/postcards/Germany7.jpg)为一种动物
       - 诺图尔恩（德语）[[图片]](/images/postcards/Germany5.jpg)为当地圣马丁教堂
-    - 巴登-符腾堡州 曼海姆（德语）[[图片]](/images/postcards/Germany14.jpg)为一种动物，邮票为植物和史努比漫画特殊邮票
+    - 巴登-符腾堡州 曼海姆（德语）[[图片]](/images/postcards/Germany14.jpg)为一种动物
     - 石勒苏益格－荷尔斯泰因州 埃肯弗德（德语）[[图片]](/images/postcards/Germany12.jpg)为一种植物
     - 下萨克森州
       - 奥尔登堡 [[图片]](/images/postcards/Germany11.jpg)为德国女物理学家[莉泽·迈特纳](https://baike.sogou.com/m/fullLemma?lid=4894151)
-      - 东弗里西亚（德语） [图片]](/images/postcards/Germany4.jpg)为德国画家[奥古斯特·马克](https://baike.baidu.com/item/%E5%A5%A5%E5%8F%A4%E6%96%AF%E7%89%B9%C2%B7%E9%A9%AC%E5%85%8B/382206)画作《在公园里散步（Spaziergang im Park）》
+      - 东弗里西亚（德语）[[图片]](/images/postcards/Germany4.jpg)为德国画家[奥古斯特·马克](https://baike.baidu.com/item/%E5%A5%A5%E5%8F%A4%E6%96%AF%E7%89%B9%C2%B7%E9%A9%AC%E5%85%8B/382206)画作《在公园里散步（Spaziergang im Park）》
     - 巴伐利亚州
       - 英戈尔施塔特（德语) [[图片]](/images/postcards/Germany10.jpg)
       - 库尔姆巴赫 [[图片]](/images/postcards/Germany3.jpg)为勃兰登堡门
@@ -104,7 +104,7 @@ author_profile: true
     - 俄亥俄州
       - 代顿 [[图片]](/images/postcards/USA23.jpg)
       - 伊利里亚 [[图片]](/images/postcards/USA18.jpg)
-    - 宾夕法尼亚州 阿尔图纳 [图片]](/images/postcards/USA22.jpg)为[Point State Park](https://www.dcnr.pa.gov/StateParks/FindAPark/PointStatePark/Pages/default.aspx)，邮票为美丽密西西比特别邮票
+    - 宾夕法尼亚州 阿尔图纳 [[图片]](/images/postcards/USA22.jpg)
     - 路易斯安那州
       - 雷斯兰 [[图片]](/images/postcards/USA21.jpg)
       - 新奥尔良 [[图片1]](/images/postcards/USA3.jpg)；[[图片2]](/images/postcards/USA.jpg)为喜剧大师卓别林
