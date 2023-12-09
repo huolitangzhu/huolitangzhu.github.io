@@ -16,14 +16,17 @@ author_profile: true
 
 ### 花永神系列 by 花邪v
 
-| [火力择偶指南](https://yuba.douyu.com/p/821955871689343739) with 小隐QAQ | [好妹妹图鉴番外之黑白舞曲](https://yuba.douyu.com/p/686584971648279467) with 多人运动 | [好妹妹图鉴3](https://yuba.douyu.com/p/983309451641741015) with 多人运动 | [又见花开](https://yuba.douyu.com/p/956460141632301722) with 孙姐 | [赵美琴](https://www.bilibili.com/video/bv13w411d7CY) with 张姐 | [六周年-逆流时光](https://www.bilibili.com/video/BV16Q4y1d7Va) with 每个人 | 
-| [小卑微](https://yuba.douyu.com/p/320430661616861100) with XX | [好妹妹图鉴2](https://yuba.douyu.com/p/946137141610386419) with 多人运动 | [好妹妹图鉴1](https://yuba.douyu.com/p/198854931586759899) with 多人运动 | [话剧《梦》](https://www.bilibili.com/video/BV1Eh411R7sd) with 张姐 | [巨变](https://www.bilibili.com/video/BV1Lt4y1D734) with 每个人 | 
-| [你的妹妹小董](https://www.bilibili.com/video/BV1nZ4y1H7tV) with 小董 | 
+| [好妹妹图鉴3](https://v.douyu.com/show/JmbBMkbnj4Q740XA) with 多人运动 | [赵美琴](https://www.bilibili.com/video/bv13w411d7CY) with 张姐 | 
+ [好妹妹图鉴2](https://yuba.douyu.com/p/946137141610386419) with 多人运动 | [好妹妹图鉴1](https://yuba.douyu.com/p/198854931586759899) with 多人运动 | [巨变](https://www.bilibili.com/video/BV1Lt4y1D734) with 每个人 | 
 
 ### 女嘉宾经典
 
 | 张曼希 | [你是我穷极一生到不了的天堂](https://yuba.douyu.com/p/392852661591064413) 
 | 舒舒 | [爱的飞行日记](https://yuba.douyu.com/p/765192541611244940) |
+
+### 火力公寓系列
+
+| [1](https://www.bilibili.com/video/BV1nL4y157SS) | [2](https://www.bilibili.com/video/BV1NY411E7NL) | [3](https://www.bilibili.com/video/BV1w34y1i7h9) | [4](https://www.bilibili.com/video/BV1Zr4y1s7qG) ｜
 
 ### 火力堂主和他的小伙伴们系列 by longer229
 
