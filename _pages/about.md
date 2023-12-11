@@ -13,6 +13,7 @@ redirect_from:
 ## 近期动态 [[主播日历](https://huolitangzhu.github.io/calendar/)]
 
 * 主播在三亚参与户外节目《我被美女包围了》
+* 主播将去重庆酒店TV
 * 更多消息讨论请见[[鱼吧]](https://yuba.douyu.com/group/3022) 
 
 ## 主播属性
