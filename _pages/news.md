@@ -46,7 +46,7 @@ author_profile: true
 
 ### <span id="head202312"> 12月</span>
 
-* [重庆] TBA
+* [重庆] 酒店TV
 * [三亚] 参加《我被美女包围了》户外活动 [[鱼吧海报](https://yuba.douyu.com/p/171702051701976989)]
 
 ### <span id="head202311"> 11月</span>
