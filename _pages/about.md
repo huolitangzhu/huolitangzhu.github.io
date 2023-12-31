@@ -12,6 +12,7 @@ redirect_from:
 
 ## 近期动态 [[主播日历](https://huolitangzhu.github.io/calendar/)]
 
+* 本站祝主播和观众新年快乐
 * 主播在757基地参与团播中
 * 更多消息讨论请见[[鱼吧]](https://yuba.douyu.com/group/3022) 
 
@@ -40,6 +41,6 @@ redirect_from:
 * 现在YouTube网站[[有人](/images/about/fake.png)]以主播ID上传视频，经站长与主播确认并**不是主播本人**账号，请大家注意甄别 
 * 本站内容均为网络公开发表的内容，**本站不会就其内容的准确性、有效性、或完整性作出任何保证**
 
-## 访客统计
+## 访客统计 [[年度报告](https://huolitangzhu.github.io/annual_report/)]
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=8wI_4ryryfVbB3hHqobTSlDt2VmKs_d-EwWvGFA3BN0&cl=ffffff&w=a"></script>
