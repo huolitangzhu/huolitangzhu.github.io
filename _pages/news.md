@@ -48,6 +48,7 @@ author_profile: true
 
 ### <span id="head202401"> 1月</span>
 
+* [偃师] 寒假时间
 * [重庆] 参加757基地团播
 		
 ## <span id="head2023"> 2023年 之“课题分离” </span>
