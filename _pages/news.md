@@ -48,7 +48,7 @@ author_profile: true
 
 ### <span id="head202403"> 3月</span>
 
-* TBA
+* [武汉] 参加斗鱼《浴室歌姬》户外活动
 
 ### <span id="head202402"> 2月</span>
 
