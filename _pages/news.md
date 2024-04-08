@@ -48,7 +48,7 @@ author_profile: true
 
 ### <span id="head202404"> 4月</span>
 
-* TBA
+* [青岛] 参加斗鱼官方线下CF活动
 
 ### <span id="head202403"> 3月</span>
 
