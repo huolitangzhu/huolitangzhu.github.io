@@ -13,7 +13,7 @@ redirect_from:
 ## 近期动态 [[主播日历](https://huolitangzhu.github.io/calendar/)]
 
 * 主播将于19日去山东青岛参加线下CF活动
-* 本站站长近日携带主播表情包观赏故乡のSakura [[图片](/images/about/Sakura_24.png)]
+* 主播近期在Excel表中策划火力日本行活动，请大家多多为喜欢的女嘉宾投票打榜
 * 更多消息讨论请见[[鱼吧]](https://yuba.douyu.com/group/3022) 
 
 ## 主播属性
@@ -32,6 +32,7 @@ redirect_from:
 
 ## 站长活动
 
+* 携带主播表情包观赏故乡のSakura [[图片](/images/about/Sakura_24.png)]
 * 携带主播表情包观看2023年大阪悠悠球世界赛 [[现场合影](/images/news/2023WYYC.PNG)]
 * 从世界各地获得的祝福[**明信片**](https://huolitangzhu.github.io/postcards/)，均送达主播
 
