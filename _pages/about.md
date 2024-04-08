@@ -12,6 +12,7 @@ redirect_from:
 
 ## 近期动态 [[主播日历](https://huolitangzhu.github.io/calendar/)]
 
+* 主播将于19日去山东青岛参加线下CF活动
 * 本站站长近日携带主播表情包观赏故乡のSakura [[图片](/images/about/Sakura_24.png)]
 * 更多消息讨论请见[[鱼吧]](https://yuba.douyu.com/group/3022) 
 
