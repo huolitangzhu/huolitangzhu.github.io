@@ -13,7 +13,7 @@ redirect_from:
 ## 近期动态 [[主播日历](https://huolitangzhu.github.io/calendar/)]
 
 * 主播将于19日去山东青岛参加线下CF活动
-* 主播近期在Excel表中策划《火力日本行》活动，请大家积极为喜欢的女嘉宾投票打榜
+* 主播近期在Excel表中策划《火力日本行》活动[[图骗](/images/about/Japan_Travel.png)]，请大家积极为喜欢的女嘉宾投票打榜
 * 更多消息讨论请见[[鱼吧]](https://yuba.douyu.com/group/3022) 
 
 ## 主播属性
