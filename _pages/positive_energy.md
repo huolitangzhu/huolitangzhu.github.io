@@ -6,7 +6,7 @@ author_profile: true
 
 * 直播捐款
 
-  * 2022年儿童节当日流水收入[[捐款记录]](/images/donate/20220601.jpg)
+  * 2022年儿童节当日流水收入[[捐款记录]](/images/donate/Tangzhu_20220601.jpg)
 
 * 公益性直播活动
 
@@ -19,7 +19,7 @@ author_profile: true
 
 * 本站站长捐款
 
-  * 2023年UNHCR(HK)冬季支援項目 [[电子收据]](/images/donate/UNHCR23.png)
-  * WeChat Pay(HK)[日行一膳]公益项目 [[2021年](/images/donate/wechat-pay.jpg) · [2022年](/images/donate/Wechat-Pay2.png)]
-  * 2022年UNHCR(HK)烏克蘭危機 [[电子收据]](/images/donate/UNHCR22.png)
-  * 2021年unicef(HK)新型冠狀病毒緊急防疫項目 [[电子收据](/images/donate/my-record-1.png) · [正式收据](/images/donate/my-record-2.png)]
+  * 2023年UNHCR(HK)冬季支援項目 [[收据]](/images/donate/UNHCR_23.png)
+  * WeChat Pay(HK)[日行一膳]公益项目 [[10.8份膳食](/images/donate/WeChat_Pay.jpg)]
+  * 2022年UNHCR(HK)烏克蘭危機 [[收据]](/images/donate/UNHCR_22.png)
+  * 2021年unicef(HK)新型冠狀病毒緊急防疫項目 [[收据](/images/donate/UNICEF_21.png)]
