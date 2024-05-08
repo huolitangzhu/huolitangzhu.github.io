@@ -48,6 +48,7 @@ author_profile: true
 
 ### <span id="head202405"> 5月</span>
 
+* [TBA] 月底参加户外官方节目
 * [长沙] 参加鱼皇S3团播
 
 ### <span id="head202404"> 4月</span>
