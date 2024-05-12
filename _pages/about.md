@@ -12,7 +12,7 @@ redirect_from:
 
 ## 近期动态 [[主播日历](https://huolitangzhu.github.io/calendar/)]
 
-* 主播即将抵达他忠实的偃师
+* 偃师单播，启动
 * 主播在Excel表中策划《火力日本行》活动（现已推迟） [[图骗](/images/about/Japan_Travel.png) by 何苦哥]，请大家积极为喜欢的女嘉宾投票打榜
 * 更多消息讨论请见[[鱼吧]](https://yuba.douyu.com/group/3022) 
 
