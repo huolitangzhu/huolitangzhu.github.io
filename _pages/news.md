@@ -49,6 +49,7 @@ author_profile: true
 ### <span id="head202405"> 5月</span>
 
 * [昆明] 月底参加户外官方节目
+* [洛阳] 和西西一起直播《风起洛阳之西游记》 [[鱼吧](https://yuba.douyu.com/p/615879861715695102)] 
 * [长沙] 参加鱼皇S3团播
 
 ### <span id="head202404"> 4月</span>
