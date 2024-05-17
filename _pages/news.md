@@ -190,7 +190,7 @@ author_profile: true
 
 ### <span id="head202202"> 2月</span>
 
-* [洛阳] 自制节目之《风起洛阳》：和[慕一cc](https://www.douyu.com/549212)，[Lola](https://www.douyu.com/2454442)，[雪兔](https://www.douyu.com/131197)，[十七](https://www.douyu.com/792252)户外之《风起洛阳》 [[合照]](https://img.douyucdn.cn/data/yuba/weibo/2022/02/24/202202241459139271344781700.gif)
+* [洛阳] 和慕一cc，Lola，雪兔，十七户外之《风起洛阳》 [[合照]](https://img.douyucdn.cn/data/yuba/weibo/2022/02/24/202202241459139271344781700.gif)
 
 ### <span id="head202201"> 1月</span>
 
@@ -217,7 +217,7 @@ author_profile: true
 
 * [成都] 参加斗鱼户外官方活动《奔跑吧！主播》第三季 [[鱼吧]](https://yuba.douyu.com/p/592429001632380570)
 * [重庆] 参加斗鱼户外官方活动《喷发运动会2》 [[鱼吧]](https://yuba.douyu.com/p/932904501631150190)
-* [成都] 和花姐户外之初代联动 [[合照]](https://img.douyucdn.cn/data/yuba/default/2021/09/08/202109082151356368275504246.jpg)，录制首支单曲[[我是真的爱上你]](https://music.163.com/#/song?id=1877540723)（翻唱）
+* [成都] 录制首支单曲[[我是真的爱上你]](https://music.163.com/#/song?id=1877540723)（翻唱）
 * [洛阳] 和孙姐户外之三代植物 [[合照]](https://img.douyucdn.cn/data/yuba/default/2021/09/04/202109041803363705351004257.jpg)
 
 ### <span id="head202108"> 8月</span>
