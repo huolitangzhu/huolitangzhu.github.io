@@ -49,8 +49,8 @@ author_profile: true
 ### <span id="head202405"> 5月</span>
 
 * [昆明] 月底参加户外官方节目
-* [洛阳] 和西西一起直播《风起洛阳之西游记》 [[鱼吧](https://yuba.douyu.com/p/615879861715695102)] 
-* [长沙] 参加鱼皇S3团播
+* [洛阳] 和西西一起直播《风起洛阳之西游记》 [[鱼吧海报](https://yuba.douyu.com/p/615879861715695102)] 
+* [长沙] 参加鱼皇S3团播 [[合照](https://yuba.douyu.com/p/208119631715484816)]
 
 ### <span id="head202404"> 4月</span>
 
@@ -59,8 +59,7 @@ author_profile: true
 ### <span id="head202403"> 3月</span>
 
 * [福州] 参加鱼皇S2团播，直播间关注数超过30万成就达成
-* [武汉] 参加斗鱼《浴室歌姬2》户外活动 [[鱼吧](https://yuba.douyu.com/p/309611361710415610)]
-* [偃师] 部分双播
+* [武汉] 参加斗鱼《浴室歌姬2》户外活动 [[鱼吧海报](https://yuba.douyu.com/p/309611361710415610)]
 
 ### <span id="head202402"> 2月</span>
 
@@ -191,11 +190,11 @@ author_profile: true
 
 ### <span id="head202202"> 2月</span>
 
-* [洛阳] 自制节目之风起洛阳：和[慕一cc](https://www.douyu.com/549212)，[Lola](https://www.douyu.com/2454442)，[雪兔](https://www.douyu.com/131197)，[十七](https://www.douyu.com/792252)户外之《风起洛阳》 [[合照]](https://img.douyucdn.cn/data/yuba/weibo/2022/02/24/202202241459139271344781700.gif)
+* [洛阳] 自制节目之《风起洛阳》：和[慕一cc](https://www.douyu.com/549212)，[Lola](https://www.douyu.com/2454442)，[雪兔](https://www.douyu.com/131197)，[十七](https://www.douyu.com/792252)户外之《风起洛阳》 [[合照]](https://img.douyucdn.cn/data/yuba/weibo/2022/02/24/202202241459139271344781700.gif)
 
 ### <span id="head202201"> 1月</span>
 
-* [洛阳] 游戏粉狂欢之LOL！
+* [洛阳] 游戏粉狂欢之LOL
 
 ## <span id="head2021"> 2021年 之“活着” </span>
 
@@ -241,7 +240,7 @@ author_profile: true
 * [洛阳] 据说是直播生涯首次大型吃苦节目：🐷徒 [[策划帖](https://yuba.douyu.com/p/586588441621772409) · [赛后贴](https://yuba.douyu.com/p/553344461622452642)]
 * [西安] 参加官方城市旅行挑战类直播综艺《三天两夜》 [[鱼吧]](https://yuba.douyu.com/p/417103891622015277)
 * [洛阳] 拆直播六周年庆水友快递礼物（已开箱大货：CELINE短袖（RMB 4300），日本产拳击手套（RMB 3000+），10年前的悠悠球（RMB 26包邮），李宁国家队版乒乓球服）
-* [成都] 和💮户外之禁地解禁
+* [成都] 和花姐户外之禁地解禁
 * [长沙] 和李冉冉户外之太医问诊
 * [杭州] 和XX，兮酱，张曼希户外之好妹妹江浙沪分妹聚会 [女嘉宾合照截屏 [1](/images/sixyear/group1.jpg) · [2](/images/sixyear/group2.jpg)] [[张姐整活]](https://yuba.douyu.com/p/273483071620147723)
 
