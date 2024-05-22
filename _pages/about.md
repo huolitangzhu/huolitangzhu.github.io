@@ -12,8 +12,7 @@ redirect_from:
 
 ## 近期动态 [[主播日历](https://huolitangzhu.github.io/calendar/)]
 
-* 和西西在洛阳直播《风起洛阳之西游记》 [[鱼吧海报](https://yuba.douyu.com/p/615879861715695102)]
-* 主播在Excel表中策划《火力日本行》活动 [[图骗](/images/about/Japan_Travel.png) by 何苦哥]，请大家积极为喜欢的女嘉宾投票打榜
+* 主播即将进行《火力日本行》活动，站长将根据去年在大阪的旅行做一个简易攻略（挖坑ing
 * 更多消息讨论请见[[鱼吧]](https://yuba.douyu.com/group/3022) 
 
 ## 主播属性
