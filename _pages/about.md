@@ -12,7 +12,7 @@ redirect_from:
 
 ## 近期动态 [[主播日历](https://huolitangzhu.github.io/calendar/)]
 
-* 主播即将进行《火力日本行》活动，站长将根据去年在大阪的旅行做一个简易攻略（挖坑ing
+* 主播预计六月将进行《火力日本行》活动，站长将根据去年在大阪的旅行做一个简易攻略（挖坑ing
 * 更多消息讨论请见[[鱼吧]](https://yuba.douyu.com/group/3022) 
 
 ## 主播属性
