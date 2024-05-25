@@ -18,3 +18,5 @@ author_profile: true
 ## 2021-2022
 
 * 见鱼吧[[帖子](https://yuba.douyu.com/p/662672311618762977)]第50楼
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=lSKr63yR99hvsfhTosFyR6wP3sq_ceu1S0rfbtntm_Q&cl=ffffff&w=a"></script>
