@@ -44,4 +44,3 @@ redirect_from:
 
 ## 访客统计 [[年度报告](https://huolitangzhu.github.io/annual_report/)]
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=8wI_4ryryfVbB3hHqobTSlDt2VmKs_d-EwWvGFA3BN0&cl=ffffff&w=a"></script>
