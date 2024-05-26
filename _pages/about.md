@@ -44,3 +44,5 @@ redirect_from:
 
 ## 访客统计 [[年度报告](https://huolitangzhu.github.io/annual_report/)]
 
+ <img src="https://komarev.com/ghpvc/?username=huolitangzhu&label=Page%20views&color=lightgrey&style=for-the-badge" alt="huolitangzhu" /> 
+
