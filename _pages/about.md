@@ -12,7 +12,7 @@ redirect_from:
 
 ## 近期动态 [[主播日历](https://huolitangzhu.github.io/calendar/)]
 
-* 主播将在月底去昆明参加户外官方活动《我把美女包围了》
+* 主播在昆明参加户外官方活动《我把美女包围了》
 * 主播预计六月将进行《火力日本行》活动
 * 更多消息讨论请见[[鱼吧]](https://yuba.douyu.com/group/3022) 
 
