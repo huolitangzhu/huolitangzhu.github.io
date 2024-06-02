@@ -1,5 +1,5 @@
 ---
-title: "站长の日本旅行"
+title: "站长の日本旅行经验"
 permalink: /jpn_travel/
 author_profile: true
 ---
