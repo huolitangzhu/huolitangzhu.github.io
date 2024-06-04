@@ -48,7 +48,7 @@ author_profile: true
 
 ### <span id="head202406"> 6月</span>
 
-* [昆明] 和小空气一起直播
+* [曲靖] 和小空气一起直播
 
 ### <span id="head202405"> 5月</span>
 
