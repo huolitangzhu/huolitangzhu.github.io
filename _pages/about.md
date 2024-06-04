@@ -12,7 +12,7 @@ redirect_from:
 
 ## 近期动态 [[主播日历](https://huolitangzhu.github.io/calendar/)]
 
-* 主播在昆明自由活动数日
+* 主播预计在昆明和小空气直播活动
 * 主播预计六月将进行《火力日本行》活动 [[站长の日本旅行经验](https://huolitangzhu.github.io/jpn_travel/)]
 * 更多消息讨论请见[[鱼吧]](https://yuba.douyu.com/group/3022) 
 
