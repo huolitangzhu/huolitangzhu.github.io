@@ -13,7 +13,7 @@ redirect_from:
 ## 近期动态 [[主播日历](https://huolitangzhu.github.io/calendar/)]
 
 * 主播将在云南和小空气直播活动
-* 主播预计六月将进行《火力日本行》活动 [[站长の日本旅行经验](https://huolitangzhu.github.io/jpn_travel/)]
+* 主播预计进行《火力日本行》活动 [[站长の日本旅行经验](https://huolitangzhu.github.io/jpn_travel/)]可供嘉宾参考（主播说他忙直播没时间）
 * 更多消息讨论请见[[鱼吧]](https://yuba.douyu.com/group/3022) 
 
 ## 主播属性
