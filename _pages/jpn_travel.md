@@ -23,8 +23,9 @@ author_profile: true
 * 购物：站长贫穷没买啥东西，斯密马赛没有攻略
 * 衣：六月份没什么担心的
 * 食
-  * 热门的店可能要提前预约，老店可能只收现金，小红书和米其林都是很好的参考
+  * 热门的店可能要提前预约，老店可能只收现金
   * 不想排队的情况下，可打开google map查看附近的餐厅，可参考评分（超过4就还不错）和预期的价格区间
+  * 可参考2023年度**米其林推荐**：[京都大阪](https://guide.michelin.com/hk/zh_HK/article/news-and-views/michelin-guide-kyoto-osaka-2023-is-unveiled-with-389-selected-restaurants-hk) & [东京](https://guide.michelin.com/hk/zh_HK/article/news-and-views/michelin-guide-tokyo-japan-2023-hk)
 * 住：大阪西成区网传不是很安全，我之前住在北浜，周围都是金融机构比较安全。品牌是连锁的Toyoko Inn和UNIZO INN
 * 行
   * 市内公共交通（含jr）：**推荐**苹果手机直接申请虚拟的sucia卡，几乎各地公交地铁都可用，但是增值需要国际信用卡
