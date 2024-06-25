@@ -17,22 +17,22 @@ author_profile: true
 	- [ 2020年 ](#head2020)
 		| [12月](#head202012) | [9月](#head202009) | [8月](#head202008) | [7月](#head202007) | [5月](#head202005) 
 	- [ 2019年 ](#head2019)
-		| [12月](#head201912) 参加央视《黄金一百秒》 | [8月](#head201908) 赞助并直播CYCC全国赛 |  [6月](#head201906) 第二次参加录制《天天向上》 | [5月](#head201905) 参加录制金鹰卡通卫视《人偶总动员》第四季
+		| [12月](#head201912) 参加央视《黄金一百秒》 | [8月](#head201908) 赞助并直播末代CYCC悠悠球全国赛 |  [6月](#head201906) 第二次参加录制《天天向上》 | [5月](#head201905) 参加录制金鹰卡通卫视《人偶总动员》第四季
 	- [ 2018年 ](#head2018)
-		| [8月](#head201808) 唯一官方现场直播当年世界悠悠球大赛 | [3月](#head201803) 出演及参加制作火力少年王第五部之《悠风三少年》	
+		| [8月](#head201808) 唯一官方现场直播当年WYYC悠悠球世界赛 | [3月](#head201803) 出演及参加制作火力少年王第五部之《悠风三少年》	
 	- [ 2017年 ](#head2017)
-		| [7月](#head201707) ~~带领~~Team干制霸CYCC（中国悠悠球冠军赛）| [?月](#head20170x) 参加制作火力少年王第六部之《悠拳英雄》		
+		| [7月](#head201707) ~~带领~~Team干制霸CYCC悠悠球全国赛| [?月](#head20170x) 参加制作火力少年王第六部之《悠拳英雄》		
 	- [ 2016年 ](#head2016)
-		| [7月](#head201607) ~~带领~~Team干制霸CYCC | [1月](#head201601) 赞助CYCC山东赛
+		| [7月](#head201607) ~~带领~~Team干制霸CYCC悠悠球全国赛 | [1月](#head201601) 赞助CYCC悠悠球山东赛
 	- [ 2015年 ](#head2015)
-		| [12月](#head201512) 悠悠球人的传承 | [10月](#head201510) 偶遇霆锋 | [7月](#head201507) ~~带领~~Team干制霸CYCC
+		| [12月](#head201512) 悠悠球人的传承 | [10月](#head201510) 偶遇霆锋 | [7月](#head201507) ~~带领~~Team干制霸CYCC悠悠球全国赛
 		
 - 直播前  {~2015年5月4日}
 
 	- [ 2015年 ](#head2015)
 		| [2月](#head201502) 担任张子枫临时助理三天，和任达华共进盒饭并与林XX关系恶化
 	- [ 2014年 ](#head2014)
-		| [10月](#head201410) 参加北京卡酷少儿电视台节目 | [7月](#head201407) 参加CYCC
+		| [10月](#head201410) 参加北京卡酷少儿电视台节目 | [7月](#head201407) 参加CYCC悠悠球全国赛
 	- [ 2011年 ](#head2011)
 		| 参加制作火力少年王第四部之《舞动火力》
 	- [ 2009年 ](#head2009)
@@ -48,10 +48,10 @@ author_profile: true
 
 ### <span id="head202406"> 6月</span>
 
-* [天津] 赞助并直播华北地区悠悠球比赛
+* [天津] 赞助并直播CYML悠悠球华北地区赛
 * [成都] 录制新的翻唱单曲
 * [重庆] 参加757基地团播
-* [重庆] 直播西南地区悠悠球比赛，和组织者[[合照]](/images/news/2024西南赛.jpg) 
+* [重庆] 直播CYML悠悠球西南地区赛，和组织者[[合照]](/images/news/2024西南赛.jpg) 
 * [曲靖] 和小空气一起直播
 
 ### <span id="head202405"> 5月</span>
@@ -104,7 +104,7 @@ author_profile: true
 ### <span id="head202308"> 8月</span>
 
 * [贵州] 参加斗鱼户外《野王的加冕4》官方活动
-* [日本大阪] 以表情包形式参加观看悠悠球世界赛 [[本站站长现场合影]](/images/news/2023WYYC.PNG)
+* [日本大阪] 以表情包形式参加观看WYYC悠悠球世界赛 [[本站站长现场合影]](/images/news/2023WYYC.PNG)
 * [长沙] 参加斗鱼和工会合办户外活动《奶团再出发》 [[鱼吧]](https://yuba.douyu.com/p/127517921692007205)
 * [重庆] 参加斗鱼户外《人生赢家》官方活动 [[鱼吧]](https://yuba.douyu.com/p/226649511691777618)
 
@@ -167,7 +167,7 @@ author_profile: true
 ### <span id="head202208"> 8月</span>
 
 * [宁波] 参加斗鱼官方节目《斗罗外传》 [[鱼吧]](https://yuba.douyu.com/p/113799441661447249) [[官方剪辑]](https://yuba.douyu.com/p/241280791661863112)
-* [太原] 直播悠悠球山西赛 [[海报]](https://yuba.douyu.com/p/760312711659720845) [[现场1]](https://img.douyucdn.cn/data/yuba/default/2022/08/13/202208131752217776966502803.jpg) [[现场2]](https://imgoss.douyucdn.cn/bj/yuba/default/2022/08/16/202208160056185933368877629.jpg)
+* [太原] 直播CYML悠悠球山西赛 [[海报]](https://yuba.douyu.com/p/760312711659720845) [[现场1]](https://img.douyucdn.cn/data/yuba/default/2022/08/13/202208131752217776966502803.jpg) [[现场2]](https://imgoss.douyucdn.cn/bj/yuba/default/2022/08/16/202208160056185933368877629.jpg)
 
 ### <span id="head202207"> 7月</span>
 
@@ -305,7 +305,7 @@ author_profile: true
 
 ### <span id="head201908"> 8月</span>
 
-* [广州] 赞助并直播CYCC [[前同事合影]](/images/news/2019CYCC.jpeg)
+* [广州] 赞助并直播**末代**CYCC悠悠球全国赛 [[前同事合影]](/images/news/2019CYCC.jpeg)
 
 ### <span id="head201906"> 6月</span>
 
@@ -319,7 +319,7 @@ author_profile: true
 
 ### <span id="head201808"> 8月</span>
 
-* [上海] 赞助和唯一官方直播[世界悠悠球大赛](http://wyyc2018.auldey.com/details/id/618.html) [[火力组合影]](/images/news/2018WYYC.jpg)
+* [上海] 赞助和唯一官方直播[悠悠球世界赛](http://wyyc2018.auldey.com/details/id/618.html) [[火力组合影]](/images/news/2018WYYC.jpg)
 
 ### <span id="head201803"> 3月</span>
 
@@ -329,7 +329,7 @@ author_profile: true
 
 ### <span id="head201707"> 7月</span>
 
-* [广州] ~~带领~~Team干制霸CYCC [[合影]](/images/news/2017CYYC.jpg) [[直播录像]](https://huolitangzhu.github.io/videos/)
+* [广州] ~~带领~~Team干制霸CYCC悠悠球全国赛 [[合影]](/images/news/2017CYYC.jpg) [[直播录像]](https://huolitangzhu.github.io/videos/)
 
 ### <span id="head20170x"> ?月</span>
 
@@ -339,11 +339,11 @@ author_profile: true
 
 ### <span id="head201607"> 7月</span>
 
-* [广州] ~~带领~~Team干制霸CYCC [[合影]](/images/news/2016CYYC.jpg) [[聚餐]](/images/news/Team干2016.jpg)
+* [广州] ~~带领~~Team干制霸CYCC悠悠球全国赛 [[合影]](/images/news/2016CYYC.jpg) [[聚餐]](/images/news/Team干2016.jpg)
 
 ### <span id="head201601"> 1月</span>
 
-* [青岛] Team干赞助CYCC山东赛 [[海报]](/images/news/2016山东赛.jpg) 
+* [青岛] Team干赞助CYCC悠悠球山东赛 [[海报]](/images/news/2016山东赛.jpg) 
 
 ## <span id="head2015"> 2015年 </span>
 
@@ -357,7 +357,7 @@ author_profile: true
 
 ### <span id="head201507"> 7月</span>
 
-* [广州] ~~带领~~Team干制霸CYCC [[合影]](/images/news/2015CYYC.jpg) [[赛后视频]](https://v.qq.com/x/page/o0175e9ce3a.html)
+* [广州] ~~带领~~Team干制霸CYCC悠悠球全国赛 [[合影]](/images/news/2015CYYC.jpg) [[赛后视频]](https://v.qq.com/x/page/o0175e9ce3a.html)
 
 ### <span id="head201506"> 6月</span>
 
@@ -379,7 +379,7 @@ author_profile: true
 
 ### <span id="head201407"> 7月</span>
 
-* [广州] 参加CYCC[[比赛视频]](https://www.bilibili.com/video/BV1dS4y197eh?p=92)，合影四届悠悠球世界冠军铃木裕之（Hiroyuki Suzuki）[[合影]](/images/news/铃木裕之.jpg) 
+* [广州] 参加CYCC悠悠球全国赛[[比赛视频]](https://www.bilibili.com/video/BV1dS4y197eh?p=92)，合影四届悠悠球世界冠军铃木裕之（Hiroyuki Suzuki）[[合影]](/images/news/铃木裕之.jpg) 
 
 ## <span id="head2011"> 2011年 </span>
 
