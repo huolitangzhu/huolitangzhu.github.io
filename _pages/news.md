@@ -357,7 +357,7 @@ author_profile: true
 
 ### <span id="head201507"> 7月</span>
 
-* [广州] ~~带领~~Team干制霸CYCC悠悠球全国赛 [[合影]](/images/news/2015CYYC.jpg) [[赛后视频]](https://v.qq.com/x/page/o0175e9ce3a.html)
+* [青岛] ~~带领~~Team干制霸CYCC悠悠球全国赛 [[合影]](/images/news/2015CYYC.jpg) [[比赛视频]](https://www.bilibili.com/video/BV1wL4y1i742/?p=4) [[赛后视频]](https://v.qq.com/x/page/o0175e9ce3a.html)
 
 ### <span id="head201506"> 6月</span>
 
