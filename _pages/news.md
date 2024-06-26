@@ -339,7 +339,7 @@ author_profile: true
 
 ### <span id="head201607"> 7月</span>
 
-* [广州] ~~带领~~Team干制霸CYCC悠悠球全国赛 [[合影]](/images/news/2016CYYC.jpg) [[聚餐]](/images/news/Team干2016.jpg)
+* [广州] ~~带领~~Team干制霸CYCC悠悠球全国赛 [[参加睡眠赛]](/images/news/2016CYYC睡眠赛.jpg) [[合影]](/images/news/2016CYYC.jpg) [[聚餐]](/images/news/Team干2016.jpg)
 
 ### <span id="head201601"> 1月</span>
 
@@ -357,7 +357,7 @@ author_profile: true
 
 ### <span id="head201507"> 7月</span>
 
-* [青岛] ~~带领~~Team干制霸CYCC悠悠球全国赛 [[合影]](/images/news/2015CYYC.jpg) [[比赛视频]](https://www.bilibili.com/video/BV1wL4y1i742/?p=4) [[赛后视频]](https://v.qq.com/x/page/o0175e9ce3a.html)
+* [青岛] ~~带领~~Team干制霸和直播CYCC悠悠球全国赛 [[直播截图]](/images/news/2015CYYC直播.jpg) [[合影]](/images/news/2015CYYC.jpg) [[比赛视频]](https://www.bilibili.com/video/BV1wL4y1i742/?p=4) [[赛后视频]](https://v.qq.com/x/page/o0175e9ce3a.html)
 
 ### <span id="head201506"> 6月</span>
 
@@ -379,7 +379,7 @@ author_profile: true
 
 ### <span id="head201407"> 7月</span>
 
-* [广州] 参加CYCC悠悠球全国赛[[比赛视频]](https://www.bilibili.com/video/BV1dS4y197eh?p=92)，合影四届悠悠球世界冠军铃木裕之（Hiroyuki Suzuki）[[合影]](/images/news/铃木裕之.jpg) 
+* [广州] 参加CYCC悠悠球全国赛[[比赛视频]](https://www.bilibili.com/video/BV1dS4y197eh?p=92) [[嘉宾和组委会合影]](/images/news/2014CYCC合影.jpg) 
 
 ## <span id="head2011"> 2011年 </span>
 
