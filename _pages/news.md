@@ -52,7 +52,7 @@ author_profile: true
 
 ### <span id="head202406"> 6月</span>
 
-* [天津] 赞助并直播[华北悠悠球公开赛](/images/news/2024HBYC.jpg)
+* [天津] 赞助并直播[华北悠悠球公开赛](/images/news/2024HBYC.jpg)，Team干重聚 [[合照](/images/news/Team干2024.jpg)]
 * [重庆] 参加757基地团播
 * [重庆] 直播CYML悠悠球西南地区赛，和组织者[[合照]](/images/news/2024西南赛.jpg) 
 * [曲靖] 和小空气一起直播
