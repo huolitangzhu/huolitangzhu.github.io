@@ -48,7 +48,7 @@ author_profile: true
 
 ### <span id="head202407"> 7月</span>
 
-* [郑州] 和朋友过暑假
+* [郑州] 和朋友暑假小聚
 * [南昌] 和老朋友一起直播并叒全体起立
 
 ### <span id="head202406"> 6月</span>
