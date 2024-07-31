@@ -12,7 +12,7 @@ redirect_from:
 
 ## 近期动态 [[主播日历](https://huolitangzhu.github.io/calendar/)]
 
-* 主播在家暑假中并插播轮椅TV
+* 主播在家暑假中并插播轮椅TV：单排王者荣耀，沉浸式解说奥运等
 * 主播预计进行《火力日本行》活动，这里是[站长の日本旅行经验](https://huolitangzhu.github.io/jpn_travel/)可供参考（主播说他忙直播没时间做攻略）
 * 更多消息讨论请见[[鱼吧]](https://yuba.douyu.com/group/3022) 
 
