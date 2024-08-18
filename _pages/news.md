@@ -48,6 +48,7 @@ author_profile: true
 
 ### <span id="head202408"> 8月</span>
 
+* [大连] 参加户外官方节目《她们的冒险》
 * [偃师] 暑假时间之单排王者，解说奥运会
 
 ### <span id="head202407"> 7月</span>
