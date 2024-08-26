@@ -12,8 +12,7 @@ redirect_from:
 
 ## 近期动态 [[主播日历](https://huolitangzhu.github.io/calendar/)]
 
-* 主播在大连参加户外官方节目
-* 主播预计进行《火力日本行》活动，这里是[站长の日本旅行经验](https://huolitangzhu.github.io/jpn_travel/)可供参考（主播说他忙直播没时间做攻略）
+* 主播将去大阪进行《火力日本行》活动
 * 更多消息讨论请见[[鱼吧]](https://yuba.douyu.com/group/3022) 
 
 ## 主播属性
