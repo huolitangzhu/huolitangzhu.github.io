@@ -48,6 +48,7 @@ author_profile: true
 
 ### <span id="head202409"> 9月</span>
 
+* [偃师] 火力自驾游，启动
 * [日本大阪] 在路上偶遇前直播搭档骆歆
 
 ### <span id="head202408"> 8月</span>
