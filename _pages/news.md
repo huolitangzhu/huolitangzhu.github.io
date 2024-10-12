@@ -49,7 +49,6 @@ author_profile: true
 ### <span id="head202410"> 10月</span>
 
 * [重庆] 参加户外官方节目《城市探险家》
-* [武汉] 参加鱼皇团播ing
 
 ### <span id="head202409"> 9月</span>
 
