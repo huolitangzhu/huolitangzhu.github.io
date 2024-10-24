@@ -10,7 +10,7 @@ redirect_from:
 生活秀主播，包括户外，悠悠球和打游戏等。斗鱼房间号[241123](https://www.douyu.com/241123)，外号“赵老师”、“猪猪”等。
 反应机敏，擅长做节目效果：主播（至今）的一生都是节目效果，朋友圈文案“直播是我的生活，生活是我的直播。”
 
-## 近期动态 [[主播日历](https://huolitangzhu.github.io/calendar/)]
+## 近期动态 [[活动日历](https://huolitangzhu.github.io/calendar/)]
 
 * 主播在武汉参加鱼皇团播ing
 * 更多消息讨论请见[[鱼吧]](https://yuba.douyu.com/group/3022) 
