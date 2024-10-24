@@ -1,5 +1,5 @@
 ---
-title: "主播日历"
+title: "活动日历"
 permalink: /calendar/
 author_profile: true
 ---
