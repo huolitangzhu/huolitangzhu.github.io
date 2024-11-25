@@ -48,6 +48,8 @@ author_profile: true
 
 ### <span id="head202411"> 11月</span>
 
+* [广西] 参加户外官方节目《边境冒险队》
+* [开封] 和鱼皇团播一起直播
 * [武汉] 参加鱼皇团播
 
 ### <span id="head202410"> 10月</span>
