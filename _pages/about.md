@@ -41,7 +41,6 @@ redirect_from:
 * 现在YouTube网站[[有人](/images/about/fake.png)]以主播ID上传视频，经站长与主播确认并**不是主播本人**账号，请大家注意甄别 
 * 本站内容均为网络公开发表的内容，**本站不会就其内容的准确性、有效性、或完整性作出任何保证**
 
-## 访客统计 [[年度报告](https://huolitangzhu.github.io/annual_report/)]
+## 访客统计 
 
- <img src="https://komarev.com/ghpvc/?username=huolitangzhu&base=144200&label=Total%20page%20views&color=lightgrey&style=for-the-badge" alt="huolitangzhu" /> 
-
+* [2021／04～2024／05](https://huolitangzhu.github.io/annual_report/)
