@@ -48,6 +48,7 @@ author_profile: true
 
 ### <span id="head202412"> 12月</span>
 
+* [北京] 重游开始直播的故地
 * [呼和浩特] 重游推广悠悠球的故地
 
 ### <span id="head202411"> 11月</span>
