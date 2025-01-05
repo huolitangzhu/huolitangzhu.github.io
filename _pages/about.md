@@ -12,7 +12,7 @@ redirect_from:
 
 ## 近期动态 [[活动日历](https://huolitangzhu.github.io/calendar/)]
 
-* 主播在长春直播中
+* 主播在哈尔滨直播中
 * 更多消息讨论请见[[鱼吧]](https://yuba.douyu.com/group/3022) 
 
 ## 主播属性
