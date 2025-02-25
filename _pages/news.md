@@ -50,7 +50,7 @@ author_profile: true
 
 ### <span id="head202502"> 2月</span>
 
-* TBD
+* [偃师] 参加台球厅比赛并进入24强
 
 ### <span id="head202501"> 1月</span>
 
