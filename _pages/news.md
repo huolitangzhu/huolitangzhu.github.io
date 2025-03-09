@@ -50,7 +50,7 @@ author_profile: true
 
 ### <span id="head202503"> 3月</span>
 
-* TBD
+* [郑州] 学习台球
 
 ### <span id="head202502"> 2月</span>
 
