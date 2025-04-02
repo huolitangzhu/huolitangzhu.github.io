@@ -50,7 +50,7 @@ author_profile: true
 
 ### <span id="head202504"> 4月</span>
 
-* TBA
+* [赣州] 参加国民大舅哥团播
 
 ### <span id="head202503"> 3月</span>
 
