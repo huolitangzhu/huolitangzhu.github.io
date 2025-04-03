@@ -12,7 +12,7 @@ redirect_from:
 
 ## 近期动态 [[活动日历](https://huolitangzhu.github.io/calendar/)]
 
-* 主播将去赣州参加国民大舅哥团播
+* 主播在赣州参加国民大舅哥团播《我被人才包围了》
 * 更多消息讨论请见[[鱼吧]](https://yuba.douyu.com/group/3022) 
 
 ## 主播属性
