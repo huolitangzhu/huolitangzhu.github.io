@@ -50,6 +50,7 @@ author_profile: true
 
 ### <span id="head202504"> 4月</span>
 
+* [南昌] 宾馆TV和国民大舅哥直播
 * [赣州] 参加国民大舅哥团播《我被人才包围了》
 
 ### <span id="head202503"> 3月</span>
