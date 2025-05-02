@@ -50,6 +50,7 @@ author_profile: true
 
 ### <span id="head202505"> 5月</span>
 
+* [重庆] 赞助西南悠悠球公开赛 [[海报](/images/news/2025西南赛.jpg)]
 * [南昌] 参加国民大舅哥团播《综艺赛季》
 
 ### <span id="head202504"> 4月</span>
