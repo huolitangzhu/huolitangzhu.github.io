@@ -50,7 +50,7 @@ author_profile: true
 
 ### <span id="head202506"> 6月</span>
 
-* TBD
+* [南昌] 和橙汁直播合租节目
 
 ### <span id="head202505"> 5月</span>
 
