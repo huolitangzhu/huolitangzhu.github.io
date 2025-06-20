@@ -50,6 +50,7 @@ author_profile: true
 
 ### <span id="head202506"> 6月</span>
 
+* [海南] 参加斗鱼和平精英节目《夏日主题海岛之旅》
 * [南昌] 和橙汁直播合租节目
 
 ### <span id="head202505"> 5月</span>
