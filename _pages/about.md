@@ -12,7 +12,7 @@ redirect_from:
 
 ## 近期动态 [[活动日历](https://huolitangzhu.github.io/calendar/)]
 
-* 主播在海南参加斗鱼和平精英节目《夏日主题海岛之旅》
+* 主播在三亚参加斗鱼和平精英节目《夏日主题海岛之旅》
 * 更多消息讨论请见[[鱼吧]](https://yuba.douyu.com/group/3022) 
 
 ## 主播属性
