@@ -12,7 +12,7 @@ redirect_from:
 
 ## 近期动态 [[活动日历](https://huolitangzhu.github.io/calendar/)]
 
-* 主播在杭州参加外站官方节目《清台吧少女》
+* 主播在参加鱼皇旅行团播《鱼行天下之探寻西北》
 * 更多消息讨论请见[[鱼吧]](https://yuba.douyu.com/group/3022) 
 
 ## 主播属性
