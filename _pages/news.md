@@ -50,6 +50,7 @@ author_profile: true
 
 ### <span id="head202507"> 7月</span>
 
+* [武汉] 参加鱼皇庄园团播
 * [青海] 参加鱼皇旅行团播《鱼行天下之探寻西北》
 
 ### <span id="head202506"> 6月</span>
