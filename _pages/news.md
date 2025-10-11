@@ -50,7 +50,7 @@ author_profile: true
 
 ### <span id="head202510"> 10月</span>
 
-* [洛阳] 和鱼皇合办团播活动
+* [洛阳] 参加《愉快团播》
 
 ### <span id="head202509"> 9月</span>
 
