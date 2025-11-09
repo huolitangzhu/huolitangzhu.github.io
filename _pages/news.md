@@ -50,6 +50,8 @@ author_profile: true
 
 ### <span id="head202511"> 11月</span>
 
+* [阿勒泰] 参加腾讯《和平精英》官方活动
+* [西安] 和杜杜户外直播
 * [洛阳] 参加《愉快团播》
 
 ### <span id="head202510"> 10月</span>
