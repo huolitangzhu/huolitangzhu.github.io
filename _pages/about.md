@@ -12,7 +12,7 @@ redirect_from:
 
 ## 近期动态 [[活动日历](https://huolitangzhu.github.io/calendar/)]
 
-* 主播在阿勒泰参加《和平精英》官方活动
+* 主播在三亚准备参加下一季《愉快团播》
 * 更多消息讨论请见[[鱼吧]](https://yuba.douyu.com/group/3022) 
 
 ## 主播属性
