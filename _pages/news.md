@@ -50,7 +50,7 @@ author_profile: true
 
 ### <span id="head202512"> 12月</span>
 
-* [三亚] 参加《愉快团播》第二集
+* [三亚] 参加《愉快团播》第二季
 
 ### <span id="head202511"> 11月</span>
 
