@@ -52,8 +52,8 @@ author_profile: true
 
 ### <span id="head202601"> 1月</span>
 
-* [洛阳] 和周柒柒户外直播（时隔多年主播有女嘉宾在跨年夜直播）
-
+* [洛阳] 和周柒柒户外直播并跨年
+  
 ## <span id="head2025"> 2025年 </span>
 
 ### <span id="head202512"> 12月</span>
