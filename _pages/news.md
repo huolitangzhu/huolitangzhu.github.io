@@ -52,6 +52,7 @@ author_profile: true
 
 ### <span id="head202603"> 3月</span>
 
+* [长沙] 参加愉快团播第三季
 * [延安/西安] 和家长自驾游
 
 ### <span id="head202602"> 2月</span>
