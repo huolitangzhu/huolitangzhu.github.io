@@ -52,7 +52,7 @@ author_profile: true
 
 ### <span id="head202605"> 5月</span>
 
-* [XX] 参加斗鱼《和平精英》官方活动
+* [XX] 参加斗鱼《和平精英》官方活动 （户外活动最后一舞（预计版
 
 ### <span id="head202604"> 4月</span>
 
