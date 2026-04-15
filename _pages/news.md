@@ -48,7 +48,7 @@ author_profile: true
 	- [ 1901年 ](#head1901)
 		| 慈禧西狩归京路过洛阳赵家
 
-## <span id="head2026"> 2026年 </span>
+## <span id="head2026"> 2026年之“[重建](/images/news/2026_theme.jpg)” </span>
 
 ### <span id="head202605"> 5月</span>
 
