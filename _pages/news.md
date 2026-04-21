@@ -56,6 +56,7 @@ author_profile: true
 
 ### <span id="head202604"> 4月</span>
 
+* [洛阳] 和卡莎确认关系 
 * [长沙] 参加愉快团播第三季
 
 ### <span id="head202603"> 3月</span>
