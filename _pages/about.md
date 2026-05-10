@@ -12,8 +12,8 @@ redirect_from:
 
 ## 近期动态 [[活动日历](https://huolitangzhu.github.io/calendar/)]
 
-* 主播在重庆参加757团播中
-* 主播相亲初步成功，和卡沙发展ing
+* 主播将参加斗鱼《和平精英》户外活动
+* 主播和相亲对象发展ing
 * 更多消息讨论请见[[鱼吧]](https://yuba.douyu.com/group/3022) 
 
 ## 主播属性
