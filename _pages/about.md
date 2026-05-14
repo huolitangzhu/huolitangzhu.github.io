@@ -12,7 +12,7 @@ redirect_from:
 
 ## 近期动态 [[活动日历](https://huolitangzhu.github.io/calendar/)]
 
-* 主播将参加斗鱼《和平精英》户外活动
+* 主播在偃师轮椅TV
 * 主播和相亲对象发展ing
 * 更多消息讨论请见[[鱼吧]](https://yuba.douyu.com/group/3022) 
 
