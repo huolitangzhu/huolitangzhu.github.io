@@ -52,6 +52,7 @@ author_profile: true
 
 ### <span id="head202605"> 5月</span>
 
+* [舟山] 参加斗鱼《和平精英》官方活动直播 
 * [重庆] 参加斗鱼《和平精英》官方活动视频录制
   
 ### <span id="head202604"> 4月</span>
