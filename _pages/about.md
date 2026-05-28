@@ -12,7 +12,6 @@ redirect_from:
 
 ## 近期动态 [[活动日历](https://huolitangzhu.github.io/calendar/)]
 
-* 主播将在21-24日在舟山参加斗鱼《和平精英》官方活动
 * 主播和相亲对象发展ing
 * 更多消息讨论请见[[鱼吧]](https://yuba.douyu.com/group/3022) 
 
