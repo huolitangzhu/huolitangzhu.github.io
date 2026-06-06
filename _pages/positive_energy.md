@@ -6,7 +6,9 @@ author_profile: true
 
 * 直播捐款
 
+  * 2026年儿童节当日流水收入[[捐款记录]](/images/donate/Tangzhu_20260601.jpg)
   * 2022年儿童节当日流水收入[[捐款记录]](/images/donate/Tangzhu_20220601.jpg)
+  * 其他记录待补充ing
 
 * 公益性直播活动
 
