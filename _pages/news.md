@@ -52,7 +52,7 @@ author_profile: true
 
 ### <span id="head202606"> 6月</span>
 
-* [武汉] 参加斗鱼《斗鱼嘉年华》官方活动
+* [武汉] 参加斗鱼《斗鱼嘉年华》
 
 ### <span id="head202605"> 5月</span>
 
