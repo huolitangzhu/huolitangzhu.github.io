@@ -52,7 +52,7 @@ author_profile: true
 
 ### <span id="head202610"> 10月</span>
 
-* [洛阳] TBD
+* [洛阳] 举行婚礼，青春再一次结束
 
 ### <span id="head202609"> 9月</span>
 
