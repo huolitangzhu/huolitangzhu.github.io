@@ -13,7 +13,7 @@ redirect_from:
 
 ## 近期动态 [[活动日历](https://huolitangzhu.github.io/calendar/)]
 
-* 主播开启**婚后生活**中，不定期直播
+* 主播在见女方家属中，后去日本度蜜月
 * 更多消息讨论请见[[鱼吧]](https://yuba.douyu.com/group/3022) 
 
 ## 主播属性
