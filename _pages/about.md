@@ -13,7 +13,7 @@ redirect_from:
 
 ## 近期动态 [[活动日历](https://huolitangzhu.github.io/calendar/)]
 
-* 主播转型视频博主中
+* 主播转型视频博主中。抖音大号：[火力堂主](https://www.douyin.com/user/MS4wLjABAAAAZzcgq1xu8JgXaDPY-nZetqSGUYecWMPlAXJnHrvJep4)；小号：[火力堂主赵老师](https://www.douyin.com/user/MS4wLjABAAAA2PyBhYCgkzFChysy3zHz8PB0U68NAao0Hw_89k_nBZc)
 * 更多消息讨论请见[[鱼吧]](https://yuba.douyu.com/group/3022) 
 
 ## 主播属性
