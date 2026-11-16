@@ -23,12 +23,6 @@ redirect_from:
 * 王牌の节目：`宾馆TV` · `电脑上号` · `绿色台球` · `打拳水友` 
 * 自我の评价：[[图片问答版]](/images/about/bio.png) · “直播是我的生活，生活是我的直播。” —— 主播朋友圈
 
-## 专属BGM
-
-* [《我是真的爱上你》](https://music.163.com/song?id=1877540723) - 翻唱 by 主播
-* [《猪猪》](https://music.163.com/#/song?id=1994572467) - 作词/作曲/演唱 by 主播 鱼子酱
-* [《鹏将行》](https://yuba.douyu.com/p/593050641622217731) - 填词改编自[《盗将行》](https://music.163.com/#/song?id=574566207) by 本站站长，[[直播翻唱]](https://v.douyu.com/show/wLjGvLZPeexMmO90) by 主播 慕一cc
-
 ## 站长活动
 
 * 获得建站以来**第一笔赞助**之来自主播总榜[[苦瓜哥]](https://yuba.douyu.com/member/JGdyeWn1bdXy/main)的[食物投喂](/images/about/with苦瓜.jpg)
@@ -41,7 +35,3 @@ redirect_from:
 * 本站是为了斗鱼主播火力堂主粉丝而成立的，**不代表任何主播本人观点**
 * 现在YouTube网站[[有人](/images/about/fake.png)]以主播ID上传视频，经站长与主播确认并**不是主播本人**账号，请大家注意甄别 
 * 本站内容均为网络公开发表的内容，**本站不会就其内容的准确性、有效性、或完整性作出任何保证**
-
-## 访客统计 
-
-* [2021／04～2024／05](https://huolitangzhu.github.io/annual_report/)

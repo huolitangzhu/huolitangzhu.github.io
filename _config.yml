@@ -95,7 +95,11 @@ author:
   weibo            : "5062502117"
   youtube          :
   music163         : "49694510"
-  douyin           : "MS4wLjABAAAAZzcgq1xu8JgXaDPY-nZetqSGUYecWMPlAXJnHrvJep4"
+  douyin           :
+    - name: "火力堂主"
+      id: "MS4wLjABAAAAZzcgq1xu8JgXaDPY-nZetqSGUYecWMPlAXJnHrvJep4"
+    - name: "火力堂主赵老师"
+      id: "MS4wLjABAAAA2PyBhYCgkzFChysy3zHz8PB0U68NAao0Hw_89k_nBZc"
 
 # Reading Files
 include:
