@@ -11,9 +11,11 @@ author_profile: true
 
 <div class="pc-map-wrap">
   <h2 class="pc-map-title">明信片地图</h2>
-  <div class="pc-hint">点击国家/地区图标定位该区域 · 点击地图上的黄点查看明信片与说明 · 滚轮可缩放</div>
-  <div class="pc-country-bar" id="pcCountryBar"></div>
-  <div id="pcmap"></div>
+  <div class="pc-hint">点击菜单里的国家定位该区域 · 点击地图上的黄点查看明信片与说明 · 滚轮可缩放</div>
+  <div class="pc-layout">
+    <nav class="pc-menu" id="pcMenu"></nav>
+    <div class="pc-map-col"><div id="pcmap"></div></div>
+  </div>
 </div>
 
 <div id="pcPopup" hidden>
@@ -22,45 +24,6 @@ author_profile: true
     <div class="pc-popup-title" id="pcPopupTitle"></div>
     <div class="pc-popup-body" id="pcPopupBody"></div>
   </div>
-</div>
-
-<div class="postcards">
-
-<h2 id="pc-text">图文说明（默认英语）</h2>
-
-<ul>
-{%- for cont in site.data.postcards -%}
-<li>{{ cont.continent }}
-  <ul>
-  {%- for co in cont.countries -%}
-  {%- if co.entries.size == 1 and co.entries[0].pre == co.name -%}
-  {%- assign flat_city = co.entries[0] -%}
-  {% include pc_city.html city=flat_city %}
-  {%- else -%}
-  <li>{{ co.name }}
-    <ul>
-    {%- for e in co.entries -%}
-    {%- if e.cities -%}
-    <li>{{ e.name }}
-      <ul>
-      {%- for c in e.cities -%}
-      {% include pc_city.html city=c %}
-      {%- endfor -%}
-      </ul>
-    </li>
-    {%- else -%}
-    {% include pc_city.html city=e %}
-    {%- endif -%}
-    {%- endfor -%}
-    </ul>
-  </li>
-  {%- endif -%}
-  {%- endfor -%}
-  </ul>
-</li>
-{%- endfor -%}
-</ul>
-
 </div>
 
 <script>
@@ -203,24 +166,26 @@ var PC_CITIES=[
     try { mapObj.setFocus(scale, cx, cy); } catch (err) {}
   }
 
+  // 竖式折叠菜单: 大洲 = 可折叠分组, 国家 = 竖排按钮
   var byCont = {};
+  var firstCont = true;
   for (i = 0; i < PC_CITIES.length; i++) {
     c = PC_CITIES[i];
     if (!byCont[c.continent]) { byCont[c.continent] = {}; }
     if (!byCont[c.continent][c.country]) { byCont[c.continent][c.country] = []; }
     byCont[c.continent][c.country].push(c);
   }
-  var bar = document.getElementById('pcCountryBar');
+  var menu = document.getElementById('pcMenu');
   for (var contName in byCont) {
     if (!byCont.hasOwnProperty(contName)) { continue; }
-    var block = document.createElement('div');
-    block.className = 'pc-continent';
-    var lab = document.createElement('div');
-    lab.className = 'pc-continent-name';
-    lab.innerHTML = contName;
-    block.appendChild(lab);
-    var row = document.createElement('div');
-    row.className = 'pc-continent-countries';
+    var details = document.createElement('details');
+    details.className = 'pc-cont';
+    if (firstCont) { details.open = true; firstCont = false; }
+    var summary = document.createElement('summary');
+    summary.innerHTML = contName;
+    details.appendChild(summary);
+    var ul = document.createElement('ul');
+    ul.className = 'pc-country-list';
     var countries = byCont[contName];
     var names = [];
     for (var ck in countries) {
@@ -234,6 +199,7 @@ var PC_CITIES=[
       for (i = 0; i < arr.length; i++) {
         if (arr[i].images.length) { icon = arr[i].images[0]; break; }
       }
+      var li = document.createElement('li');
       var btn = document.createElement('button');
       btn.type = 'button';
       btn.className = 'pc-country';
@@ -241,19 +207,20 @@ var PC_CITIES=[
       (function (name) {
         btn.addEventListener('click', function () { focusCountry(name); });
       })(cn);
-      row.appendChild(btn);
+      li.appendChild(btn);
+      ul.appendChild(li);
     }
-    block.appendChild(row);
-    bar.appendChild(block);
+    details.appendChild(ul);
+    menu.appendChild(details);
   }
   var reset = document.createElement('button');
   reset.type = 'button';
-  reset.className = 'pc-country pc-reset';
-  reset.innerHTML = '<span>重置视图</span>';
+  reset.className = 'pc-reset';
+  reset.innerHTML = '重置视图';
   reset.addEventListener('click', function () {
     try { mapObj.setFocus(1, 0, 0); } catch (err) {}
   });
-  bar.appendChild(reset);
+  menu.appendChild(reset);
 
   document.getElementById('pcPopupClose').addEventListener('click', closePopup);
   document.getElementById('pcPopup').addEventListener('click', function (e) {

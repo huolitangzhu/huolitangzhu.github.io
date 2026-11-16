@@ -44,24 +44,7 @@
    站主自定义样式
    ========================================================================== */
 
-/* 明信片页：内嵌缩略图网格 + 点击灯箱（magnific-popup 由主题 JS 自动接管图片链接） */
-.postcards li img {
-  height: 130px;
-  width: auto;
-  margin: 4px 6px 2px 0;
-  border: 1px solid rgba(0, 0, 0, 0.09);
-  border-radius: 4px;
-  vertical-align: middle;
-  cursor: zoom-in;
-  transition: transform 0.15s ease, box-shadow 0.15s ease;
-}
-
-.postcards li img:hover {
-  transform: scale(1.03);
-  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.22);
-}
-
-/* 明信片地图组件 */
+/* 明信片地图: 布局 */
 .pc-map-wrap {
   margin: 2em 0;
 }
@@ -76,62 +59,90 @@
   margin-bottom: 0.6em;
 }
 
-.pc-country-bar {
+.pc-layout {
   display: flex;
-  flex-wrap: nowrap;
-  overflow-x: auto;
-  padding: 6px 2px;
-  margin-bottom: 10px;
-  -webkit-overflow-scrolling: touch;
+  align-items: flex-start;
+  margin-top: 10px;
 }
 
-.pc-continent {
-  flex: 0 0 auto;
-  margin-right: 16px;
+.pc-menu {
+  flex: 0 0 210px;
+  margin-right: 14px;
+  max-height: 520px;
+  overflow-y: auto;
 }
 
-.pc-continent-name {
-  font-weight: 700;
-  font-size: 0.85em;
-  margin-bottom: 6px;
-  opacity: 0.65;
-  white-space: nowrap;
-}
-
-.pc-continent-countries {
-  display: flex;
-  flex-wrap: nowrap;
-}
-
-.pc-country {
-  flex: 0 0 auto;
-  display: inline-flex;
-  flex-direction: column;
-  align-items: center;
-  padding: 6px 8px;
-  margin-right: 6px;
-  border: 1px solid rgba(0, 0, 0, 0.15);
-  border-radius: 8px;
-  background: #fff;
-  cursor: pointer;
-  font: inherit;
-}
-
-.pc-country img {
-  height: 64px;
-  width: auto;
-  border-radius: 4px;
+.pc-cont {
   margin-bottom: 4px;
 }
 
-.pc-country span {
-  font-size: 0.8em;
-  white-space: nowrap;
+.pc-cont > summary {
+  cursor: pointer;
+  font-weight: 700;
+  padding: 4px 2px;
+  font-size: 0.95em;
+}
+
+.pc-cont > summary:hover {
+  opacity: 0.8;
+}
+
+.pc-country-list {
+  list-style: none;
+  margin: 2px 0 6px 6px;
+  padding: 0;
+}
+
+.pc-country-list li {
+  margin: 1px 0;
+}
+
+.pc-country {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  text-align: left;
+  padding: 3px 5px;
+  border: 1px solid transparent;
+  border-radius: 6px;
+  background: none;
+  cursor: pointer;
+  font: inherit;
+  font-size: 0.9em;
 }
 
 .pc-country:hover {
+  background: rgba(0, 0, 0, 0.05);
+  border-color: rgba(0, 0, 0, 0.12);
+}
+
+.pc-country img {
+  height: 26px;
+  width: auto;
+  border-radius: 3px;
+  margin-right: 6px;
+}
+
+.pc-reset {
+  display: block;
+  width: 100%;
+  margin-top: 8px;
+  padding: 5px 8px;
+  border: 1px solid rgba(0, 0, 0, 0.15);
+  border-radius: 6px;
+  background: #fff;
+  cursor: pointer;
+  font: inherit;
+  font-size: 0.85em;
+}
+
+.pc-reset:hover {
   border-color: #F8E23B;
-  box-shadow: 0 1px 6px rgba(0, 0, 0, 0.15);
+}
+
+.pc-map-col {
+  flex: 1 1 auto;
+  min-width: 0;
 }
 
 #pcmap {
@@ -143,6 +154,21 @@
 
 #pcmap svg {
   display: block;
+}
+
+@media (max-width: 768px) {
+  .pc-layout {
+    display: block;
+  }
+
+  .pc-menu {
+    margin: 0 0 12px 0;
+    max-height: none;
+  }
+
+  #pcmap {
+    height: 380px;
+  }
 }
 
 #pcPopup {

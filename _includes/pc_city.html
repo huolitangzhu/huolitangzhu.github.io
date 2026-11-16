@@ -1,1 +1,0 @@
-<li>{{ include.city.pre }}{%- for card in include.city.cards -%}<a href="/images/postcards/{{ card.image }}"><img src="/images/postcards/{{ card.image }}" alt="明信片" loading="lazy"></a>{%- if card.note and card.note != '' -%}{{ card.note | markdownify | strip | remove: '<p>' | remove: '</p>' | strip }}{%- endif -%}{%- endfor -%}</li>
