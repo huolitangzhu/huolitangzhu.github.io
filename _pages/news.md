@@ -48,7 +48,9 @@ author_profile: true
 	- [ 1901年 ](#head1901)
 		| 慈禧西狩归京路过洛阳赵家
 
-## <span id="head2026"> 2026年之“[重建](/images/news/2026_theme.jpg)” </span>
+<details class="news-year" markdown="1" open>
+<summary><span id="head2026"> 2026年之“<a href="/images/news/2026_theme.jpg">重建</a>” </span></summary>
+
 
 ### <span id="head202611"> 11月</span>
 
@@ -98,7 +100,12 @@ author_profile: true
 
 * [洛阳] 和周柒柒户外直播并跨年
   
-## <span id="head2025"> 2025年 </span>
+
+</details>
+
+<details class="news-year" markdown="1">
+<summary><span id="head2025"> 2025年 </span></summary>
+
 
 ### <span id="head202512"> 12月</span>
 
@@ -164,7 +171,12 @@ author_profile: true
 
 * [长春/哈尔滨] 户外直播
 
-## <span id="head2024"> 2024年 </span>
+
+</details>
+
+<details class="news-year" markdown="1">
+<summary><span id="head2024"> 2024年 </span></summary>
+
 
 ### <span id="head202412"> 12月</span>
 
@@ -229,7 +241,12 @@ author_profile: true
 * [偃师] 寒假时间
 * [重庆] 参加757基地团播
 		
-## <span id="head2023"> 2023年 之“课题分离” </span>
+
+</details>
+
+<details class="news-year" markdown="1">
+<summary><span id="head2023"> 2023年 之“课题分离” </span></summary>
+
 
 ### <span id="head202312"> 12月</span>
 
@@ -296,7 +313,12 @@ author_profile: true
 * [香港] 本站站长狙击成功 [[现场](/images/news/2023HK.jpeg)]
 * [泰国] 和鱼皇直播之后新冠时代泰囧
 
-## <span id="head2022"> 2022年 之“无憾” </span>
+
+</details>
+
+<details class="news-year" markdown="1">
+<summary><span id="head2022"> 2022年 之“无憾” </span></summary>
+
 
 ### <span id="head202212"> 12月</span>
 
@@ -355,7 +377,12 @@ author_profile: true
 
 * [洛阳] 游戏粉狂欢之LOL
 
-## <span id="head2021"> 2021年 之“活着” </span>
+
+</details>
+
+<details class="news-year" markdown="1">
+<summary><span id="head2021"> 2021年 之“活着” </span></summary>
+
 
 ### <span id="head202112"> 12月</span>
 
@@ -424,7 +451,12 @@ author_profile: true
 
 * [上海] 参加《年度鱼乐盛典》获得“正能量之星”称号 [[红毯+晚会镜头]](https://yuba.douyu.com/p/134047771610879917)
 
-## <span id="head2020"> 2020年 之“巨变” </span>
+
+</details>
+
+<details class="news-year" markdown="1">
+<summary><span id="head2020"> 2020年 之“巨变” </span></summary>
+
 
 ### <span id="head202012"> 12月</span>
 
@@ -448,7 +480,12 @@ author_profile: true
 
 * [重庆] 户外之喜提X3 [[赵总提车]](/images/news/X3.jpg)
 
-## <span id="head2019"> 2019年 </span>
+
+</details>
+
+<details class="news-year" markdown="1">
+<summary><span id="head2019"> 2019年 </span></summary>
+
 
 ### <span id="head201912"> 12月</span>
 
@@ -466,7 +503,12 @@ author_profile: true
 
 * [长沙] 参加录制金鹰卡通卫视[《人偶总动员》第四季](https://w.mgtv.com/b/329659/5768213.html)，并教武艺玩悠悠球
 
-## <span id="head2018"> 2018年 </span>
+
+</details>
+
+<details class="news-year" markdown="1">
+<summary><span id="head2018"> 2018年 </span></summary>
+
 
 ### <span id="head201808"> 8月</span>
 
@@ -476,7 +518,12 @@ author_profile: true
 
 * [广州] 出演及参加制作火力少年王第五部之[《悠风三少年》](https://baike.baidu.com/item/%E7%81%AB%E5%8A%9B%E5%B0%91%E5%B9%B4%E7%8E%8B%E4%B9%8B%E6%82%A0%E9%A3%8E%E4%B8%89%E5%B0%91%E5%B9%B4/22172988)，饰演“大金链子” [[自卖自夸]](https://weibo.com/tv/show/1034:96c5ace859f14197b0d8de34cf831f57)
 
-## <span id="head2017"> 2017年 </span>
+
+</details>
+
+<details class="news-year" markdown="1">
+<summary><span id="head2017"> 2017年 </span></summary>
+
 
 ### <span id="head201707"> 7月</span>
 
@@ -486,7 +533,12 @@ author_profile: true
 
 * [广州] 参加制作火力少年王第六部之[《悠拳英雄》](https://baike.baidu.com/item/%E7%81%AB%E5%8A%9B%E5%B0%91%E5%B9%B4%E7%8E%8B%E4%B9%8B%E6%82%A0%E6%8B%B3%E8%8B%B1%E9%9B%84/19932530)
 
-## <span id="head2016"> 2016年 </span>
+
+</details>
+
+<details class="news-year" markdown="1">
+<summary><span id="head2016"> 2016年 </span></summary>
+
 
 ### <span id="head201607"> 7月</span>
 
@@ -496,7 +548,12 @@ author_profile: true
 
 * [青岛] Team干赞助CYCC悠悠球山东赛 [[海报]](/images/news/2016山东赛.jpg) 
 
-## <span id="head2015"> 2015年 </span>
+
+</details>
+
+<details class="news-year" markdown="1">
+<summary><span id="head2015"> 2015年 </span></summary>
+
 
 ### <span id="head201512"> 12月</span>
 
@@ -522,7 +579,12 @@ author_profile: true
 
 * [山东] Team干成立 [[合影]](/images/news/Team干成立.jpg) [[海报]](/images/news/Team干海报.jpg) [[视频]](https://v.douyu.com/show/jwzOvpODA4QWZVRm)
 
-## <span id="head2014"> 2014年 </span>
+
+</details>
+
+<details class="news-year" markdown="1">
+<summary><span id="head2014"> 2014年 </span></summary>
+
 
 ### <span id="head201410"> 10月</span>
 
@@ -532,24 +594,70 @@ author_profile: true
 
 * [广州] 参加CYCC悠悠球全国赛[[比赛视频]](https://www.bilibili.com/video/BV1dS4y197eh?p=92) [[嘉宾和组委会合影]](/images/news/2014CYCC合影.jpg) 
 
-## <span id="head2011"> 2011年 </span>
+
+</details>
+
+<details class="news-year" markdown="1">
+<summary><span id="head2011"> 2011年 </span></summary>
+
 
 * [广州/深圳] 参加制作《火力少年王》第四部之[《舞动火力》](https://baike.baidu.com/item/%E7%81%AB%E5%8A%9B%E5%B0%91%E5%B9%B4%E7%8E%8B%E4%B9%8B%E8%88%9E%E5%8A%A8%E7%81%AB%E5%8A%9B/2409871)
 
-## <span id="head2009"> 2009年 </span>
+
+</details>
+
+<details class="news-year" markdown="1">
+<summary><span id="head2009"> 2009年 </span></summary>
+
 
 * [长沙] 参加录制《天天向上》节目之[《YOYO球冠军 巅峰对决》](https://w.mgtv.com/b/293628/3241590.html)
 
-## <span id="head2008"> 2008年 </span>
+
+</details>
+
+<details class="news-year" markdown="1">
+<summary><span id="head2008"> 2008年 </span></summary>
+
 
 * [北影] 参演校园栏目剧《青春魔方》之[《爱情麻辣烫》](https://huolitangzhu.github.io/videos/)，饰演‘三儿’
 
-## <span id="head2006"> 2006年 </span>
+
+</details>
+
+<details class="news-year" markdown="1">
+<summary><span id="head2006"> 2006年 </span></summary>
+
 
 * [长沙] 参加录制《快乐大本营》节目并与谢X关系开始恶化
 
-## <span id="head1901"> 1901年 </span>
+
+</details>
+
+<details class="news-year" markdown="1">
+<summary><span id="head1901"> 1901年 </span></summary>
+
 
 * [洛阳] 慈禧西狩归京住宿洛阳赵家（主播说不是节目效果） [[不是证据]](https://imgoss.douyucdn.cn/bj/yuba/weibo/2021/06/30/202106301643421642942768319.jpg)
 
 ©️ 图片来自社媒公开内容
+
+</details>
+
+<script>
+(function () {
+  function openFor(id) {
+    var el = document.getElementById(id);
+    if (!el) { return; }
+    var p = el;
+    while (p && p.tagName && p.tagName.toLowerCase() !== 'details') { p = p.parentNode; }
+    if (p && p.tagName && !p.open) { p.open = true; }
+  }
+  try {
+    var links = document.querySelectorAll('a[href^="#head"]');
+    for (var i = 0; i < links.length; i++) {
+      links[i].addEventListener('click', function () { openFor(this.getAttribute('href').slice(1)); });
+    }
+    if (location.hash) { openFor(location.hash.slice(1)); }
+  } catch (err) {}
+})();
+</script>

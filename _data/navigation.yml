@@ -1,14 +1,23 @@
 # main links links
 main:
 
-  - title: "正能量"
-    url: /positive_energy/
+  - title: "介绍"
+    url: /
 
-  - title: "事件"
+  - title: "时间表"
     url: /news/
 
   - title: "影音"
     url: /videos/
-    
-  - title: "关于"
-    url: /issue/    
+
+  - title: "明信片"
+    url: /postcards/
+
+  - title: "正能量"
+    url: /positive_energy/
+
+  - title: "日本旅行"
+    url: /jpn_travel/
+
+  - title: "关于小站"
+    url: /issue/

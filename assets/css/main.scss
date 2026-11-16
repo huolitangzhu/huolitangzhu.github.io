@@ -232,3 +232,24 @@
   text-align: center;
   max-width: 100%;
 }
+
+/* 时间表: 年份折叠 */
+.news-year {
+  margin-bottom: 0.4em;
+}
+
+.news-year > summary {
+  cursor: pointer;
+  font-size: 1.563em;
+  font-weight: 700;
+  line-height: 1.3;
+  margin: 0.8em 0 0.4em;
+}
+
+.news-year > summary:hover {
+  opacity: 0.8;
+}
+
+.news-year[open] > summary {
+  margin-bottom: 0.6em;
+}
