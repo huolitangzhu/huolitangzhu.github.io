@@ -213,14 +213,6 @@ var PC_CITIES=[
     details.appendChild(ul);
     menu.appendChild(details);
   }
-  var reset = document.createElement('button');
-  reset.type = 'button';
-  reset.className = 'pc-reset';
-  reset.innerHTML = '重置视图';
-  reset.addEventListener('click', function () {
-    try { mapObj.setFocus(1, 0, 0); } catch (err) {}
-  });
-  menu.appendChild(reset);
 
   document.getElementById('pcPopupClose').addEventListener('click', closePopup);
   document.getElementById('pcPopup').addEventListener('click', function (e) {
