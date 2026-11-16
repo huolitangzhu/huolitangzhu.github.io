@@ -87,6 +87,14 @@ var PC_CITIES=[
 
 (function () {
   var PC_ISO = {"印度尼西亚":"ID","日本":"JP","印度":"IN","韩国":"KR","泰国":"TH","伊朗":"IR","中国":"CN","意大利":"IT","荷兰":"NL","波兰":"PL","俄罗斯":"RU","德国":"DE","英国":"GB","西班牙":"ES","拉脱维亚":"LV","白俄罗斯":"BY","立陶宛":"LT","斯洛文尼亚":"SI","比利时":"BE","圣马力诺":"SM","乌克兰":"UA","芬兰":"FI","波黑":"BA","美国":"US","加拿大":"CA","澳大利亚":"AU"};
+  // 国家按拼音 A-Z 排序
+  var PC_CN_SORT = ['澳大利亚','白俄罗斯','比利时','波黑','波兰','德国','俄罗斯','芬兰','韩国','荷兰','加拿大','拉脱维亚','立陶宛','美国','日本','圣马力诺','斯洛文尼亚','泰国','乌克兰','西班牙','意大利','伊朗','印度','印度尼西亚','英国','中国'];
+  function cnOrder(name) {
+    for (var k = 0; k < PC_CN_SORT.length; k++) {
+      if (PC_CN_SORT[k] === name) { return k; }
+    }
+    return 999;
+  }
   var markers = [];
   var markerCity = [];
   var i, c;
@@ -191,8 +199,13 @@ var PC_CITIES=[
     var row = document.createElement('div');
     row.className = 'pc-continent-countries';
     var countries = byCont[contName];
-    for (var cn in countries) {
-      if (!countries.hasOwnProperty(cn)) { continue; }
+    var names = [];
+    for (var ck in countries) {
+      if (countries.hasOwnProperty(ck)) { names.push(ck); }
+    }
+    names.sort(function (a, b) { return cnOrder(a) - cnOrder(b); });
+    for (var ni = 0; ni < names.length; ni++) {
+      var cn = names[ni];
       var arr = countries[cn];
       var icon = '';
       for (i = 0; i < arr.length; i++) {
