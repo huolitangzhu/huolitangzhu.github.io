@@ -1,0 +1,1751 @@
+[
+ {
+  "continent": "亚洲",
+  "countries": [
+   {
+    "name": "印度尼西亚",
+    "entries": [
+     {
+      "pre": "东爪哇省 诗都阿佐（阿拉伯语）",
+      "short": "诗都阿佐",
+      "lat": -7.7062,
+      "lng": 114.3494,
+      "cards": [
+       {
+        "image": "Indonesia4.jpg",
+        "note": "为一种植物"
+       }
+      ],
+      "region": "东爪哇省",
+      "cn": "印度尼西亚",
+      "lang": "阿拉伯语"
+     },
+     {
+      "pre": "廖内群岛省 巴淡",
+      "short": "巴淡",
+      "lat": 1.0456,
+      "lng": 104.0305,
+      "cards": [
+       {
+        "image": "Indonesia3.jpg",
+        "note": ""
+       }
+      ],
+      "region": "廖内群岛省",
+      "cn": "印度尼西亚",
+      "lang": ""
+     },
+     {
+      "pre": "雅加达（印尼语）",
+      "short": "雅加达",
+      "lat": -6.2088,
+      "lng": 106.8456,
+      "cards": [
+       {
+        "image": "Indonesia2.jpg",
+        "note": "为梵高的关于某植物的画作"
+       }
+      ],
+      "region": "雅加达首都特区",
+      "cn": "印度尼西亚",
+      "lang": "印尼语"
+     },
+     {
+      "pre": "巴厘岛（印尼语）",
+      "short": "巴厘岛",
+      "lat": -8.4095,
+      "lng": 115.1889,
+      "cards": [
+       {
+        "image": "Indonesia.png",
+        "note": "为主播在奥飞时期团建曾去的巴厘岛"
+       }
+      ],
+      "region": "巴厘省",
+      "cn": "印度尼西亚",
+      "lang": "印尼语"
+     }
+    ]
+   },
+   {
+    "name": "日本",
+    "entries": [
+     {
+      "pre": "兵库县神户市",
+      "short": "神户",
+      "lat": 34.6901,
+      "lng": 135.1955,
+      "cards": [
+       {
+        "image": "Japan7.jpg",
+        "note": ""
+       }
+      ],
+      "region": "兵库县",
+      "cn": "日本",
+      "lang": ""
+     },
+     {
+      "pre": "爱知县丰田市",
+      "short": "丰田",
+      "lat": 35.0814,
+      "lng": 137.1563,
+      "cards": [
+       {
+        "image": "Japan6.jpg",
+        "note": "为一种动物"
+       }
+      ],
+      "region": "爱知县",
+      "cn": "日本",
+      "lang": ""
+     },
+     {
+      "pre": "佐贺县",
+      "short": "佐贺",
+      "lat": 33.2494,
+      "lng": 130.2989,
+      "cards": [
+       {
+        "image": "Japan5.jpg",
+        "note": "为一种动物"
+       }
+      ],
+      "region": "佐贺县",
+      "cn": "日本",
+      "lang": ""
+     },
+     {
+      "pre": "爱媛县四国中央市",
+      "short": "四国中央市",
+      "lat": 33.9606,
+      "lng": 133.2805,
+      "cards": [
+       {
+        "image": "Japan4.jpg",
+        "note": "和邮票为一种植物"
+       }
+      ],
+      "region": "爱媛县",
+      "cn": "日本",
+      "lang": ""
+     },
+     {
+      "pre": "大阪（日语）",
+      "short": "大阪",
+      "lat": 34.6937,
+      "lng": 135.5023,
+      "cards": [
+       {
+        "image": "Japan3.jpg",
+        "note": "为一种动物和地藏佛像；"
+       },
+       {
+        "image": "Japan.jpg",
+        "note": ""
+       }
+      ],
+      "region": "大阪府",
+      "cn": "日本",
+      "lang": "日语"
+     },
+     {
+      "pre": "东京（日语）",
+      "short": "东京",
+      "lat": 35.6762,
+      "lng": 139.6503,
+      "cards": [
+       {
+        "image": "Japan2.jpg",
+        "note": "为主播家乡の二次元"
+       }
+      ],
+      "region": "东京都",
+      "cn": "日本",
+      "lang": "日语"
+     }
+    ]
+   },
+   {
+    "name": "印度 新德里（印度语）",
+    "entries": [
+     {
+      "pre": "印度 新德里（印度语）",
+      "short": "新德里",
+      "lat": 28.6139,
+      "lng": 77.209,
+      "cards": [
+       {
+        "image": "India.jpg",
+        "note": ""
+       }
+      ],
+      "region": "德里国家首都辖区",
+      "cn": "印度",
+      "lang": "印度语"
+     }
+    ]
+   },
+   {
+    "name": "韩国 首尔（韩语）",
+    "entries": [
+     {
+      "pre": "韩国 首尔（韩语）",
+      "short": "首尔",
+      "lat": 37.5665,
+      "lng": 126.978,
+      "cards": [
+       {
+        "image": "Korea.jpg",
+        "note": "为一种动物"
+       }
+      ],
+      "region": "首尔特别市",
+      "cn": "韩国",
+      "lang": "韩语"
+     }
+    ]
+   },
+   {
+    "name": "泰国 曼谷（泰语）",
+    "entries": [
+     {
+      "pre": "泰国 曼谷（泰语）",
+      "short": "曼谷",
+      "lat": 13.7563,
+      "lng": 100.5018,
+      "cards": [
+       {
+        "image": "Thailand.png",
+        "note": "为主播喜欢的拳击运动"
+       }
+      ],
+      "region": "",
+      "cn": "泰国",
+      "lang": "泰语"
+     }
+    ]
+   },
+   {
+    "name": "伊朗 德黑兰（阿拉伯语）",
+    "entries": [
+     {
+      "pre": "伊朗 德黑兰（阿拉伯语）",
+      "short": "德黑兰",
+      "lat": 35.6892,
+      "lng": 51.389,
+      "cards": [
+       {
+        "image": "Iran.jpg",
+        "note": ""
+       }
+      ],
+      "region": "德黑兰省",
+      "cn": "伊朗",
+      "lang": "阿拉伯语"
+     }
+    ]
+   },
+   {
+    "name": "中国",
+    "entries": [
+     {
+      "pre": "河北省 保定",
+      "short": "保定",
+      "lat": 38.874,
+      "lng": 115.4646,
+      "cards": [
+       {
+        "image": "ChinaBaoding.jpeg",
+        "note": ""
+       }
+      ],
+      "region": "河北省",
+      "cn": "中国",
+      "lang": ""
+     },
+     {
+      "pre": "北京",
+      "short": "北京",
+      "lat": 39.9042,
+      "lng": 116.4074,
+      "cards": [
+       {
+        "image": "China_Peking.jpg",
+        "note": ""
+       }
+      ],
+      "region": "北京市",
+      "cn": "中国",
+      "lang": ""
+     },
+     {
+      "pre": "上海",
+      "short": "上海",
+      "lat": 31.2304,
+      "lng": 121.4737,
+      "cards": [
+       {
+        "image": "China_Shanghai.jpg",
+        "note": ""
+       },
+       {
+        "image": "China_Shanghai2.jpg",
+        "note": ""
+       }
+      ],
+      "region": "上海市",
+      "cn": "中国",
+      "lang": ""
+     },
+     {
+      "pre": "广州",
+      "short": "广州",
+      "lat": 23.1291,
+      "lng": 113.2644,
+      "cards": [
+       {
+        "image": "Guangzhou.jpg",
+        "note": ""
+       }
+      ],
+      "region": "广东省",
+      "cn": "中国",
+      "lang": ""
+     },
+     {
+      "pre": "苗栗",
+      "short": "苗栗",
+      "region": "台湾省",
+      "lang": "",
+      "cn": "中国",
+      "lat": 24.5602,
+      "lng": 120.8214,
+      "cards": [
+       {
+        "image": "China_TW1.jpg",
+        "note": ""
+       }
+      ]
+     },
+     {
+      "pre": "台北",
+      "short": "台北",
+      "region": "台湾省",
+      "lang": "",
+      "cn": "中国",
+      "lat": 25.033,
+      "lng": 121.5654,
+      "cards": [
+       {
+        "image": "China_TW2.jpg",
+        "note": ""
+       },
+       {
+        "image": "China_TW5.jpg",
+        "note": ""
+       }
+      ]
+     },
+     {
+      "pre": "屏东",
+      "short": "屏东",
+      "region": "台湾省",
+      "lang": "",
+      "cn": "中国",
+      "lat": 22.6761,
+      "lng": 120.4942,
+      "cards": [
+       {
+        "image": "China_TW3.jpg",
+        "note": ""
+       }
+      ]
+     },
+     {
+      "pre": "高雄",
+      "short": "高雄",
+      "region": "台湾省",
+      "lang": "",
+      "cn": "中国",
+      "lat": 22.6273,
+      "lng": 120.3014,
+      "cards": [
+       {
+        "image": "China_TW4.jpg",
+        "note": ""
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "continent": "欧洲",
+  "countries": [
+   {
+    "name": "意大利 帕多瓦省 帕多瓦",
+    "entries": [
+     {
+      "pre": "意大利 帕多瓦省 帕多瓦",
+      "short": "帕多瓦",
+      "lat": 45.4064,
+      "lng": 11.8768,
+      "cards": [
+       {
+        "image": "Italy.jpg",
+        "note": "从左到右是**佛罗伦萨**的乔托钟楼，圣母百花圣殿穹顶和旧宫塔"
+       }
+      ],
+      "region": "帕多瓦省",
+      "cn": "意大利",
+      "lang": ""
+     }
+    ]
+   },
+   {
+    "name": "荷兰",
+    "entries": [
+     {
+      "pre": "德伦特省 阿森",
+      "short": "阿森",
+      "lat": 52.9925,
+      "lng": 6.5642,
+      "cards": [
+       {
+        "image": "Holland5.jpg",
+        "note": "为郁金香和风车"
+       }
+      ],
+      "region": "德伦特省",
+      "cn": "荷兰",
+      "lang": ""
+     },
+     {
+      "pre": "北荷兰省 阿姆斯特丹（荷语）",
+      "short": "阿姆斯特丹",
+      "lat": 52.3676,
+      "lng": 4.9041,
+      "cards": [
+       {
+        "image": "Holland4.jpg",
+        "note": "为荷兰皇家航空"
+       }
+      ],
+      "region": "北荷兰省",
+      "cn": "荷兰",
+      "lang": "荷语"
+     },
+     {
+      "pre": "弗莱福兰省 德龙滕（荷语）",
+      "short": "德龙滕",
+      "lat": 52.5251,
+      "lng": 5.7181,
+      "cards": [
+       {
+        "image": "Holland3.jpg",
+        "note": "和邮票均为流苏鹬"
+       }
+      ],
+      "region": "弗莱福兰省",
+      "cn": "荷兰",
+      "lang": "荷语"
+     },
+     {
+      "pre": "泽兰省 米德尔堡（荷语）",
+      "short": "米德尔堡",
+      "lat": 51.4995,
+      "lng": 3.6109,
+      "cards": [
+       {
+        "image": "Holland2.jpg",
+        "note": "为小丑涂脸"
+       }
+      ],
+      "region": "泽兰省",
+      "cn": "荷兰",
+      "lang": "荷语"
+     },
+     {
+      "pre": "格罗宁根省 格罗宁根（荷兰语）",
+      "short": "格罗宁根",
+      "lat": 53.2194,
+      "lng": 6.5675,
+      "cards": [
+       {
+        "image": "Holland.png",
+        "note": "为主播家乡标志性的风车"
+       }
+      ],
+      "region": "格罗宁根省",
+      "cn": "荷兰",
+      "lang": "荷兰语"
+     }
+    ]
+   },
+   {
+    "name": "波兰",
+    "entries": [
+     {
+      "pre": "马佐夫舍省 华沙（波兰语/乌克兰语）",
+      "short": "华沙",
+      "lat": 52.2297,
+      "lng": 21.0122,
+      "cards": [
+       {
+        "image": "Poland2.jpg",
+        "note": "为波兰著名菜Bigos，很像主播吃过的一种食物"
+       }
+      ],
+      "region": "马佐夫舍省",
+      "cn": "波兰",
+      "lang": "波兰语/乌克兰语"
+     },
+     {
+      "pre": "滨海省 格但斯克（波兰语）",
+      "short": "格但斯克",
+      "lat": 54.352,
+      "lng": 18.6466,
+      "cards": [
+       {
+        "image": "Poland.jpg",
+        "note": "为格但斯克老城区"
+       }
+      ],
+      "region": "滨海省",
+      "cn": "波兰",
+      "lang": "波兰语"
+     }
+    ]
+   },
+   {
+    "name": "俄罗斯",
+    "entries": [
+     {
+      "name": "莫斯科州",
+      "cities": [
+       {
+        "pre": "莫斯科（俄语）",
+        "short": "莫斯科",
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "cards": [
+         {
+          "image": "Russia9.jpg",
+          "note": "为圣彼得堡[涅瓦大街](https://baike.baidu.com/item/%E6%B6%85%E7%93%A6%E5%A4%A7%E8%A1%97/1398384)；"
+         },
+         {
+          "image": "Russia6.jpg",
+          "note": "；"
+         },
+         {
+          "image": "Russia5.jpeg",
+          "note": "为克里姆林宫红色五星"
+         }
+        ],
+        "region": "莫斯科州",
+        "cn": "俄罗斯",
+        "lang": "俄语"
+       },
+       {
+        "pre": "伊斯特拉",
+        "short": "伊斯特拉",
+        "lat": 55.915,
+        "lng": 36.86,
+        "cards": [
+         {
+          "image": "Russia2.jpg",
+          "note": "为克里姆林宫和大石桥"
+         }
+        ],
+        "region": "莫斯科州",
+        "cn": "俄罗斯",
+        "lang": ""
+       }
+      ]
+     },
+     {
+      "pre": "彼尔姆边疆区 彼尔姆",
+      "short": "彼尔姆",
+      "lat": 58.0105,
+      "lng": 56.2502,
+      "cards": [
+       {
+        "image": "Russia8.jpg",
+        "note": "为主播故乡的Sakura，邮票为摩托车和飞机特殊邮票"
+       }
+      ],
+      "region": "彼尔姆边疆区",
+      "cn": "俄罗斯",
+      "lang": ""
+     },
+     {
+      "pre": "斯维尔德洛夫斯克州 叶卡捷琳堡（俄语）",
+      "short": "叶卡捷琳堡",
+      "lat": 56.8389,
+      "lng": 60.6057,
+      "cards": [
+       {
+        "image": "Russia7.jpg",
+        "note": "视角来自主播喜欢的飞机座舱"
+       }
+      ],
+      "region": "斯维尔德洛夫斯克州",
+      "cn": "俄罗斯",
+      "lang": "俄语"
+     },
+     {
+      "pre": "乌拉尔联邦 库尔干",
+      "short": "库尔干",
+      "lat": 55.45,
+      "lng": 65.3333,
+      "cards": [
+       {
+        "image": "Russia4.jpeg",
+        "note": ""
+       }
+      ],
+      "region": "乌拉尔联邦",
+      "cn": "俄罗斯",
+      "lang": ""
+     },
+     {
+      "pre": "外贝加尔边疆区 赤塔",
+      "short": "赤塔",
+      "lat": 52.034,
+      "lng": 113.4994,
+      "cards": [
+       {
+        "image": "Russia3.jpg",
+        "note": "为主播喜欢的飞机"
+       }
+      ],
+      "region": "外贝加尔边疆区",
+      "cn": "俄罗斯",
+      "lang": ""
+     },
+     {
+      "pre": "中部联邦管区 梁赞（俄语）",
+      "short": "梁赞",
+      "lat": 54.6269,
+      "lng": 39.6916,
+      "cards": [
+       {
+        "image": "Russia.jpg",
+        "note": ""
+       }
+      ],
+      "region": "中部联邦管区",
+      "cn": "俄罗斯",
+      "lang": "俄语"
+     }
+    ]
+   },
+   {
+    "name": "德国",
+    "entries": [
+     {
+      "name": "莱茵兰-普法尔茨州",
+      "cities": [
+       {
+        "pre": "美因茨",
+        "short": "美因茨",
+        "lat": 49.9929,
+        "lng": 8.2473,
+        "cards": [
+         {
+          "image": "Germany8.jpg",
+          "note": "为一大片植物"
+         }
+        ],
+        "region": "莱茵兰-普法尔茨州",
+        "cn": "德国",
+        "lang": ""
+       }
+      ]
+     },
+     {
+      "pre": "诺伊施塔特",
+      "short": "诺伊施塔特",
+      "lat": 54.1066,
+      "lng": 10.8142,
+      "cards": [
+       {
+        "image": "Germany19.jpg",
+        "note": "和邮票均为一种植物"
+       }
+      ],
+      "region": "石勒苏益格-荷尔斯泰因州",
+      "cn": "德国",
+      "lang": ""
+     },
+     {
+      "pre": "汉堡",
+      "short": "汉堡",
+      "lat": 53.5511,
+      "lng": 9.9937,
+      "cards": [
+       {
+        "image": "Germany18.jpg",
+        "note": "为汉堡港"
+       }
+      ],
+      "region": "汉堡州",
+      "cn": "德国",
+      "lang": ""
+     },
+     {
+      "pre": "石勒苏益格-荷尔斯泰因州 基尔",
+      "short": "基尔",
+      "lat": 54.3233,
+      "lng": 10.1228,
+      "cards": [
+       {
+        "image": "Germany17.jpg",
+        "note": ""
+       }
+      ],
+      "region": "石勒苏益格-荷尔斯泰因州",
+      "cn": "德国",
+      "lang": ""
+     },
+     {
+      "pre": "萨尔州 萨尔布吕肯",
+      "short": "萨尔布吕肯",
+      "lat": 49.2402,
+      "lng": 6.9969,
+      "cards": [
+       {
+        "image": "Germany16.jpg",
+        "note": ""
+       }
+      ],
+      "region": "萨尔州",
+      "cn": "德国",
+      "lang": ""
+     },
+     {
+      "name": "北莱茵-威斯特法伦州",
+      "cities": [
+       {
+        "pre": "杜伊斯堡",
+        "short": "杜伊斯堡",
+        "lat": 51.4344,
+        "lng": 6.7623,
+        "cards": [
+         {
+          "image": "Germany15.jpg",
+          "note": ""
+         }
+        ],
+        "region": "北莱茵-威斯特法伦州",
+        "cn": "德国",
+        "lang": ""
+       },
+       {
+        "pre": "多特蒙德（德语）",
+        "short": "多特蒙德",
+        "lat": 51.5136,
+        "lng": 7.4653,
+        "cards": [
+         {
+          "image": "Germany13.jpg",
+          "note": "为主播喜欢的飞机（汉莎城际航空）；"
+         },
+         {
+          "image": "Germany6.jpg",
+          "note": ""
+         }
+        ],
+        "region": "北莱茵-威斯特法伦州",
+        "cn": "德国",
+        "lang": "德语"
+       },
+       {
+        "pre": "埃森",
+        "short": "埃森",
+        "lat": 51.4556,
+        "lng": 7.0116,
+        "cards": [
+         {
+          "image": "Germany7.jpg",
+          "note": "为一种动物"
+         }
+        ],
+        "region": "北莱茵-威斯特法伦州",
+        "cn": "德国",
+        "lang": ""
+       },
+       {
+        "pre": "诺图尔恩（德语）",
+        "short": "诺德霍恩",
+        "lat": 52.4333,
+        "lng": 7.0833,
+        "cards": [
+         {
+          "image": "Germany5.jpg",
+          "note": "为当地圣马丁教堂"
+         }
+        ],
+        "region": "北莱茵-威斯特法伦州",
+        "cn": "德国",
+        "lang": "德语"
+       }
+      ]
+     },
+     {
+      "pre": "巴登-符腾堡州 曼海姆（德语）",
+      "short": "曼海姆",
+      "lat": 49.4875,
+      "lng": 8.466,
+      "cards": [
+       {
+        "image": "Germany14.jpg",
+        "note": "为一种动物"
+       }
+      ],
+      "region": "巴登-符腾堡州",
+      "cn": "德国",
+      "lang": "德语"
+     },
+     {
+      "pre": "石勒苏益格－荷尔斯泰因州 埃肯弗德（德语）",
+      "short": "埃肯弗德",
+      "lat": 54.4667,
+      "lng": 9.8333,
+      "cards": [
+       {
+        "image": "Germany12.jpg",
+        "note": "为一种植物"
+       }
+      ],
+      "region": "石勒苏益格-荷尔斯泰因州",
+      "cn": "德国",
+      "lang": "德语"
+     },
+     {
+      "name": "下萨克森州",
+      "cities": [
+       {
+        "pre": "奥尔登堡",
+        "short": "奥尔登堡",
+        "lat": 53.1439,
+        "lng": 8.2146,
+        "cards": [
+         {
+          "image": "Germany11.jpg",
+          "note": "为德国女物理学家[莉泽·迈特纳](https://baike.sogou.com/m/fullLemma?lid=4894151)"
+         }
+        ],
+        "region": "下萨克森州",
+        "cn": "德国",
+        "lang": ""
+       }
+      ]
+     },
+     {
+      "name": "巴伐利亚州",
+      "cities": [
+       {
+        "pre": "英戈尔施塔特（德语)",
+        "short": "英戈尔施塔特",
+        "lat": 48.7636,
+        "lng": 11.425,
+        "cards": [
+         {
+          "image": "Germany10.jpg",
+          "note": ""
+         }
+        ],
+        "region": "巴伐利亚州",
+        "cn": "德国",
+        "lang": "德语"
+       },
+       {
+        "pre": "库尔姆巴赫",
+        "short": "库尔姆巴赫",
+        "lat": 50.1008,
+        "lng": 11.4386,
+        "cards": [
+         {
+          "image": "Germany3.jpg",
+          "note": "为勃兰登堡门"
+         },
+         {
+          "image": "Germany4.jpg",
+          "note": "为德国画家[奥古斯特·马克](https://baike.baidu.com/item/%E5%A5%A5%E5%8F%A4%E6%96%AF%E7%89%B9%C2%B7%E9%A9%AC%E5%85%8B/382206)画作《在公园里散步（Spaziergang im Park）》"
+         }
+        ],
+        "region": "巴伐利亚州",
+        "cn": "德国",
+        "lang": ""
+       },
+       {
+        "pre": "慕尼黑",
+        "short": "慕尼黑",
+        "lat": 48.1351,
+        "lng": 11.582,
+        "cards": [
+         {
+          "image": "Germany2.jpg",
+          "note": "为德国拳击运动员[亨利·马斯克](https://baike.baidu.com/item/%E4%BA%A8%E5%88%A9%C2%B7%E9%A9%AC%E6%96%AF%E5%85%8B/9095594)及其签名"
+         }
+        ],
+        "region": "巴伐利亚州",
+        "cn": "德国",
+        "lang": ""
+       }
+      ]
+     },
+     {
+      "pre": "柏林",
+      "short": "柏林",
+      "lat": 52.52,
+      "lng": 13.405,
+      "cards": [
+       {
+        "image": "Germany9.jpg",
+        "note": "为家乡の富士山"
+       }
+      ],
+      "region": "柏林州",
+      "cn": "德国",
+      "lang": ""
+     },
+     {
+      "pre": "黑森州 大乌姆施塔特（德语）",
+      "short": "大乌姆施塔特",
+      "lat": 49.9056,
+      "lng": 8.9353,
+      "cards": [
+       {
+        "image": "Germany.jpg",
+        "note": "为一种植物"
+       }
+      ],
+      "region": "黑森州",
+      "cn": "德国",
+      "lang": "德语"
+     }
+    ]
+   },
+   {
+    "name": "英国",
+    "entries": [
+     {
+      "pre": "布里斯托",
+      "short": "布里斯托",
+      "lat": 51.4545,
+      "lng": -2.5879,
+      "cards": [
+       {
+        "image": "UK3.jpg",
+        "note": "为主播喜欢的飞机[协和式](https://baike.baidu.com/item/%E5%8D%8F%E5%92%8C%E5%BC%8F%E9%A3%9E%E6%9C%BA/5040149)，邮票图案是缅因猫"
+       }
+      ],
+      "region": "英格兰",
+      "cn": "英国",
+      "lang": ""
+     },
+     {
+      "pre": "威尔士公国 卡迪夫",
+      "short": "卡迪夫",
+      "lat": 51.4816,
+      "lng": -3.1791,
+      "cards": [
+       {
+        "image": "UK2.jpg",
+        "note": "为一种植物，邮票为女王纪念特殊邮票"
+       }
+      ],
+      "region": "威尔士公国",
+      "cn": "英国",
+      "lang": ""
+     },
+     {
+      "pre": "萨里郡 大布克姆",
+      "short": "大布克姆",
+      "lat": 51.2798,
+      "lng": -0.3736,
+      "cards": [
+       {
+        "image": "UK.jpg",
+        "note": "为英国国家邮政博物馆馆藏品，"
+       }
+      ],
+      "region": "萨里郡",
+      "cn": "英国",
+      "lang": ""
+     }
+    ]
+   },
+   {
+    "name": "西班牙 阿拉贡自治区韦斯卡省 格拉年（西班牙语）",
+    "entries": [
+     {
+      "pre": "西班牙 阿拉贡自治区韦斯卡省 格拉年（西班牙语）",
+      "short": "格拉年",
+      "lat": 42.2972,
+      "lng": -0.7483,
+      "cards": [
+       {
+        "image": "Spain.jpg",
+        "note": "为里格洛斯岩"
+       }
+      ],
+      "region": "阿拉贡自治区韦斯卡省",
+      "cn": "西班牙",
+      "lang": "西班牙语"
+     }
+    ]
+   },
+   {
+    "name": "拉脱维亚（英语/拉脱维亚语）",
+    "entries": [
+     {
+      "pre": "拉脱维亚（英语/拉脱维亚语）",
+      "short": "锡古尔达",
+      "lat": 57.1522,
+      "lng": 24.8456,
+      "cards": [
+       {
+        "image": "Latvia.jpg",
+        "note": "为锡古尔达"
+       }
+      ],
+      "region": "锡古尔达自治市",
+      "cn": "拉脱维亚",
+      "lang": "英语/拉脱维亚语"
+     }
+    ]
+   },
+   {
+    "name": "白俄罗斯 明斯克",
+    "entries": [
+     {
+      "pre": "白俄罗斯 明斯克",
+      "short": "明斯克",
+      "lat": 53.9006,
+      "lng": 27.559,
+      "cards": [
+       {
+        "image": "Belarus2.jpg",
+        "note": "为奥尔沙耶稣会学院；"
+       },
+       {
+        "image": "Belarus.jpg",
+        "note": "为维帖布斯克某教堂"
+       }
+      ],
+      "region": "",
+      "cn": "白俄罗斯",
+      "lang": ""
+     }
+    ]
+   },
+   {
+    "name": "立陶宛 考纳斯（立陶宛语）",
+    "entries": [
+     {
+      "pre": "立陶宛 考纳斯（立陶宛语）",
+      "short": "考纳斯",
+      "lat": 54.8742,
+      "lng": 23.9036,
+      "cards": [
+       {
+        "image": "Lithuania2.jpg",
+        "note": "和邮票均为主播喜欢的飞机；"
+       },
+       {
+        "image": "Lithuania.jpg",
+        "note": "为立陶宛城市维尔基亚"
+       }
+      ],
+      "region": "考纳斯县",
+      "cn": "立陶宛",
+      "lang": "立陶宛语"
+     }
+    ]
+   },
+   {
+    "name": "斯洛文尼亚 卢布尔雅那（斯洛文尼亚语）",
+    "entries": [
+     {
+      "pre": "斯洛文尼亚 卢布尔雅那（斯洛文尼亚语）",
+      "short": "卢布尔雅那",
+      "lat": 46.0569,
+      "lng": 14.5058,
+      "cards": [
+       {
+        "image": "Slovenia.jpg",
+        "note": "为当地神话人物的卡通图案"
+       }
+      ],
+      "region": "卢布尔雅那城市自治市",
+      "cn": "斯洛文尼亚",
+      "lang": "斯洛文尼亚语"
+     }
+    ]
+   },
+   {
+    "name": "比利时 弗拉芒大區安特衛普省 蒂伦豪特（法语）",
+    "entries": [
+     {
+      "pre": "比利时 弗拉芒大區安特衛普省 蒂伦豪特（法语）",
+      "short": "蒂伦豪特",
+      "lat": 51.3225,
+      "lng": 4.9428,
+      "cards": [
+       {
+        "image": "Belgium.jpg",
+        "note": ""
+       }
+      ],
+      "region": "弗拉芒大區安特衛普省",
+      "cn": "比利时",
+      "lang": "法语"
+     }
+    ]
+   },
+   {
+    "name": "圣马力诺（意大利语）",
+    "entries": [
+     {
+      "pre": "圣马力诺（意大利语）",
+      "short": "圣马力诺",
+      "lat": 43.9424,
+      "lng": 12.4578,
+      "cards": [
+       {
+        "image": "SanMarino.jpg",
+        "note": "，邮戳为[第134届Veronafil特殊邮戳](https://www.veronafil.it/immagini/fotodb.php?tipo=sezioni&idf=452)和[Borgo Maggiore邮局特殊邮戳](https://www.poste.sm/on-line/home/chi-siamo/uffici-postali/scheda46098293.html)，这个明信片来自于本人委托发信人在圣马力诺邮局参加意大利维罗纳Veronafil活动时所设摊位投递，后转到圣马力诺当地邮局寄出"
+       }
+      ],
+      "region": "",
+      "cn": "圣马力诺",
+      "lang": "意大利语"
+     }
+    ]
+   },
+   {
+    "name": "乌克兰 基辅",
+    "entries": [
+     {
+      "pre": "乌克兰 基辅",
+      "short": "基辅",
+      "lat": 50.4501,
+      "lng": 30.5234,
+      "cards": [
+       {
+        "image": "Ukraine1.jpg",
+        "note": "文字翻译为“记住最珍爱的”"
+       }
+      ],
+      "region": "",
+      "cn": "乌克兰",
+      "lang": ""
+     }
+    ]
+   },
+   {
+    "name": "芬兰 西芬兰省（芬兰语）",
+    "entries": [
+     {
+      "pre": "西芬兰省 劳马（芬兰语）",
+      "short": "劳马",
+      "lat": 61.1289,
+      "lng": 21.5039,
+      "cards": [
+       {
+        "image": "Finland.jpg",
+        "note": "为一种植物"
+       }
+      ],
+      "region": "西芬兰省",
+      "cn": "芬兰",
+      "lang": "芬兰语"
+     }
+    ]
+   },
+   {
+    "name": "波黑 萨拉热窝（德语）",
+    "entries": [
+     {
+      "pre": "波黑 萨拉热窝（德语）",
+      "short": "萨拉热窝",
+      "lat": 43.8563,
+      "lng": 18.4131,
+      "cards": [
+       {
+        "image": "BiH.jpg",
+        "note": ""
+       }
+      ],
+      "region": "萨拉热窝州",
+      "cn": "波黑",
+      "lang": "德语"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "continent": "北美洲",
+  "countries": [
+   {
+    "name": "美国",
+    "entries": [
+     {
+      "pre": "新泽西州 开普梅",
+      "short": "开普梅",
+      "lat": 38.9701,
+      "lng": -74.936,
+      "cards": [
+       {
+        "image": "USA30.jpg",
+        "note": "为一种运动，邮票为一种植物"
+       }
+      ],
+      "region": "新泽西州",
+      "cn": "美国",
+      "lang": ""
+     },
+     {
+      "pre": "马萨诸塞州 科德角",
+      "short": "科德角",
+      "lat": 41.6678,
+      "lng": -70.05,
+      "cards": [
+       {
+        "image": "USA29.jpg",
+        "note": "为超人，邮票为一种植物"
+       }
+      ],
+      "region": "马萨诸塞州",
+      "cn": "美国",
+      "lang": ""
+     },
+     {
+      "name": "华盛顿州",
+      "cities": [
+       {
+        "pre": "西雅图（中文）",
+        "short": "西雅图",
+        "lat": 47.6062,
+        "lng": -122.3321,
+        "cards": [
+         {
+          "image": "USA28.jpg",
+          "note": "为主播家乡的富士山，邮票为一种植物"
+         }
+        ],
+        "region": "华盛顿州",
+        "cn": "美国",
+        "lang": "中文"
+       },
+       {
+        "pre": "斯波坎",
+        "short": "斯波坎",
+        "lat": 47.6588,
+        "lng": -117.426,
+        "cards": [
+         {
+          "image": "USA17.jpg",
+          "note": "为华盛顿州州花海滨杜鹃和州鸟美洲金翅雀"
+         }
+        ],
+        "region": "华盛顿州",
+        "cn": "美国",
+        "lang": ""
+       }
+      ]
+     },
+     {
+      "name": "纽约州",
+      "cities": [
+       {
+        "pre": "罗切斯特",
+        "short": "罗切斯特",
+        "lat": 43.1566,
+        "lng": -77.6088,
+        "cards": [
+         {
+          "image": "USA24.jpg",
+          "note": ""
+         }
+        ],
+        "region": "纽约州",
+        "cn": "美国",
+        "lang": ""
+       },
+       {
+        "pre": "纽约",
+        "short": "纽约",
+        "lat": 40.7128,
+        "lng": -74.006,
+        "cards": [
+         {
+          "image": "USA6.jpg",
+          "note": "为自由女神像"
+         }
+        ],
+        "region": "纽约州",
+        "cn": "美国",
+        "lang": ""
+       }
+      ]
+     },
+     {
+      "pre": "哈德逊",
+      "short": "哈德逊",
+      "lat": 41.2401,
+      "lng": -81.4407,
+      "cards": [
+       {
+        "image": "USA27.jpg",
+        "note": "为一种动物；"
+       },
+       {
+        "image": "USA20.jpg",
+        "note": "为[库雅荷加谷国家公园](https://baike.baidu.com/item/%E5%BA%93%E9%9B%85%E8%8D%B7%E5%8A%A0%E8%B0%B7%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD/15275303)"
+       }
+      ],
+      "region": "俄亥俄州",
+      "cn": "美国",
+      "lang": ""
+     },
+     {
+      "pre": "内达华州 拉斯维加斯",
+      "short": "拉斯维加斯",
+      "lat": 36.1699,
+      "lng": -115.1398,
+      "cards": [
+       {
+        "image": "USA26.jpg",
+        "note": "为拉斯维加斯当地景观，邮票为一种植物"
+       }
+      ],
+      "region": "内达华州",
+      "cn": "美国",
+      "lang": ""
+     },
+     {
+      "name": "得克萨斯州",
+      "cities": [
+       {
+        "pre": "达拉斯",
+        "short": "达拉斯",
+        "lat": 32.7767,
+        "lng": -96.797,
+        "cards": [
+         {
+          "image": "USA25.jpg",
+          "note": "为一种动物，邮票为一种植物"
+         }
+        ],
+        "region": "得克萨斯州",
+        "cn": "美国",
+        "lang": ""
+       },
+       {
+        "pre": "胡德堡",
+        "short": "胡德堡",
+        "lat": 31.135,
+        "lng": -97.7811,
+        "cards": [
+         {
+          "image": "USA19.jpg",
+          "note": "为德州州花矢车菊"
+         }
+        ],
+        "region": "得克萨斯州",
+        "cn": "美国",
+        "lang": ""
+       }
+      ]
+     },
+     {
+      "name": "俄亥俄州",
+      "cities": [
+       {
+        "pre": "代顿",
+        "short": "代顿",
+        "lat": 39.7589,
+        "lng": -84.1916,
+        "cards": [
+         {
+          "image": "USA23.jpg",
+          "note": ""
+         }
+        ],
+        "region": "俄亥俄州",
+        "cn": "美国",
+        "lang": ""
+       },
+       {
+        "pre": "伊利里亚",
+        "short": "伊利里亚",
+        "lat": 41.3684,
+        "lng": -82.1077,
+        "cards": [
+         {
+          "image": "USA18.jpg",
+          "note": ""
+         }
+        ],
+        "region": "俄亥俄州",
+        "cn": "美国",
+        "lang": ""
+       }
+      ]
+     },
+     {
+      "pre": "宾夕法尼亚州 阿尔图纳",
+      "short": "阿尔图纳",
+      "lat": 40.5187,
+      "lng": -78.3947,
+      "cards": [
+       {
+        "image": "USA22.jpg",
+        "note": ""
+       }
+      ],
+      "region": "宾夕法尼亚州",
+      "cn": "美国",
+      "lang": ""
+     },
+     {
+      "name": "路易斯安那州",
+      "cities": [
+       {
+        "pre": "雷斯兰",
+        "short": "雷斯兰",
+        "lat": 29.7274,
+        "lng": -90.5987,
+        "cards": [
+         {
+          "image": "USA21.jpg",
+          "note": ""
+         }
+        ],
+        "region": "路易斯安那州",
+        "cn": "美国",
+        "lang": ""
+       },
+       {
+        "pre": "新奥尔良",
+        "short": "新奥尔良",
+        "lat": 29.9511,
+        "lng": -90.0715,
+        "cards": [
+         {
+          "image": "USA3.jpg",
+          "note": "；"
+         },
+         {
+          "image": "USA.jpg",
+          "note": "为喜剧大师卓别林"
+         }
+        ],
+        "region": "路易斯安那州",
+        "cn": "美国",
+        "lang": ""
+       }
+      ]
+     },
+     {
+      "name": "亚利桑那洲",
+      "cities": [
+       {
+        "pre": "旗手市",
+        "short": "旗手市",
+        "lat": 35.1983,
+        "lng": -111.6513,
+        "cards": [
+         {
+          "image": "USA16.jpg",
+          "note": "为阿波罗11号随主播喜欢的火箭发射"
+         }
+        ],
+        "region": "亚利桑那洲",
+        "cn": "美国",
+        "lang": ""
+       },
+       {
+        "pre": "凤凰城",
+        "short": "凤凰城",
+        "lat": 33.4484,
+        "lng": -112.074,
+        "cards": [
+         {
+          "image": "USA13.jpg",
+          "note": "为亚利桑那州代表性的仙人掌，"
+         }
+        ],
+        "region": "亚利桑那洲",
+        "cn": "美国",
+        "lang": ""
+       }
+      ]
+     },
+     {
+      "pre": "印地安纳州 谢尔比",
+      "short": "谢尔比",
+      "lat": 39.8828,
+      "lng": -85.7933,
+      "cards": [
+       {
+        "image": "USA15.jpg",
+        "note": ""
+       }
+      ],
+      "region": "印地安纳州",
+      "cn": "美国",
+      "lang": ""
+     },
+     {
+      "pre": "威斯康星州 拉克罗斯",
+      "short": "拉克罗斯",
+      "lat": 43.8014,
+      "lng": -91.2396,
+      "cards": [
+       {
+        "image": "USA14.jpg",
+        "note": "为[印第安纳波利斯赛车场](https://baike.baidu.com/item/%E5%8D%B0%E7%AC%AC%E5%AE%89%E7%BA%B3%E6%B3%A2%E5%88%A9%E6%96%AF%E8%B5%9B%E8%BD%A6%E5%9C%BA/1967899)"
+       }
+      ],
+      "region": "威斯康星州",
+      "cn": "美国",
+      "lang": ""
+     },
+     {
+      "name": "加利福尼亚州",
+      "cities": [
+       {
+        "pre": "圣克拉拉",
+        "short": "圣克拉拉",
+        "lat": 37.3541,
+        "lng": -121.9552,
+        "cards": [
+         {
+          "image": "USA12.jpg",
+          "note": "为一种运动"
+         }
+        ],
+        "region": "加利福尼亚州",
+        "cn": "美国",
+        "lang": ""
+       },
+       {
+        "pre": "洛杉矶",
+        "short": "洛杉矶",
+        "lat": 34.0522,
+        "lng": -118.2437,
+        "cards": [
+         {
+          "image": "USA2.jpg",
+          "note": "为一种运动"
+         }
+        ],
+        "region": "加利福尼亚州",
+        "cn": "美国",
+        "lang": ""
+       }
+      ]
+     },
+     {
+      "pre": "南卡罗来纳州 查尔斯顿港",
+      "short": "查尔斯顿港",
+      "lat": 32.7765,
+      "lng": -79.9311,
+      "cards": [
+       {
+        "image": "USA11.jpg",
+        "note": "为火烈鸟"
+       }
+      ],
+      "region": "南卡罗来纳州",
+      "cn": "美国",
+      "lang": ""
+     },
+     {
+      "pre": "科罗拉多州 丹佛",
+      "short": "丹佛",
+      "lat": 39.7392,
+      "lng": -104.9903,
+      "cards": [
+       {
+        "image": "USA10.jpg",
+        "note": "为一种动物"
+       }
+      ],
+      "region": "科罗拉多州",
+      "cn": "美国",
+      "lang": ""
+     },
+     {
+      "name": "宾夕法尼亚州",
+      "cities": [
+       {
+        "pre": "哈里斯堡",
+        "short": "哈里斯堡",
+        "lat": 40.2732,
+        "lng": -76.8867,
+        "cards": [
+         {
+          "image": "USA9.jpg",
+          "note": "为宾州州花山月桂和州议会大厦"
+         }
+        ],
+        "region": "宾夕法尼亚州",
+        "cn": "美国",
+        "lang": ""
+       },
+       {
+        "pre": "费城",
+        "short": "费城",
+        "lat": 39.9526,
+        "lng": -75.1652,
+        "cards": [
+         {
+          "image": "USA8.jpg",
+          "note": "为贝琪·罗斯故居博物馆"
+         }
+        ],
+        "region": "宾夕法尼亚州",
+        "cn": "美国",
+        "lang": ""
+       }
+      ]
+     },
+     {
+      "pre": "康涅狄格州 米德尔菲尔德",
+      "short": "米德尔菲尔德",
+      "lat": 41.5212,
+      "lng": -72.7152,
+      "cards": [
+       {
+        "image": "USA7.jpg",
+        "note": "为格罗古"
+       }
+      ],
+      "region": "康涅狄格州",
+      "cn": "美国",
+      "lang": ""
+     },
+     {
+      "pre": "堪萨斯州 威奇托",
+      "short": "威奇托",
+      "lat": 37.6872,
+      "lng": -97.3301,
+      "cards": [
+       {
+        "image": "USA5.jpg",
+        "note": "为一种动物"
+       }
+      ],
+      "region": "堪萨斯州",
+      "cn": "美国",
+      "lang": ""
+     },
+     {
+      "pre": "佛罗里达州 迈尔斯堡",
+      "short": "迈尔斯堡",
+      "lat": 26.6403,
+      "lng": -81.8724,
+      "cards": [
+       {
+        "image": "USA4.jpg",
+        "note": "为[美国最小的邮政局](https://facts.usps.com/smallest-post-office/)，邮戳为该邮政局特殊邮戳"
+       }
+      ],
+      "region": "佛罗里达州",
+      "cn": "美国",
+      "lang": ""
+     }
+    ]
+   },
+   {
+    "name": "加拿大 英属哥伦比亚省 温哥华岛",
+    "entries": [
+     {
+      "pre": "加拿大 英属哥伦比亚省 温哥华岛",
+      "short": "温哥华岛",
+      "lat": 49.25,
+      "lng": -125.3,
+      "cards": [
+       {
+        "image": "Canada.jpg",
+        "note": "为该省西海岸"
+       }
+      ],
+      "region": "英属哥伦比亚省",
+      "cn": "加拿大",
+      "lang": ""
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "continent": "大洋洲",
+  "countries": [
+   {
+    "name": "澳大利亚",
+    "entries": [
+     {
+      "pre": "新南威尔士州 悉尼",
+      "short": "悉尼",
+      "lat": -33.8688,
+      "lng": 151.2093,
+      "cards": [
+       {
+        "image": "Australia3.jpg",
+        "note": ""
+       }
+      ],
+      "region": "新南威尔士州",
+      "cn": "澳大利亚",
+      "lang": ""
+     },
+     {
+      "name": "昆士兰州",
+      "cities": [
+       {
+        "pre": "布里斯班",
+        "short": "布里斯班",
+        "lat": -27.4698,
+        "lng": 153.0251,
+        "cards": [
+         {
+          "image": "Australia.jpg",
+          "note": "为布里斯班[故事桥]"
+         }
+        ],
+        "region": "昆士兰州",
+        "cn": "澳大利亚",
+        "lang": ""
+       }
+      ]
+     },
+     {
+      "pre": "格里菲斯",
+      "short": "格里菲斯",
+      "lat": -34.2886,
+      "lng": 146.0509,
+      "cards": [
+       {
+        "image": "Australia2.jpg",
+        "note": "为皇家防止虐待动物协会（RSPCA）成立150周年纪念主题极限明信片"
+       }
+      ],
+      "region": "新南威尔士州",
+      "cn": "澳大利亚",
+      "lang": ""
+     }
+    ]
+   }
+  ]
+ }
+]

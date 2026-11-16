@@ -39,3 +39,196 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* ==========================================================================
+   站主自定义样式
+   ========================================================================== */
+
+/* 明信片页：内嵌缩略图网格 + 点击灯箱（magnific-popup 由主题 JS 自动接管图片链接） */
+.postcards li img {
+  height: 130px;
+  width: auto;
+  margin: 4px 6px 2px 0;
+  border: 1px solid rgba(0, 0, 0, 0.09);
+  border-radius: 4px;
+  vertical-align: middle;
+  cursor: zoom-in;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.postcards li img:hover {
+  transform: scale(1.03);
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.22);
+}
+
+/* 明信片地图组件 */
+.pc-map-wrap {
+  margin: 2em 0;
+}
+
+.pc-map-title {
+  margin-bottom: 0.3em;
+}
+
+.pc-hint {
+  font-size: 0.85em;
+  opacity: 0.72;
+  margin-bottom: 0.6em;
+}
+
+.pc-country-bar {
+  display: flex;
+  flex-wrap: nowrap;
+  overflow-x: auto;
+  padding: 6px 2px;
+  margin-bottom: 10px;
+  -webkit-overflow-scrolling: touch;
+}
+
+.pc-continent {
+  flex: 0 0 auto;
+  margin-right: 16px;
+}
+
+.pc-continent-name {
+  font-weight: 700;
+  font-size: 0.85em;
+  margin-bottom: 6px;
+  opacity: 0.65;
+  white-space: nowrap;
+}
+
+.pc-continent-countries {
+  display: flex;
+  flex-wrap: nowrap;
+}
+
+.pc-country {
+  flex: 0 0 auto;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 6px 8px;
+  margin-right: 6px;
+  border: 1px solid rgba(0, 0, 0, 0.15);
+  border-radius: 8px;
+  background: #fff;
+  cursor: pointer;
+  font: inherit;
+}
+
+.pc-country img {
+  height: 64px;
+  width: auto;
+  border-radius: 4px;
+  margin-bottom: 4px;
+}
+
+.pc-country span {
+  font-size: 0.8em;
+  white-space: nowrap;
+}
+
+.pc-country:hover {
+  border-color: #F8E23B;
+  box-shadow: 0 1px 6px rgba(0, 0, 0, 0.15);
+}
+
+#pcmap {
+  width: 100%;
+  height: 520px;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+#pcmap svg {
+  display: block;
+}
+
+#pcPopup {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.55);
+  z-index: 9999;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+}
+
+#pcPopup[hidden] {
+  display: none;
+}
+
+.pc-popup-card {
+  position: relative;
+  background: #fff;
+  border-radius: 10px;
+  max-width: 720px;
+  width: auto;
+  min-width: 300px;
+  max-height: 86vh;
+  overflow: auto;
+  padding: 14px 16px;
+}
+
+.pc-popup-close {
+  position: absolute;
+  top: 8px;
+  right: 10px;
+  border: 0;
+  background: none;
+  font-size: 1.6em;
+  cursor: pointer;
+  line-height: 1;
+}
+
+.pc-popup-title {
+  font-weight: 700;
+  margin-bottom: 8px;
+  padding-right: 2em;
+}
+
+.pc-popup-body {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.pc-popup-card figure {
+  display: block;
+  margin: 0 3px 10px;
+  text-align: center;
+  width: auto;
+  max-width: 100%;
+}
+
+.pc-popup-body.pc-multi2 figure {
+  width: 47%;
+}
+
+.pc-popup-body.pc-multi3 figure {
+  width: 31%;
+}
+
+.pc-popup-card figure img {
+  display: inline-block;
+  max-width: 100%;
+  max-height: 62vh;
+  width: auto;
+  height: auto;
+  border-radius: 6px;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.pc-popup-card figcaption {
+  display: block;
+  margin: 6px auto 0;
+  font-size: 0.9em;
+  text-align: center;
+  max-width: 100%;
+}
