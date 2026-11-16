@@ -86,7 +86,6 @@ var PC_CITIES=[
 ];
 
 (function () {
-  var PC_ISO = {"印度尼西亚":"ID","日本":"JP","印度":"IN","韩国":"KR","泰国":"TH","伊朗":"IR","中国":"CN","意大利":"IT","荷兰":"NL","波兰":"PL","俄罗斯":"RU","德国":"DE","英国":"GB","西班牙":"ES","拉脱维亚":"LV","白俄罗斯":"BY","立陶宛":"LT","斯洛文尼亚":"SI","比利时":"BE","圣马力诺":"SM","乌克兰":"UA","芬兰":"FI","波黑":"BA","美国":"US","加拿大":"CA","澳大利亚":"AU"};
   // 国家按拼音 A-Z 排序
   var PC_CN_SORT = ['澳大利亚','白俄罗斯','比利时','波黑','波兰','德国','俄罗斯','芬兰','韩国','荷兰','加拿大','拉脱维亚','立陶宛','美国','日本','圣马力诺','斯洛文尼亚','泰国','乌克兰','西班牙','意大利','伊朗','印度','印度尼西亚','英国','中国'];
   function cnOrder(name) {
@@ -97,9 +96,12 @@ var PC_CITIES=[
   }
   var markers = [];
   var markerCity = [];
+  var PC_BY_COUNTRY = {};
   var i, c;
   for (i = 0; i < PC_CITIES.length; i++) {
     c = PC_CITIES[i];
+    if (!PC_BY_COUNTRY[c.country]) { PC_BY_COUNTRY[c.country] = []; }
+    PC_BY_COUNTRY[c.country].push(c);
     if (c.lat === null || c.lng === null) { continue; }
     markerCity.push(c);
     markers.push({ latLng: [c.lat, c.lng], name: c.name });
@@ -167,17 +169,38 @@ var PC_CITIES=[
     }
   } catch (err) {}
 
+  // 基于城市坐标 + Miller 投影计算聚焦(不依赖国家的SVG包围盒——美国/俄罗斯等跨国界路径的包围盒几乎覆盖全图)
+  var MAP_R = 6381372, MAP_CM = 11.5;
+  var MAP_X0 = -20004297.151525836, MAP_X1 = 20026572.394749384;
+  var MAP_Y0 = -12671671.123330014, MAP_Y1 = 6930392.025135122;
+  function latLngToFrac(lat, lng) {
+    var x = MAP_R * (lng - MAP_CM) * Math.PI / 180;
+    var y = -MAP_R * Math.log(Math.tan((45 + 0.4 * lat) * Math.PI / 180)) / 0.8;
+    return { fx: (x - MAP_X0) / (MAP_X1 - MAP_X0), fy: (y - MAP_Y0) / (MAP_Y1 - MAP_Y0) };
+  }
   function focusCountry(name) {
-    var iso = PC_ISO[name];
-    if (!iso) { return; }
-    if (iso === 'SM') {
-      // 圣马力诺: 微型国家, 按区域包围盒聚焦会过度放大, 用固定倍率定位
-      try { mapObj.setFocus(18, 0.50239, 0.37945); } catch (err) {}
-      return;
+    var arr = PC_BY_COUNTRY[name];
+    if (!arr) { return; }
+    var minX = 9, maxX = -9, minY = 9, maxY = -9, n = 0, k;
+    for (k = 0; k < arr.length; k++) {
+      if (arr[k].lat === null || arr[k].lng === null) { continue; }
+      var f = latLngToFrac(arr[k].lat, arr[k].lng);
+      if (f.fx < minX) { minX = f.fx; }
+      if (f.fx > maxX) { maxX = f.fx; }
+      if (f.fy < minY) { minY = f.fy; }
+      if (f.fy > maxY) { maxY = f.fy; }
+      n++;
     }
-    if (mapObj.regions && mapObj.regions[iso]) {
-      try { mapObj.setFocus(iso); } catch (err) {}
+    if (!n) { return; }
+    var cx = (minX + maxX) / 2, cy = (minY + maxY) / 2;
+    var fw = maxX - minX, fh = maxY - minY;
+    var scale = 18;
+    if (n > 1 && fw > 0.004 && fh > 0.004) {
+      scale = Math.min(0.85 / fw, 0.55 / fh);
+      if (scale < 1.6) { scale = 1.6; }
+      if (scale > 30) { scale = 30; }
     }
+    try { mapObj.setFocus(scale, cx, cy); } catch (err) {}
   }
 
   var byCont = {};
