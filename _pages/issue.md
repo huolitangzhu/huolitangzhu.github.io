@@ -1,5 +1,5 @@
 ---
-title:
+title: "站点说明"
 permalink: /issue/
 author_profile: true
 ---
