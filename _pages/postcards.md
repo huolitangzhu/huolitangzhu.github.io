@@ -1,5 +1,5 @@
 ---
-title: "明信片问候"
+title: "明信片地图"
 permalink: /postcards/
 author_profile: true
 ---
@@ -10,7 +10,7 @@ author_profile: true
 <script src="/assets/js/jvectormap/jquery-jvectormap-world-mill.js"></script>
 
 <div class="pc-map-wrap">
-  <h2 class="pc-map-title">明信片地图</h2>
+  <h2 class="pc-map-title"></h2>
   <div class="pc-hint">点击菜单里的国家定位该区域 · 点击地图上的黄点查看明信片与说明 · 滚轮可缩放</div>
   <div class="pc-layout">
     <nav class="pc-menu" id="pcMenu"></nav>
