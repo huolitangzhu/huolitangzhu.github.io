@@ -55,10 +55,11 @@ redirect_from:
 
 ## 音频
 
-* 《我是真的爱上你》— 翻唱 · 演唱：主播 — [网易云](https://music.163.com/#/song?id=1877540723)
-* 《鹏将行》— 二创填词《盗将行》· 原唱：虚拟歌姬星尘 · 填词：站长本人 — [鱼吧](https://yuba.douyu.com/p/593050641622217731)
-  * 主播直播翻唱版 · 制作：幕一cc — [斗鱼](https://v.douyu.com/show/wLjGvLZPeexMmO90)
-* 《猪猪》— 原创 · 演唱：鱼子酱 — [网易云](https://music.163.com/#/song?id=1994572467)
+* [《我是真的爱上你》](https://music.163.com/#/song?id=1877540723)：主播本人翻唱
+* 《鹏将行》：站长本人二创填词《盗将行》
+  * [虚拟歌姬星尘演唱版](https://yuba.douyu.com/p/593050641622217731) 
+  * [幕一cc直播翻唱版](https://v.douyu.com/show/wLjGvLZPeexMmO90)
+* [《猪猪》](https://music.163.com/#/song?id=1994572467)：鱼子酱原创 
 
 ## 同人小说
 
