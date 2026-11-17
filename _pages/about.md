@@ -25,7 +25,7 @@ redirect_from:
 
 ## 站长活动
 
-* 获得建站以来**第一笔赞助**之来自主播总榜[[苦瓜哥]](https://yuba.douyu.com/member/JGdyeWn1bdXy/main)的[食物投喂](/images/about/with苦瓜.jpg)
+* 获得建站以来**第一笔赞助**之来自主播总榜[苦瓜哥](https://yuba.douyu.com/member/JGdyeWn1bdXy/main)的[食物投喂](/images/about/with苦瓜.jpg)
 * 携带主播表情包观赏故乡のSakura [[图片](/images/about/Sakura_24.png)]
 * 携带主播表情包观看2023年大阪悠悠球世界赛 [[现场合影](/images/news/2023WYYC.PNG)]
 * 从世界各地获得的祝福[**明信片**](https://huolitangzhu.github.io/postcards/)，均送达主播
