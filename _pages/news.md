@@ -494,7 +494,7 @@ author_profile: true
 
 ### <span id="head201808"> 8月</span>
 
-* [上海] 赞助和唯一官方直播[悠悠球世界赛](http://wyyc2018.com/details/id/618.html) [[火力组合影]](/images/news/2018WYYC.jpg)
+* [上海] 赞助和唯一官方直播[悠悠球世界赛](http://wyyc2018.com/supporters/) [[火力组合影]](/images/news/2018WYYC.jpg)
 
 ### <span id="head201803"> 3月</span>
 
