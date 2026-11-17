@@ -31,7 +31,6 @@ redirect_from:
 - 经典女嘉宾
     - [你是我穷极一生到不了的天堂](https://yuba.douyu.com/p/392852661591064413) with 张姐
     - [爱的飞行日记](https://yuba.douyu.com/p/765192541611244940) with 舒舒
-- 火力公寓：[1](https://www.bilibili.com/video/BV1nL4y157SS) · [2](https://www.bilibili.com/video/BV1NY411E7NL) · [3](https://www.bilibili.com/video/BV1w34y1i7h9) · [4](https://www.bilibili.com/video/BV1Zr4y1s7qG)
 - 火力堂主和他的小伙伴们：[1](https://www.bilibili.com/video/BV1bW411W7nX) · [2](https://www.bilibili.com/video/BV1bW411W7ni) · [3](https://www.bilibili.com/video/BV1CW411W7eR) · [4](https://www.bilibili.com/video/BV1CW411W7vu) · [5](https://www.bilibili.com/video/BV1CW411W7as) · [6](https://www.bilibili.com/video/BV1CW411W7Y5) · [7](https://www.bilibili.com/video/BV1CW411W7F9) · [8](https://www.bilibili.com/video/BV1kW411W7ah) 
 
 ### 悠悠球合辑 

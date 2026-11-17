@@ -287,7 +287,7 @@ author_profile: true
 
 ### <span id="head202302"> 2月</span>
 
-* [新疆] 滑雪 [[荷兰悍匪]](https://wx3.sinaimg.cn/mw690/005wBK3Xly1hbdxt9q52ij32c0340u0x.jpg)
+* [新疆] 滑雪 [[荷兰悍匪](/images/news/202202新疆.jpg)
 * [西安] 火力台球全国行第二站
 
 ### <span id="head202301"> 1月</span>
@@ -451,7 +451,7 @@ author_profile: true
 
 ### <span id="head202008"> 8月</span>
 
-* [厦门] 和舒舒户外之[贝母](https://www.bulgari.cn/zh-cn/350581-e.html)挂件
+* [厦门] 和舒舒户外之贝母挂件
 * [杭州] 和张曼希户外之带货首秀
 
 ### <span id="head202007"> 7月</span>
@@ -498,7 +498,7 @@ author_profile: true
 
 ### <span id="head201803"> 3月</span>
 
-* [广州] 出演及参加制作火力少年王第五部之[《悠风三少年》](https://baike.baidu.com/item/%E7%81%AB%E5%8A%9B%E5%B0%91%E5%B9%B4%E7%8E%8B%E4%B9%8B%E6%82%A0%E9%A3%8E%E4%B8%89%E5%B0%91%E5%B9%B4/22172988)，饰演“大金链子” [[自卖自夸]](https://weibo.com/tv/show/1034:96c5ace859f14197b0d8de34cf831f57)
+* [广州] 出演及参加制作火力少年王第五部之《悠风三少年》，饰演“大金链子” [[自卖自夸]](https://weibo.com/tv/show/1034:96c5ace859f14197b0d8de34cf831f57)
 
 
 </details>
@@ -513,7 +513,7 @@ author_profile: true
 
 ### <span id="head20170x"> ?月</span>
 
-* [广州] 参加制作火力少年王第六部之[《悠拳英雄》](https://baike.baidu.com/item/%E7%81%AB%E5%8A%9B%E5%B0%91%E5%B9%B4%E7%8E%8B%E4%B9%8B%E6%82%A0%E6%8B%B3%E8%8B%B1%E9%9B%84/19932530)
+* [广州] 参加制作火力少年王第六部之《悠拳英雄》
 
 
 </details>
@@ -547,7 +547,7 @@ author_profile: true
 
 ### <span id="head201507"> 7月</span>
 
-* [青岛] ~~带领~~Team干制霸和直播CYCC悠悠球全国赛 [[直播截图]](/images/news/2015CYYC直播.jpg) [[合影]](/images/news/2015CYYC.jpg) [[比赛视频]](https://www.bilibili.com/video/BV1wL4y1i742/?p=4) [[赛后视频]](https://v.qq.com/x/page/o0175e9ce3a.html)
+* [青岛] ~~带领~~Team干制霸和直播CYCC悠悠球全国赛 [[直播截图]](/images/news/2015CYYC直播.jpg) [[合影]](/images/news/2015CYYC.jpg) [[比赛视频]](https://www.bilibili.com/video/BV1wL4y1i742/?p=4)
 
 ### <span id="head201506"> 6月</span>
 
@@ -583,7 +583,7 @@ author_profile: true
 <summary><span id="head2011"> 2011年 </span></summary>
 
 
-* [广州/深圳] 参加制作《火力少年王》第四部之[《舞动火力》](https://baike.baidu.com/item/%E7%81%AB%E5%8A%9B%E5%B0%91%E5%B9%B4%E7%8E%8B%E4%B9%8B%E8%88%9E%E5%8A%A8%E7%81%AB%E5%8A%9B/2409871)
+* [广州/深圳] 参加制作《火力少年王》第四部之《舞动火力》
 
 
 </details>
