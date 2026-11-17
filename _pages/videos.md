@@ -27,8 +27,8 @@ author_profile: true
 
 ### 参演作品
 
-- 校园栏目剧《青春魔方》之[爱情麻辣烫](https://v.youku.com/v_show/id_XMTUyMTgzNDg4.html) 
-- 电影[废柴联盟](https://www.iqiyi.com/v_19rr3kbmys.html)
+- 校园栏目剧《青春魔方》之[《爱情麻辣烫》](https://v.youku.com/v_show/id_XMTUyMTgzNDg4.html) 
+- 电影[《废柴联盟》](https://www.iqiyi.com/v_19rr3kbmys.html)
 
 ### 火力公寓系列 by 傲慢o与o偏见
 
@@ -61,9 +61,9 @@ author_profile: true
 ## 音频
 
 - [我是真的爱上你（翻唱）](https://music.163.com/#/song?id=1877540723) by 主播 
-- [鹏将行（Cover：星尘）](https://yuba.douyu.com/p/593050641622217731) by 我
+- [鹏将行（Cover：星尘）](https://yuba.douyu.com/p/593050641622217731) by 站长本人（二创填词《盗将行》）
     - [直播翻唱](https://v.douyu.com/show/wLjGvLZPeexMmO90) by 幕一cc 
-- [猪猪（原创）](https://music.163.com/#/song?id=1994572467) by 鱼子酱
+- [猪猪](https://music.163.com/#/song?id=1994572467) by 鱼子酱（原创）
 
 ## 小说
 
