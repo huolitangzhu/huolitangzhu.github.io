@@ -1,6 +1,6 @@
 ---
 permalink: /news/
-title: "时间表"
+title: "大事记"
 author_profile: true
 ---
 
@@ -456,7 +456,7 @@ author_profile: true
 
 ### <span id="head202007"> 7月</span>
 
-* [西藏] 户外之巨变开始 [[宣传片]](https://huolitangzhu.github.io/videos/)
+* [西藏] 户外之巨变开始 [[宣传片]](https://huolitangzhu.github.io/media/)
 
 ### <span id="head202005"> 5月</span>
 
@@ -471,7 +471,7 @@ author_profile: true
 
 ### <span id="head201912"> 12月</span>
 
-* [偃师] 参加[央视《黄金一百秒》](https://huolitangzhu.github.io/videos/)
+* [偃师] 参加[央视《黄金一百秒》](https://huolitangzhu.github.io/media/)
 
 ### <span id="head201908"> 8月</span>
 
@@ -509,7 +509,7 @@ author_profile: true
 
 ### <span id="head201707"> 7月</span>
 
-* [广州] ~~带领~~Team干制霸CYCC悠悠球全国赛 [[合影]](/images/news/2017CYYC.jpg) [[直播录像]](https://huolitangzhu.github.io/videos/)
+* [广州] ~~带领~~Team干制霸CYCC悠悠球全国赛 [[合影]](/images/news/2017CYYC.jpg) [[直播录像]](https://huolitangzhu.github.io/media/)
 
 ### <span id="head20170x"> ?月</span>
 
@@ -551,7 +551,7 @@ author_profile: true
 
 ### <span id="head201506"> 6月</span>
 
-* [北京] 主持[火力少年王电视争霸赛](https://huolitangzhu.github.io/videos/)央视播出 [[幕后照]](/images/news/争霸赛幕后.jpg)，教欧豪玩球[[图片]](/images/news/欧豪.jpg)
+* [北京] 主持[火力少年王电视争霸赛](https://huolitangzhu.github.io/media/)央视播出 [[幕后照]](/images/news/争霸赛幕后.jpg)，教欧豪玩球[[图片]](/images/news/欧豪.jpg)
 
 ### <span id="head201502"> 2月</span>
 
@@ -601,7 +601,7 @@ author_profile: true
 <summary><span id="head2008"> 2008年 </span></summary>
 
 
-* [北影] 参演校园栏目剧《青春魔方》之[《爱情麻辣烫》](https://huolitangzhu.github.io/videos/)，饰演‘三儿’
+* [北影] 参演校园栏目剧《青春魔方》之[《爱情麻辣烫》](https://huolitangzhu.github.io/media/)，饰演‘三儿’
 
 
 </details>

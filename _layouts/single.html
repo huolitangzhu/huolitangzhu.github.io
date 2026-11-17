@@ -25,6 +25,7 @@ layout: default
 
     <div class="page__inner-wrap">
       {% unless page.header.overlay_color or page.header.overlay_image %}
+        {% if page.title or page.read_time or page.modified or page.date or page.citation %}
         <header>
           {% if page.title %}<h1 class="page__title" itemprop="headline">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</h1>{% endif %}
           {% if page.read_time %}
@@ -50,6 +51,7 @@ layout: default
         {% endif %}
     
         </header>
+        {% endif %}
       {% endunless %}
 
       <section class="page__content" itemprop="text">

@@ -4,11 +4,11 @@ main:
   - title: "介绍"
     url: /
 
-  - title: "时间表"
+  - title: "大事记"
     url: /news/
 
   - title: "影音"
-    url: /videos/
+    url: /media/
 
   - title: "明信片"
     url: /postcards/

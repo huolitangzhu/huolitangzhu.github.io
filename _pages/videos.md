@@ -1,7 +1,10 @@
 ---
 title: "影音合辑"
-permalink: /videos/
+permalink: /media/
 author_profile: true
+redirect_from:
+  - /videos/
+  - /videos.html
 ---
 
 ## 视频
