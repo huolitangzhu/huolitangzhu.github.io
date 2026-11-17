@@ -30,13 +30,91 @@ author_profile: true
     - [ 1901年 ](#head1901) · 慈禧西狩归京路过洛阳赵家
 
 
+
+
+
+<!-- 地点筛选原型 -->
+<div class="news-loc-filter">
+  <div style="font-size:.85em;opacity:.7;margin-bottom:6px">按地点筛选（红=河南本地 · 蓝=国内其他 · 绿=日本，仅统计出现次数 ≥ 2 的城市）：</div>
+  <div class="nl-buttons">
+<button type="button" class="nl-btn" data-loc="洛阳"><span class="nl-dot" style="background:#d9534f"></span>洛阳 <small>(39)</small></button>
+<button type="button" class="nl-btn" data-loc="武汉"><span class="nl-dot" style="background:#5bc0de"></span>武汉 <small>(14)</small></button>
+<button type="button" class="nl-btn" data-loc="长沙"><span class="nl-dot" style="background:#5bc0de"></span>长沙 <small>(14)</small></button>
+<button type="button" class="nl-btn" data-loc="重庆"><span class="nl-dot" style="background:#5bc0de"></span>重庆 <small>(12)</small></button>
+<button type="button" class="nl-btn" data-loc="上海"><span class="nl-dot" style="background:#5bc0de"></span>上海 <small>(10)</small></button>
+<button type="button" class="nl-btn" data-loc="广州"><span class="nl-dot" style="background:#5bc0de"></span>广州 <small>(7)</small></button>
+<button type="button" class="nl-btn" data-loc="西安"><span class="nl-dot" style="background:#5bc0de"></span>西安 <small>(5)</small></button>
+<button type="button" class="nl-btn" data-loc="杭州"><span class="nl-dot" style="background:#5bc0de"></span>杭州 <small>(5)</small></button>
+<button type="button" class="nl-btn" data-loc="南昌"><span class="nl-dot" style="background:#5bc0de"></span>南昌 <small>(5)</small></button>
+<button type="button" class="nl-btn" data-loc="郑州"><span class="nl-dot" style="background:#d9534f"></span>郑州 <small>(5)</small></button>
+<button type="button" class="nl-btn" data-loc="三亚"><span class="nl-dot" style="background:#5bc0de"></span>三亚 <small>(4)</small></button>
+<button type="button" class="nl-btn" data-loc="北京"><span class="nl-dot" style="background:#5bc0de"></span>北京 <small>(4)</small></button>
+<button type="button" class="nl-btn" data-loc="深圳"><span class="nl-dot" style="background:#5bc0de"></span>深圳 <small>(3)</small></button>
+<button type="button" class="nl-btn" data-loc="大阪"><span class="nl-dot" style="background:#5cb85c"></span>大阪 <small>(4)</small></button>
+<button type="button" class="nl-btn" data-loc="成都"><span class="nl-dot" style="background:#5bc0de"></span>成都 <small>(3)</small></button>
+<button type="button" class="nl-btn" data-loc="开封"><span class="nl-dot" style="background:#d9534f"></span>开封 <small>(2)</small></button>
+<button type="button" class="nl-btn" data-loc="阿勒泰"><span class="nl-dot" style="background:#5bc0de"></span>阿勒泰 <small>(3)</small></button>
+<button type="button" class="nl-btn" data-loc="香港"><span class="nl-dot" style="background:#5bc0de"></span>香港 <small>(2)</small></button>
+<button type="button" class="nl-btn" data-loc="南京"><span class="nl-dot" style="background:#5bc0de"></span>南京 <small>(2)</small></button>
+<button type="button" class="nl-btn" data-loc="青岛"><span class="nl-dot" style="background:#5bc0de"></span>青岛 <small>(2)</small></button>
+<button type="button" class="nl-btn" data-loc="__ALL__"><span class="nl-dot" style="background:#888"></span>全部</button>
+  </div>
+  <div class="nl-status" id="nlStatus"></div>
+</div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  var btns = document.querySelectorAll('.nl-btn');
+  var status = document.getElementById('nlStatus');
+  var details = document.querySelectorAll('details.news-year');
+  var items = [];
+  for (var d = 0; d < details.length; d++) {
+    var lis = details[d].querySelectorAll('li');
+    for (var i = 0; i < lis.length; i++) {
+      if ((lis[i].textContent || '').indexOf('[') >= 0) items.push(lis[i]);
+    }
+  }
+  var active = '__ALL__';
+  function apply() {
+    var shown = 0;
+    for (var j = 0; j < items.length; j++) {
+      var txt = items[j].textContent || '';
+      var match = (active === '__ALL__') || txt.indexOf('[' + active + ']') >= 0;
+      items[j].style.display = match ? '' : 'none';
+      if (match) shown++;
+    }
+    for (var d = 0; d < details.length; d++) {
+      var visible = details[d].querySelectorAll('li');
+      var any = false;
+      for (var i = 0; i < visible.length; i++) {
+        if ((visible[i].textContent || '').indexOf('[') < 0) continue;
+        if (visible[i].style.display !== 'none') { any = true; break; }
+      }
+      details[d].style.display = any ? '' : 'none';
+    }
+    for (var k = 0; k < btns.length; k++) {
+      btns[k].style.outline = (btns[k].getAttribute('data-loc') === active) ? '2px solid #F8E23B' : '';
+    }
+    status.textContent = active === '__ALL__'
+      ? ''
+      : '当前显示 [' + active + '] 的 ' + shown + ' 条事件（再点一次取消）';
+  }
+  for (var n = 0; n < btns.length; n++) {
+    btns[n].addEventListener('click', function () {
+      var loc = this.getAttribute('data-loc');
+      active = (active === loc) ? '__ALL__' : loc;
+      apply();
+    });
+  }
+});
+</script>
 <details class="news-year" markdown="1" open>
 <summary><span id="head2026"> 2026年之“<a href="/images/news/2026_theme.jpg">重建</a>” </span></summary>
 
 
 ### <span id="head202611"> 11月</span>
 
-* [日本] 度蜜月并拍摄VLOG转型视频博主
+* [大阪] 度蜜月并拍摄VLOG转型视频博主
 
 ### <span id="head202610"> 10月</span>
 
@@ -147,7 +225,7 @@ author_profile: true
 
 ### <span id="head202502"> 2月</span>
 
-* [偃师] 参加台球厅比赛并进入24强
+* [洛阳] 参加台球厅比赛并进入24强
 
 ### <span id="head202501"> 1月</span>
 
@@ -179,14 +257,14 @@ author_profile: true
 ### <span id="head202409"> 9月</span>
 
 * [武汉] 参加鱼皇团播
-* [偃师] 火力自驾游：偃师-西安-成都-重庆-武汉
-* [日本大阪] 在路上偶遇前直播搭档骆歆
+* [洛阳] 火力自驾游：偃师-西安-成都-重庆-武汉
+* [大阪] 在路上偶遇前直播搭档骆歆
 
 ### <span id="head202408"> 8月</span>
 
-* [日本大阪] 故乡的夏日祭开始了
+* [大阪] 故乡的夏日祭开始了
 * [大连] 参加户外官方节目《她们的冒险》
-* [偃师] 暑假时间之单排王者，解说奥运会
+* [洛阳] 暑假时间之单排王者，解说奥运会
 
 ### <span id="head202407"> 7月</span>
 
@@ -216,11 +294,11 @@ author_profile: true
 
 ### <span id="head202402"> 2月</span>
 
-* [偃师] 寒假时间
+* [洛阳] 寒假时间
 
 ### <span id="head202401"> 1月</span>
 
-* [偃师] 寒假时间
+* [洛阳] 寒假时间
 * [重庆] 参加757基地团播
 		
 
@@ -254,7 +332,7 @@ author_profile: true
 ### <span id="head202308"> 8月</span>
 
 * [贵州] 参加斗鱼户外《野王的加冕4》官方活动
-* [日本大阪] 以表情包形式参加观看WYYC悠悠球世界赛 [[本站站长现场合影]](/images/news/2023WYYC.PNG)
+* [大阪] 以表情包形式参加观看WYYC悠悠球世界赛 [[本站站长现场合影]](/images/news/2023WYYC.PNG)
 * [长沙] 参加斗鱼和工会合办户外活动《奶团再出发》 [[鱼吧]](https://yuba.douyu.com/p/127517921692007205)
 * [重庆] 参加斗鱼户外《人生赢家》官方活动 [[鱼吧]](https://yuba.douyu.com/p/226649511691777618)
 
@@ -264,7 +342,7 @@ author_profile: true
 
 ### <span id="head202306"> 6月</span>
 
-* [新疆] 参加斗鱼户外《新疆一家人》官方活动
+* [阿勒泰] 参加斗鱼户外《新疆一家人》官方活动
 * [日本大阪/福冈] 家乡的撒库拉时隔三年又开了 [[鱼吧海报]](https://img.douyucdn.cn/data/yuba/default/2023/06/04/202306042325579646734024913.1440x0.jpg)
 
 ### <span id="head202305"> 5月</span>
@@ -287,7 +365,7 @@ author_profile: true
 
 ### <span id="head202302"> 2月</span>
 
-* [新疆] 滑雪 [[荷兰悍匪](/images/news/202202新疆.jpg)
+* [阿勒泰] 滑雪 [[荷兰悍匪](/images/news/202202新疆.jpg)
 * [西安] 火力台球全国行第二站
 
 ### <span id="head202301"> 1月</span>
@@ -379,7 +457,7 @@ author_profile: true
 ### <span id="head202110"> 10月</span>
 
 * [南京] 参加斗鱼大型美食直播综艺《恰饱了，主播》 [[鱼吧]](https://yuba.douyu.com/p/331435801634211880) [[水友作诗《赴金陵》]](https://yuba.douyu.com/p/968451161634198732)
-* [偃师] 喜提超级粉丝团第一名，上大分啦💃💃💃💃happy！[[我们是冠军]](https://img.douyucdn.cn/data/yuba/default/2021/10/11/202110110002302796871568299.jpg)
+* [洛阳] 喜提超级粉丝团第一名，上大分啦💃💃💃💃happy！[[我们是冠军]](https://img.douyucdn.cn/data/yuba/default/2021/10/11/202110110002302796871568299.jpg)
 
 ### <span id="head202109"> 9月</span>
 
@@ -427,7 +505,7 @@ author_profile: true
 
 ### <span id="head202102"> 2月</span>
 
-* [偃师] 和兰总轮椅之牛肉酱“外交” [[主播推荐]](https://yuba.douyu.com/p/569135721613732485) 
+* [洛阳] 和兰总轮椅之牛肉酱“外交” [[主播推荐]](https://yuba.douyu.com/p/569135721613732485) 
 
 ### <span id="head202101"> 1月</span>
 
@@ -471,7 +549,7 @@ author_profile: true
 
 ### <span id="head201912"> 12月</span>
 
-* [偃师] 参加[央视《黄金一百秒》](https://huolitangzhu.github.io/media/)
+* [洛阳] 参加[央视《黄金一百秒》](https://huolitangzhu.github.io/media/)
 
 ### <span id="head201908"> 8月</span>
 

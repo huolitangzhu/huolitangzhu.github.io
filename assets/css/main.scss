@@ -262,3 +262,25 @@
 .news-year[open] > summary {
   margin-bottom: 0.6em;
 }
+/* === 地点筛选原型 === */
+.news-loc-filter { margin: 1.2em 0; }
+.nl-buttons { display: flex; flex-wrap: wrap; }
+.nl-btn {
+  display: inline-flex; align-items: center;
+  margin: 0 5px 6px 0; padding: 3px 8px;
+  border: 1px solid rgba(0,0,0,.15); border-radius: 14px;
+  background: #fff; cursor: pointer; font: inherit; font-size: .85em;
+}
+.nl-btn:hover { border-color: #F8E23B; }
+.nl-btn small { opacity: .55; margin-left: 2px; }
+.nl-dot { width: 8px; height: 8px; border-radius: 50%; margin-right: 5px; display: inline-block; }
+
+/* 侧边栏社媒品牌 logo */
+.social-logo {
+  width: 1.2857em;
+  height: 1em;
+  display: inline-block;
+  vertical-align: -0.15em;
+  margin-right: 0.15em;
+  fill: currentColor;
+}
