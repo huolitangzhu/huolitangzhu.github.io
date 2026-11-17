@@ -1,13 +1,13 @@
 # main links links
 main:
 
-  - title: "介绍"
+  - title: "首页"
     url: /
 
   - title: "大事记"
     url: /news/
 
-  - title: "影音"
+  - title: "剪辑二创"
     url: /media/
 
   - title: "明信片"
@@ -15,9 +15,6 @@ main:
 
   - title: "正能量"
     url: /positive_energy/
-
-  - title: "日本旅行"
-    url: /jpn_travel/
 
   - title: "关于小站"
     url: /issue/

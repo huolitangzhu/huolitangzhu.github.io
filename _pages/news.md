@@ -47,13 +47,13 @@ author_profile: true
 <button type="button" class="nl-btn" data-loc="杭州"><span class="nl-dot" style="background:#5bc0de"></span>杭州 <small>(5)</small></button>
 <button type="button" class="nl-btn" data-loc="南昌"><span class="nl-dot" style="background:#5bc0de"></span>南昌 <small>(5)</small></button>
 <button type="button" class="nl-btn" data-loc="郑州"><span class="nl-dot" style="background:#d9534f"></span>郑州 <small>(5)</small></button>
+<button type="button" class="nl-btn" data-loc="大阪"><span class="nl-dot" style="background:#5cb85c"></span>大阪 <small>(4)</small></button>
 <button type="button" class="nl-btn" data-loc="三亚"><span class="nl-dot" style="background:#5bc0de"></span>三亚 <small>(4)</small></button>
 <button type="button" class="nl-btn" data-loc="北京"><span class="nl-dot" style="background:#5bc0de"></span>北京 <small>(4)</small></button>
+<button type="button" class="nl-btn" data-loc="阿勒泰"><span class="nl-dot" style="background:#5bc0de"></span>阿勒泰 <small>(3)</small></button>
 <button type="button" class="nl-btn" data-loc="深圳"><span class="nl-dot" style="background:#5bc0de"></span>深圳 <small>(3)</small></button>
-<button type="button" class="nl-btn" data-loc="大阪"><span class="nl-dot" style="background:#5cb85c"></span>大阪 <small>(4)</small></button>
 <button type="button" class="nl-btn" data-loc="成都"><span class="nl-dot" style="background:#5bc0de"></span>成都 <small>(3)</small></button>
 <button type="button" class="nl-btn" data-loc="开封"><span class="nl-dot" style="background:#d9534f"></span>开封 <small>(2)</small></button>
-<button type="button" class="nl-btn" data-loc="阿勒泰"><span class="nl-dot" style="background:#5bc0de"></span>阿勒泰 <small>(3)</small></button>
 <button type="button" class="nl-btn" data-loc="香港"><span class="nl-dot" style="background:#5bc0de"></span>香港 <small>(2)</small></button>
 <button type="button" class="nl-btn" data-loc="南京"><span class="nl-dot" style="background:#5bc0de"></span>南京 <small>(2)</small></button>
 <button type="button" class="nl-btn" data-loc="青岛"><span class="nl-dot" style="background:#5bc0de"></span>青岛 <small>(2)</small></button>
