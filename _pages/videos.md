@@ -6,37 +6,30 @@ author_profile: true
 
 ## 视频
 
-### 直播时代 by dreamover1010
-
-- [上集](https://www.bilibili.com/video/BV1os411A79R)
-- 等待下集 
-
-### 花永神系列 by 花邪v
-
-- [等一颗生产中的喜糖](https://yuba.douyu.com/p/448752261716460672) with 西西
-- [好妹妹图鉴3](https://v.douyu.com/show/JmbBMkbnj4Q740XA) with 多人运动
-- [赵美琴](https://www.bilibili.com/video/bv13w411d7CY) with 张姐  
-- [好妹妹图鉴2](https://yuba.douyu.com/p/946137141610386419) with 多人运动
-- [好妹妹图鉴1](https://yuba.douyu.com/p/198854931586759899) with 多人运动
-- [巨变](https://www.bilibili.com/video/BV1Lt4y1D734) with 241123
-
-### 女嘉宾经典
-
-- [你是我穷极一生到不了的天堂](https://yuba.douyu.com/p/392852661591064413) with 张姐
-- [爱的飞行日记](https://yuba.douyu.com/p/765192541611244940) with 舒舒
-
 ### 参演作品
 
 - 校园栏目剧《青春魔方》之[《爱情麻辣烫》](https://v.youku.com/v_show/id_XMTUyMTgzNDg4.html) 
 - 电影[《废柴联盟》](https://www.iqiyi.com/v_19rr3kbmys.html)
+- 电视剧《火力少年王之悠风三少年》
 
-### 火力公寓系列 by 傲慢o与o偏见
+### 纪录片
 
-- [1](https://www.bilibili.com/video/BV1nL4y157SS) · [2](https://www.bilibili.com/video/BV1NY411E7NL) · [3](https://www.bilibili.com/video/BV1w34y1i7h9) · [4](https://www.bilibili.com/video/BV1Zr4y1s7qG) 
+- 直播时代：[上集](https://www.bilibili.com/video/BV1os411A79R) · 等待下集
+ 
+### 直播切片二创
 
-### 火力堂主和他的小伙伴们系列 by longer229
-
-- [1](https://www.bilibili.com/video/BV1bW411W7nX) · [2](https://www.bilibili.com/video/BV1bW411W7ni) · [3](https://www.bilibili.com/video/BV1CW411W7eR) · [4](https://www.bilibili.com/video/BV1CW411W7vu) · [5](https://www.bilibili.com/video/BV1CW411W7as) · [6](https://www.bilibili.com/video/BV1CW411W7Y5) · [7](https://www.bilibili.com/video/BV1CW411W7F9) · [8](https://www.bilibili.com/video/BV1kW411W7ah) 
+- 花永神系列 by 花邪v
+    - [等一颗生产中的喜糖](https://yuba.douyu.com/p/448752261716460672) with 西西
+    - [好妹妹图鉴3](https://v.douyu.com/show/JmbBMkbnj4Q740XA) with 多人运动
+    - [赵美琴](https://www.bilibili.com/video/bv13w411d7CY) with 张姐  
+    - [好妹妹图鉴2](https://yuba.douyu.com/p/946137141610386419) with 多人运动
+    - [好妹妹图鉴1](https://yuba.douyu.com/p/198854931586759899) with 多人运动
+    - [巨变](https://www.bilibili.com/video/BV1Lt4y1D734) with 241123
+- 经典女嘉宾
+    - [你是我穷极一生到不了的天堂](https://yuba.douyu.com/p/392852661591064413) with 张姐
+    - [爱的飞行日记](https://yuba.douyu.com/p/765192541611244940) with 舒舒
+- 火力公寓：[1](https://www.bilibili.com/video/BV1nL4y157SS) · [2](https://www.bilibili.com/video/BV1NY411E7NL) · [3](https://www.bilibili.com/video/BV1w34y1i7h9) · [4](https://www.bilibili.com/video/BV1Zr4y1s7qG)
+- 火力堂主和他的小伙伴们：[1](https://www.bilibili.com/video/BV1bW411W7nX) · [2](https://www.bilibili.com/video/BV1bW411W7ni) · [3](https://www.bilibili.com/video/BV1CW411W7eR) · [4](https://www.bilibili.com/video/BV1CW411W7vu) · [5](https://www.bilibili.com/video/BV1CW411W7as) · [6](https://www.bilibili.com/video/BV1CW411W7Y5) · [7](https://www.bilibili.com/video/BV1CW411W7F9) · [8](https://www.bilibili.com/video/BV1kW411W7ah) 
 
 ### 悠悠球合辑 
 
